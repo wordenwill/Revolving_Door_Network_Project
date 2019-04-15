@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Winning Strategies Washington</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>409 7TH STREET, NW</address1>
+  <address2>SUITE 450</address2>
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20004</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Government Relations </registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>I AM ALS</clientName>
+  <clientAddress>155 N. Wacker Drive, Suite 2700</clientAddress>
+  <clientCity>Chicago</clientCity>
+  <clientState>IL</clientState>
+  <clientZip>60606</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>patient advocacy</clientGeneralDescription>
+  <senateID>50796</senateID>
+  <houseID>347240201</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Nancy </lobbyistFirstName>
+      <lobbyistLastName>Fox</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Staff Director House Appropriations Committee, Chief of Staff Rep. Rodney Frelinghuysen (NJ)
+Scheduler Rep. Marge Roukema (NJ), Scheduler Rep. Silvio O. Conte (MA)
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Molly</lobbyistFirstName>
+      <lobbyistLastName>McDonnell</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>LC/LA/Senior Health Policy Advisor; Congressman Leonard Lance</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Michael </lobbyistFirstName>
+      <lobbyistLastName>Merola</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Deputy CoS, Sen. Torricelli</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Charla</lobbyistFirstName>
+      <lobbyistLastName>Penn</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>LA, Rep. Pascrell; SA/LC/LA, Rep. Boyd</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Donna</lobbyistFirstName>
+      <lobbyistLastName>Mullins</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>CoS/Approps Staff, Rep. Frelinghuysen and Rep. Dean Gallo; CoS Senator Chiesa</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>BUD</ali_Code>
+    <ali_Code>HCR</ali_Code>
+    <ali_Code>MED</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>secure funding and promote policies that support ALS research </specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>2/1/2019</effectiveDate>
+  <printedName>Michael Merola, Partner</printedName>
+  <signedDate>2/21/2019 9:20:56 AM</signedDate>
+</LOBBYINGDISCLOSURE1>

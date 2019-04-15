@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>LFA HOLDINGS INC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>1616 H Street NW Ste 204`</address1>
+  <address2>
+  </address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20006</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>Washington </principal_city>
+  <principal_state>DC</principal_state>
+  <principal_zip>20006</principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>USA</principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Lobbyist</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>African Immigrant Services</clientName>
+  <clientAddress>7710 Brooklyn BLVD Ste 206B</clientAddress>
+  <clientCity>Brooklyn Park</clientCity>
+  <clientState>MN</clientState>
+  <clientZip>55443</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>Brooklyn Park</prinClientCity>
+  <prinClientState>MN</prinClientState>
+  <prinClientZip>55443</prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>USA</prinClientCountry>
+  <clientGeneralDescription>H.R 6 The Dream and Promise Act, Liberian Citizens</clientGeneralDescription>
+  <senateID>401105163</senateID>
+  <houseID>443010001</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Luis</lobbyistFirstName>
+      <lobbyistLastName>Aleman</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>CEO</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Alejandra </lobbyistFirstName>
+      <lobbyistLastName>Reyes</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Vice President</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>IMM</ali_Code>
+    <ali_Code>CIV</ali_Code>
+    <ali_Code>GOV</ali_Code>
+    <ali_Code>HOM</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>The Dream and Protection act for DED recipient from Liberia</specific_issues>
+  <affiliatedUrl>http://www.aisfotl.org/</affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>African Immigrant Services</affiliatedOrgName>
+      <affiliatedOrgAddress>7710 Brooklyn Blvd Ste 206B</affiliatedOrgAddress>
+      <affiliatedOrgCity>Brooklyn Park</affiliatedOrgCity>
+      <affiliatedOrgState>MN</affiliatedOrgState>
+      <affiliatedOrgZip>55443</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>Brooklun Park</affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>MN</affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>USA</affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>3/7/2019</effectiveDate>
+  <printedName>Luis Aleman</printedName>
+  <signedDate>3/6/2019 10:07:32 AM</signedDate>
+</LOBBYINGDISCLOSURE1>

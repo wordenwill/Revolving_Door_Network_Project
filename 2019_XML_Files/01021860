@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Peck Madigan Jones</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>1300 CONNECTICUT AVENUE, NW</address1>
+  <address2>Suite 600</address2>
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20036</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Government relations.</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>HealthEquity</clientName>
+  <clientAddress>15 West Scenic Pointe Drive, Suite 100</clientAddress>
+  <clientCity>Draper</clientCity>
+  <clientState>UT</clientState>
+  <clientZip>84020</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Health care and retirement solutions.</clientGeneralDescription>
+  <senateID>20744</senateID>
+  <houseID>315870350</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Andrew</lobbyistFirstName>
+      <lobbyistLastName>McKechnie</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Health Policy Advisor, Sen. Finance Committee; Legislative Assistant, Senator Norm Coleman; Legislative Assistant, Rep. Jim Ramstad; Bipartisan Medical Technology Caucus
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Drew</lobbyistFirstName>
+      <lobbyistLastName>Cantor</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Press Secretary, Rep. Sue Kelly; Sr. Comms. Advisor, Sen. Republican Conference
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Jeff</lobbyistFirstName>
+      <lobbyistLastName>Shapiro</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Rep. Adrian Smith; Senior Legislative Assistant, Rep. Lee Terry
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Jay</lobbyistFirstName>
+      <lobbyistLastName>Heimbach</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Special Asst to the President, The White House; CoS Senator Sherrod Brown; FCC - CSB and Congressional Affairs; OLA, The White House
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Emily</lobbyistFirstName>
+      <lobbyistLastName>Kirlin</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Director of Member Services, Senator John Cornyn; Whip Liaison, Senator Jon Kyl; Internal Communications Advisor, Senator Lamar Alexander
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Sean</lobbyistFirstName>
+      <lobbyistLastName>Richardson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Senator Amy Klobuchar; Chief of Staff, Rep. Patrick Kennedy; Dpty Staff Dir., Dem. Tech. and Comm. Committee;  Policy Advisor, Rep. Dick Gephardt; Staff Assistant, Rep. Dick Gephardt;
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>HCR</ali_Code>
+    <ali_Code>TAX</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Expanding access and improvements to Health Savings Accounts (HSA).</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>2/14/19</effectiveDate>
+  <printedName>Jeffrey J. Peck, Partner</printedName>
+  <signedDate>3/27/2019 10:06:37 AM</signedDate>
+</LOBBYINGDISCLOSURE1>

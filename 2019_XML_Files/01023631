@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>Y</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Squire Patton Boggs</organizationName>
+  <prefix />
+  <firstName />
+  <lastName />
+  <address1>2550 M STREET, NW</address1>
+  <address2 />
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20037</zip>
+  <zipext />
+  <country>USA</country>
+  <principal_city />
+  <principal_state />
+  <principal_zip />
+  <principal_zipext />
+  <principal_country />
+  <contactPrefix />
+  <contactIntlPhone />
+  <registrantGeneralDescription>Law Firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Fintech Advisory Inc.</clientName>
+  <clientAddress>375 Park Avenue, Suite 3804</clientAddress>
+  <clientCity>New York</clientCity>
+  <clientState>NY</clientState>
+  <clientZip>10152</clientZip>
+  <clientZipExt />
+  <clientCountry>USA</clientCountry>
+  <prinClientCity />
+  <prinClientState />
+  <prinClientZip />
+  <prinClientZipExt />
+  <prinClientCountry />
+  <clientGeneralDescription>Family office investment advisor for debt and equity fund</clientGeneralDescription>
+  <senateID>30906</senateID>
+  <houseID>319171508</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Sam</lobbyistFirstName>
+      <lobbyistLastName>Adcock</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>Jan-1996-March 1997: Dir. of Defense and Security Policy, Office of Senate Majority Leader; Jan. 1990-Dec. 1996:  Legis. Dir., Sen. Trent Lott; Nov. 1989-Jan. 1990: Legis. Assist.,  Sen. Trent Lott</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>FIN</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>U.S. sanctions related to Venezuela.</specific_issues>
+  <affiliatedUrl />
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <convictionDisclosure>
+    <convictionDisclosureIndicator>N</convictionDisclosureIndicator>
+    <convictions>
+    </convictions>
+  </convictionDisclosure>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>3/5/2019</effectiveDate>
+  <printedName>Glenn Willard, Of Counsel</printedName>
+  <signedDate>4/9/2019 3:32:19 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

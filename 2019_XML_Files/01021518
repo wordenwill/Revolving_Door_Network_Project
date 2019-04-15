@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Tarplin, Downs &amp; Young, LLC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>1212 New York Avenue, NW</address1>
+  <address2>Suite 750</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20005</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Health care policy and legislative consulting
+</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Otsuka America Pharmaceutical, Inc.</clientName>
+  <clientAddress>2440 Research Boulevard</clientAddress>
+  <clientCity>Rockville</clientCity>
+  <clientState>MD</clientState>
+  <clientZip>20850</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Pharmaceutical company focused on neuro-science, oncology and cardio-renal
+</clientGeneralDescription>
+  <senateID>304736</senateID>
+  <houseID>380670048</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Raissa</lobbyistFirstName>
+      <lobbyistLastName>Downs</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Prin. Dep. Asst. Sec. for Leg. - HHS; Dep. Asst. Sec. for Leg. - HHS; Staff Dir., Sub. Cmte. on Employment, Sen. HELP Cmte.</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Jennifer</lobbyistFirstName>
+      <lobbyistLastName>Young</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Asst. Sec. for Leg. - HHS; Dep. Asst. Sec. for Leg. - HHS; Cmte. Staff, House Cmte. on Ways and Means; Cmte. Staff, Sen. Cmte. on Finance</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Michelle</lobbyistFirstName>
+      <lobbyistLastName>Easton</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief Health Counsel, Sen. Cmte. on Finance; Staff Dir., Senate Aging Cmte.; Leg. Asst., Congressman Billy Tauzin</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Elizabeth</lobbyistFirstName>
+      <lobbyistLastName>Murray</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Senior Policy Advisor, Democratic Whip Steny Hoyer; Legislative Asst. for Rep. Mike Thompson, Rep. Bob Matsui, and Senator Bob Graham </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Charlotte</lobbyistFirstName>
+      <lobbyistLastName>Ivancic</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Leg. Counsel, Sen. Jim DeMint; Health Counsel, Maj. Leader Bill Frist; Counsel and Budget Analyst, House Budget Cmte.; Asst. to the Speaker for Policy, Speaker John Boehner </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Pamela</lobbyistFirstName>
+      <lobbyistLastName>Smith</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Leg. Dir., Sen. Tom Harkin; Dep. Staff Dir., Senate HELP Cmte; Staff Dir., Senate HELP Cmte; Counselor to the Asst. AG, Civil Div., Dept of Justice; Spec Counsel, Ofc of Leg. Affairs, Dept of Justice; Counsel and LA, Senator Carol Moseley-Braun</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Emily</lobbyistFirstName>
+      <lobbyistLastName>Murry</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Staff Dir., Sub. Cmte. on Health, W&amp;M Cmte; Sr. Policy Advisor, Majority Leader McCarthy; Policy Advisor, Majority Whip McCarthy; Professional Staff, Republican Study Cmte.; Leg. Aid, Rep. Ken Calvert; Leg. Asst., Rep. Tom Price </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>MMM</ali_Code>
+    <ali_Code>HCR</ali_Code>
+    <ali_Code>PHA</ali_Code>
+    <ali_Code>BUD</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>6 protected classes, drug pricing
+mental health
+kidney disease
+combined drug/device products
+</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>Ostuka Pharmaceutical Co. Inc.</name>
+      <address>2-9 Kanda Tsukasa - Machi Chiyoda-ku </address>
+      <city>Tokyo</city>
+      <state>
+      </state>
+      <country>JPN</country>
+      <prinCity>Tokyo</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>JPN</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>2/1/2019</effectiveDate>
+  <printedName>Jennifer B. Young</printedName>
+  <signedDate>3/14/2019 2:20:30 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

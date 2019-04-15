@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Hobart Hallaway &amp; Quayle Ventures, LLC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>511 Union Street</address1>
+  <address2>Suite 1530</address2>
+  <city>Nashville</city>
+  <state>TN</state>
+  <zip>37219</zip>
+  <zipext>1752</zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>government relations and public affairs</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>AGRIUM U.S. INC. (a Nutrien Ltd subsidiary)</clientName>
+  <clientAddress>5296 Harvest Lake Drive</clientAddress>
+  <clientCity>Loveland</clientCity>
+  <clientState>CO</clientState>
+  <clientZip>80538</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>​Agriculture</clientGeneralDescription>
+  <senateID>401103475</senateID>
+  <houseID>427870039</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Robert</lobbyistFirstName>
+      <lobbyistLastName>Hobart</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Dep COS, Cong. Zach Wamp; LD, Cong. Rick Hill; LA, Cong. B. Vucanovich</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Benjamin</lobbyistFirstName>
+      <lobbyistLastName>Quayle</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Former U.S. Congressman</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Rashid</lobbyistFirstName>
+      <lobbyistLastName>Hallaway</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Legislative Assistant, U.S. Senator Evan Bayh</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>AGR</ali_Code>
+    <ali_Code>CHM</ali_Code>
+    <ali_Code>CAW</ali_Code>
+    <ali_Code>FOR</ali_Code>
+    <ali_Code>LBR</ali_Code>
+    <ali_Code>MAN</ali_Code>
+    <ali_Code>TRD</ali_Code>
+    <ali_Code>TRA</ali_Code>
+    <ali_Code>CDT</ali_Code>
+    <ali_Code>NAT</ali_Code>
+  </alis>
+  <specific_issues>All aspects of agricultural issues related to transportation, mining, environmental, trade issues, and intellectual property.</specific_issues>
+  <affiliatedUrl>www.nutrien.com</affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Loveland Products, Inc. (subsidiary)</affiliatedOrgName>
+      <affiliatedOrgAddress>3005 Rocky Mountain Ave.</affiliatedOrgAddress>
+      <affiliatedOrgCity>Loveland</affiliatedOrgCity>
+      <affiliatedOrgState>CO</affiliatedOrgState>
+      <affiliatedOrgZip>80538</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Nutrien Ag Solutions, Inc. (subsidiary)</affiliatedOrgName>
+      <affiliatedOrgAddress>1209 Orange St</affiliatedOrgAddress>
+      <affiliatedOrgCity>Wilmington</affiliatedOrgCity>
+      <affiliatedOrgState>DE</affiliatedOrgState>
+      <affiliatedOrgZip>19801</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>Loveland</affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>CO</affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>USA</affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>PCS Sales (USA), Inc. (affiliate subsidiary)</affiliatedOrgName>
+      <affiliatedOrgAddress>251 Little Falls Dr.</affiliatedOrgAddress>
+      <affiliatedOrgCity>Wilmington</affiliatedOrgCity>
+      <affiliatedOrgState>DE</affiliatedOrgState>
+      <affiliatedOrgZip>19808</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>Northbrook</affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>IL</affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>USA</affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>PCS Administration (USA), Inc. (affiliate subsidiary)</affiliatedOrgName>
+      <affiliatedOrgAddress>251 Little Falls Dr.</affiliatedOrgAddress>
+      <affiliatedOrgCity>Wilmington</affiliatedOrgCity>
+      <affiliatedOrgState>DE</affiliatedOrgState>
+      <affiliatedOrgZip>19808</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>Northbrook</affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>IL</affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>USA</affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>Nutrien Ltd.</name>
+      <address>122 1st Avenue South</address>
+      <city>Saskatoon</city>
+      <state>SK</state>
+      <country>CAN</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Potash Corporation of Saskatchewan (corporate affiliate)</name>
+      <address>122 1st Avenue South</address>
+      <city>Saskatoon</city>
+      <state>SK</state>
+      <country>CAN</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>1/1/2019</effectiveDate>
+  <printedName>Robert Hobart</printedName>
+  <signedDate>2/14/2019 12:09:12 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>GOVERNMENT COUNSEL, LLC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>24 Dockside Lane #500</address1>
+  <address2>
+  </address2>
+  <city>Key Largo</city>
+  <state>FL</state>
+  <zip>33037</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Public Policy and Government Advisory Firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Hooper,Lundy&amp; Bookman, PC (obo Roche Diagnostics)</clientName>
+  <clientAddress>401 9th Street, NW</clientAddress>
+  <clientCity>Washington</clientCity>
+  <clientState>DC</clientState>
+  <clientZip>20004</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>Los Angeles</prinClientCity>
+  <prinClientState>CA</prinClientState>
+  <prinClientZip>90067</prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>USA</prinClientCountry>
+  <clientGeneralDescription>Law firm</clientGeneralDescription>
+  <senateID>401105070</senateID>
+  <houseID>442280006</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>H.W. </lobbyistFirstName>
+      <lobbyistLastName>Menn</lobbyistLastName>
+      <lobbyistSuffix>III</lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Sen. Bob Graham; Min. Staff Director &amp; Counsel, Senate Cmte on Veterans Affairs; Sp. Asst. Legislative Affairs, FDA Office of Commissioner.</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>HCR</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>FDA regulation of laboratory-developed tests (LDTs).</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Roche Diagnostics Corporation </affiliatedOrgName>
+      <affiliatedOrgAddress>9115 Hauge Road</affiliatedOrgAddress>
+      <affiliatedOrgCity>Indianoplis </affiliatedOrgCity>
+      <affiliatedOrgState>IN</affiliatedOrgState>
+      <affiliatedOrgZip>462500457</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>F.Hoffman-La Roche AG</name>
+      <address>Grenzacherstrasse 124 CH-4070</address>
+      <city>Basel</city>
+      <state>
+      </state>
+      <country>SUI</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>2/1/2019</effectiveDate>
+  <printedName>H.W. Menn III</printedName>
+  <signedDate>2/11/2019 1:15:46 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

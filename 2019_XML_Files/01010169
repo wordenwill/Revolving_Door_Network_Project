@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>BAYADA HOME HEALTH CARE</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>1880 JFK Boulevard, Suite 720</address1>
+  <address2>
+  </address2>
+  <city>Philadelphia</city>
+  <state>PA</state>
+  <zip>19103</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>Moorestown</principal_city>
+  <principal_state>NJ</principal_state>
+  <principal_zip>08057</principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>USA</principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>BAYADA Home Health Care provides clinical care and support services to patients at home.</registrantGeneralDescription>
+  <selfSelect>Y</selfSelect>
+  <clientName>BAYADA HOME HEALTH CARE</clientName>
+  <clientAddress>
+  </clientAddress>
+  <clientCity>
+  </clientCity>
+  <clientState>
+  </clientState>
+  <clientZip>
+  </clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>
+  </clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>
+  </clientGeneralDescription>
+  <senateID>401105103</senateID>
+  <houseID>442480001</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>David</lobbyistFirstName>
+      <lobbyistLastName>Totaro</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>None</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Lindsey</lobbyistFirstName>
+      <lobbyistLastName>Wright</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>None</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>MMM</ali_Code>
+    <ali_Code>HCR</ali_Code>
+    <ali_Code>TAX</ali_Code>
+    <ali_Code>LBR</ali_Code>
+    <ali_Code>VET</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Healthcare;
+Home Care;
+Elder Care;
+Care of in-home patients;
+Protection and support for home care providers;
+Patient Driven Groupings Model;
+Home Health Care Planning Improvements;
+Modifications to Medicare and Medicaid policies to improve patient access;
+Home health and hospice coverage and payments and co-pay policies;
+Home health rural add-on payments;
+Family caregiver support;
+Opioid Abuse and patient care;
+Safe disposal of unused medication;
+Chronic care management;
+Labor standards;
+Cuts or adjustments to Medicare and Medicaid via tax reform;
+Veteran home care; and
+Other related home health care issues.
+
+</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>1/16/2019</effectiveDate>
+  <printedName>David J. Totaro</printedName>
+  <signedDate>1/18/2019 5:39:42 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

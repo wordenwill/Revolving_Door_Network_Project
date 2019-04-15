@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>GOVERNMENT COUNSEL LLC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>24 Dockside Lane #500</address1>
+  <address2>
+  </address2>
+  <city>Key Largo</city>
+  <state>FL</state>
+  <zip>33037</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Public Policy and Government Advisory Firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Apotex Corporation</clientName>
+  <clientAddress>2400 N. Commerce Parkway</clientAddress>
+  <clientCity>Weston</clientCity>
+  <clientState>FL</clientState>
+  <clientZip>33326</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Generic pharmaceutical manufacturer</clientGeneralDescription>
+  <senateID>401105070</senateID>
+  <houseID>442280001</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>H.W.</lobbyistFirstName>
+      <lobbyistLastName>Menn</lobbyistLastName>
+      <lobbyistSuffix>III</lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Sen. Bob Graham; Minority Staff Director &amp; Counsel, Sen. Cmte on Veterans Affairs; Sp. Asst. Legislative Affairs, FDA Office of Commissioner.</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>HCR</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Patient access to more affordable generic medicines. </specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>Aposherm Inc.</name>
+      <address>150 Signet Drive</address>
+      <city>Toronto</city>
+      <state>ON</state>
+      <country>CAN</country>
+      <prinCity>Toronto</prinCity>
+      <prinState>ON</prinState>
+      <prinCountry>CAN</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Apotex Holding Inc.</name>
+      <address>150 Signet Drive</address>
+      <city>Toronto</city>
+      <state>ON</state>
+      <country>CAN</country>
+      <prinCity>Toronto</prinCity>
+      <prinState>ON</prinState>
+      <prinCountry>CAN</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Sherfam Inc.</name>
+      <address>150 Signet Drive</address>
+      <city>Toronto</city>
+      <state>ON</state>
+      <country>CAN</country>
+      <prinCity>Toronto</prinCity>
+      <prinState>ON</prinState>
+      <prinCountry>CAN</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Shermco Inc.</name>
+      <address>150 Signet Drive</address>
+      <city>Toronto </city>
+      <state>ON</state>
+      <country>CAN</country>
+      <prinCity>Toronto</prinCity>
+      <prinState>ON</prinState>
+      <prinCountry>CAN</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>2/1/2019</effectiveDate>
+  <printedName>H.W. Menn III</printedName>
+  <signedDate>2/2/2019 12:41:52 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

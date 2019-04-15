@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Crowell &amp; Moring LLP</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>1001 Pennsylvania Avenue, NW</address1>
+  <address2>
+  </address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20004</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Law firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>KGL Investment Company, KSCC</clientName>
+  <clientAddress>Mubarak Al Kabir Street, 10th Floor</clientAddress>
+  <clientCity>Kuwait City</clientCity>
+  <clientState>
+  </clientState>
+  <clientZip>0</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>KUW</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Investment company</clientGeneralDescription>
+  <senateID>11377</senateID>
+  <houseID>318430221</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>James</lobbyistFirstName>
+      <lobbyistLastName>Flood</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Counsel - Senate Judiciary Committee (Sen. Schumer)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Scott</lobbyistFirstName>
+      <lobbyistLastName>Douglas</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Byron</lobbyistFirstName>
+      <lobbyistLastName>Brown</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Deputy Chief of Staff - EPA; Senior Counsel - Senate Committee on Environment and Public Works (Sen. James Inhofe, Chairman); Senior Counsel - House Committee on Natural Resources (Rep. Doc Hastings, Chairman)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Jerrica</lobbyistFirstName>
+      <lobbyistLastName>Mathis</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Tim</lobbyistFirstName>
+      <lobbyistLastName>Shadyac</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>LAW</ali_Code>
+    <ali_Code>FOR</ali_Code>
+    <ali_Code>CIV</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <convictionDisclosure>
+    <convictionDisclosureIndicator>N</convictionDisclosureIndicator>
+    <convictions>
+    </convictions>
+  </convictionDisclosure>
+  <specific_issues>Issues related to Global Magnitsky Act violations and imprisonment</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>Maria (Marsha) Lazareva</name>
+      <address>Mubarek Al Kabir Street, 10th Floor</address>
+      <city>Kuwait City</city>
+      <state>
+      </state>
+      <country>KUW</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>0</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Dr. Abdullah Akbar</name>
+      <address>Mubarek Al Kabir Street, 10th Floor</address>
+      <city>Kuwait City</city>
+      <state>
+      </state>
+      <country>KUW</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>0</ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>2/12/2019</effectiveDate>
+  <printedName>James Flood</printedName>
+  <signedDate>4/12/2019 6:09:35 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

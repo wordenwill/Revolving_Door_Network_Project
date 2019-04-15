@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>Y</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Squire Patton Boggs</organizationName>
+  <prefix />
+  <firstName />
+  <lastName />
+  <address1>2550 M STREET, NW</address1>
+  <address2 />
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20037</zip>
+  <zipext />
+  <country>USA</country>
+  <principal_city />
+  <principal_state />
+  <principal_zip />
+  <principal_zipext />
+  <principal_country />
+  <contactPrefix />
+  <contactIntlPhone />
+  <registrantGeneralDescription>Law Firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Mobile Barriers, LLC</clientName>
+  <clientAddress>24918 Genesee Trail Road</clientAddress>
+  <clientCity>Golden</clientCity>
+  <clientState>CO</clientState>
+  <clientZip>80401</clientZip>
+  <clientZipExt />
+  <clientCountry>USA</clientCountry>
+  <prinClientCity />
+  <prinClientState />
+  <prinClientZip />
+  <prinClientZipExt />
+  <prinClientCountry />
+  <clientGeneralDescription>Manufacturer</clientGeneralDescription>
+  <senateID>30906</senateID>
+  <houseID>319171509</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Jack</lobbyistFirstName>
+      <lobbyistLastName>Deschauer</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition />
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>John</lobbyistFirstName>
+      <lobbyistLastName>Garrett</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition />
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Elaine</lobbyistFirstName>
+      <lobbyistLastName>Hillgrove</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition />
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Carolina</lobbyistFirstName>
+      <lobbyistLastName>Mederos</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>Jan. 1988--Dir. of Programs and Evaluation, DOT,  Chair, Secretary's Safety Review Task Force;  Jan. 1988-Nov 1989--Dep. Assist. Sec. for Safety, Dep. Assist. Sec. for Policy and Int'l Affairs; Nov. 1989-Feb. 1990-Sr. Policy Adv.</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>DEF</ali_Code>
+    <ali_Code>DIS</ali_Code>
+    <ali_Code>HOM</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Work with the Department of Defense and the Department of Homeland Security to explore potential uses and interest in  mobile barrier.</specific_issues>
+  <affiliatedUrl />
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <convictionDisclosure>
+    <convictionDisclosureIndicator>N</convictionDisclosureIndicator>
+    <convictions>
+    </convictions>
+  </convictionDisclosure>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>4/3/2019</effectiveDate>
+  <printedName>Glenn Willard, Of Counsel</printedName>
+  <signedDate>4/9/2019 7:02:15 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

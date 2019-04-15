@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Public Strategies Washington, Inc.</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>633 Pennsylvania Avenue, NW</address1>
+  <address2>4th Floor</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20004</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Lobby firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>IQOM Strategic Advisors, LLC on behalf of Consejo Coordinador Empresarial</clientName>
+  <clientAddress>433 North Loop W.</clientAddress>
+  <clientCity>Houston</clientCity>
+  <clientState>TX</clientState>
+  <clientZip>77008</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>International trade advisors</clientGeneralDescription>
+  <senateID>32486</senateID>
+  <houseID>321000083</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Steven </lobbyistFirstName>
+      <lobbyistLastName>Eichenauer </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Legislative Assistant, U.S. Senate</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Ali</lobbyistFirstName>
+      <lobbyistLastName>McGuigan</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Joseph</lobbyistFirstName>
+      <lobbyistLastName>O'Neill</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Tom </lobbyistFirstName>
+      <lobbyistLastName>Nagle</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition> Chief of Staff, U.S. Senator Tom Udall; Chief of Staff, U.S. Representative Tom Udall; Associate Staff, U.S. House Committee on Appropriations
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Patrick</lobbyistFirstName>
+      <lobbyistLastName>O'Neill</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Colton</lobbyistFirstName>
+      <lobbyistLastName>Hotary</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>TRD</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <convictionDisclosure>
+    <convictionDisclosureIndicator>N</convictionDisclosureIndicator>
+    <convictions>
+    </convictions>
+  </convictionDisclosure>
+  <specific_issues>USMCA
+U.S.-Mexico bilateral trade</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>Herminio Blanco, President, IQOM Inteligencia Comercial, S.A. DE C.V. </name>
+      <address>Acordada No. 47, Col. San Jose Insurgentes</address>
+      <city>Mexico, D.F., C.P. 03900</city>
+      <state>
+      </state>
+      <country>MEX</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>50</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Jaime Zabludovsky Kuper, Executive Vice President, IQOM Inteligencia Comercial, S.A. DE C.V. </name>
+      <address>Acordada No. 47, Col. San Jose Insurgentes </address>
+      <city>Mexico, D.F., C.P. 03900</city>
+      <state>
+      </state>
+      <country>MEX</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>50</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Consejo Mexicano de Negocios (CMN) </name>
+      <address>Av. Paseo de la Reforma 365 , piso 4 </address>
+      <city>Mexico City</city>
+      <state>
+      </state>
+      <country>MEX</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>45000</contribution>
+      <ownership_Percentage>0</ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>2/15/2019</effectiveDate>
+  <printedName>Colton Hotary</printedName>
+  <signedDate>4/5/2019 2:06:35 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

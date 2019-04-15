@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>Y</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Squire Patton Boggs</organizationName>
+  <prefix />
+  <firstName />
+  <lastName />
+  <address1>2550 M STREET, NW</address1>
+  <address2 />
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20037</zip>
+  <zipext />
+  <country>USA</country>
+  <principal_city />
+  <principal_state />
+  <principal_zip />
+  <principal_zipext />
+  <principal_country />
+  <contactPrefix />
+  <contactIntlPhone />
+  <registrantGeneralDescription>Law Firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>American Association of Poison Control Centers (AAPCC)</clientName>
+  <clientAddress>515 King Street, #510</clientAddress>
+  <clientCity>Alexandria</clientCity>
+  <clientState>VA</clientState>
+  <clientZip>22314</clientZip>
+  <clientZipExt />
+  <clientCountry>USA</clientCountry>
+  <prinClientCity />
+  <prinClientState />
+  <prinClientZip />
+  <prinClientZipExt />
+  <prinClientCountry />
+  <clientGeneralDescription>National non-profit organization</clientGeneralDescription>
+  <senateID>30906</senateID>
+  <houseID>319171503</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Meg</lobbyistFirstName>
+      <lobbyistLastName>Gilley</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>2005-July 2010: LA and Senior PA, Cong. Jack Kingston</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>John</lobbyistFirstName>
+      <lobbyistLastName>Kingston</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>1993-2015, Congressman-U.S. House of Representatives</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>David</lobbyistFirstName>
+      <lobbyistLastName>LesStrang (no contact with Approps Comm.)</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>1996 -2001: Dep. COS and LD, Rep. Jerry Lewis; Jan. 2005- Jan. 2007:  Dep. Staff Dir., Com. on Approps; Jan. 2007-Jan. 2011: Professional Staff, House Com.on Approps; Jan. 2011-Aug. 2018:  Clerk, Sub. on Interior, Environ. and Related Agencies.
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>David</lobbyistFirstName>
+      <lobbyistLastName>Schnittger</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>Dep. Chief of Staff, Speaker Boehner, 2006-2015; Press Secr.,  Rep. John Boehner 1994-2001; Communications Director, House Committee on Education and the Workforce 2001-2005</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Sarah</lobbyistFirstName>
+      <lobbyistLastName>Vilms</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>Dec. 1990- Jan. 1991, Intern, Cong. Barbara Kennelly; Aug. 1992, Intern, Sen. Joseph Lieberman</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>BUD</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Issues relating to Poison Control Centers Fiscal Year 2020 appropriations and the re-authorization of the Poison Control Center grant program.</specific_issues>
+  <affiliatedUrl />
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>1/23/2019</effectiveDate>
+  <printedName>Glenn Willard, Of Counsel</printedName>
+  <signedDate>3/6/2019 1:58:53 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Hanka Advisor LLC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>208 King James Road</address1>
+  <address2>
+  </address2>
+  <city>Upper Marlboro</city>
+  <state>MD</state>
+  <zip>20774</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>lobbying firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>HNTB Corporation on behalf of Macomb County, MI</clientName>
+  <clientAddress>535 Griswold St, Suite 1100</clientAddress>
+  <clientCity>Detroit</clientCity>
+  <clientState>MI</clientState>
+  <clientZip>48226</clientZip>
+  <clientZipExt>3605</clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>architecture, civil engineering consulting and construction management firm </clientGeneralDescription>
+  <senateID>401103359</senateID>
+  <houseID>426420021</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>william</lobbyistFirstName>
+      <lobbyistLastName>hanka</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>1997-98:Counsel, House Govt Reform Cmte; 1995-97:Leg Director, Rep. Nethercutt; 1989-93: Dep Director Leg Affairs, Vice President Quayle; 1987-88: Staff Asst, Senate Labor Subcmte</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>TRA</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Assist client to implement federal grant for Mound Road Improvement Project.</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Macomb County</affiliatedOrgName>
+      <affiliatedOrgAddress>117 S Groesbeck Highway</affiliatedOrgAddress>
+      <affiliatedOrgCity>Mt Clemens</affiliatedOrgCity>
+      <affiliatedOrgState>MI</affiliatedOrgState>
+      <affiliatedOrgZip>48043</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>City of Sterling Heights</affiliatedOrgName>
+      <affiliatedOrgAddress>40555 Utica Road</affiliatedOrgAddress>
+      <affiliatedOrgCity>Sterling Heights</affiliatedOrgCity>
+      <affiliatedOrgState>MI</affiliatedOrgState>
+      <affiliatedOrgZip>48313</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>City of Warren</affiliatedOrgName>
+      <affiliatedOrgAddress>One City Square</affiliatedOrgAddress>
+      <affiliatedOrgCity>Warren</affiliatedOrgCity>
+      <affiliatedOrgState>MI</affiliatedOrgState>
+      <affiliatedOrgZip>48093</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>2/1/2019</effectiveDate>
+  <printedName>william hanka</printedName>
+  <signedDate>3/15/2019 10:44:18 AM</signedDate>
+</LOBBYINGDISCLOSURE1>

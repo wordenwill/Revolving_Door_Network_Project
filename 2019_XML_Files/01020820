@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>SI GROUP CLIENT SERVICES</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>600 Massachusetts Ave. NW, Suite 390</address1>
+  <address2>
+  </address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20001</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Manufacture and distribution of tobacco products and vaping products.</registrantGeneralDescription>
+  <selfSelect>Y</selfSelect>
+  <clientName>SI GROUP CLIENT SERVICES</clientName>
+  <clientAddress>
+  </clientAddress>
+  <clientCity>
+  </clientCity>
+  <clientState>
+  </clientState>
+  <clientZip>
+  </clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>
+  </clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>
+  </clientGeneralDescription>
+  <senateID>401105162</senateID>
+  <houseID>443000001</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Joe</lobbyistFirstName>
+      <lobbyistLastName>Augustus (Swisher Int'l Inc.)</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Michael</lobbyistFirstName>
+      <lobbyistLastName>Morrow (Swisher Int'l Inc.)</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>House Ways &amp; Means Committee, Professional Staff, (2002-2006)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Christine</lobbyistFirstName>
+      <lobbyistLastName>Lanza (Swisher Int'l Inc.)</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Chris</lobbyistFirstName>
+      <lobbyistLastName>Howard(E-Alternative Solutions</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>TOB</ali_Code>
+    <ali_Code>TAX</ali_Code>
+    <ali_Code>BUD</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Administrative and legislative outreach and monitoring on issues related to the tobacco and vaping industries.</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Swisher International Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>459 E. 16th Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Jacksonville</affiliatedOrgCity>
+      <affiliatedOrgState>FL</affiliatedOrgState>
+      <affiliatedOrgZip>32206</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>E-Alternative Solutions</affiliatedOrgName>
+      <affiliatedOrgAddress>459 E. 16th Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Jacksonville</affiliatedOrgCity>
+      <affiliatedOrgState>FL</affiliatedOrgState>
+      <affiliatedOrgZip>32206</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Hay Island Holding Company</affiliatedOrgName>
+      <affiliatedOrgAddress>20 Thorndal Circle</affiliatedOrgAddress>
+      <affiliatedOrgCity>Darien</affiliatedOrgCity>
+      <affiliatedOrgState>CT</affiliatedOrgState>
+      <affiliatedOrgZip>068205421</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>2/7/2019</effectiveDate>
+  <printedName>Joe Augustus</printedName>
+  <signedDate>2/28/2019 3:28:24 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Holland &amp; Knight, LLP</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>800 17th Street, NW</address1>
+  <address2>Suite 1100</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20006</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Joint advocacy ad hoc coalition </registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Front Line Hospital Alliance</clientName>
+  <clientAddress>777 Bannock Street, Mail Code 0278</clientAddress>
+  <clientCity>Denver</clientCity>
+  <clientState>CO</clientState>
+  <clientZip>80204</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Joint advocacy ad hoc coalition</clientGeneralDescription>
+  <senateID>18466</senateID>
+  <houseID>308250819</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Lisa</lobbyistFirstName>
+      <lobbyistLastName>Tofil</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Richard </lobbyistFirstName>
+      <lobbyistLastName>Gold</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Miranda</lobbyistFirstName>
+      <lobbyistLastName>Franco</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Ethan</lobbyistFirstName>
+      <lobbyistLastName>Jorgensen-Earp</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Jim</lobbyistFirstName>
+      <lobbyistLastName>Davis</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Member, U.S. House of Representatives</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Thomas</lobbyistFirstName>
+      <lobbyistLastName>Reynolds</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Member, U.S. House of Representatives</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Scott</lobbyistFirstName>
+      <lobbyistLastName>Mason</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Shawna</lobbyistFirstName>
+      <lobbyistLastName>Francis  Watley</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>​LA, Sen. J. Robert Kerrey</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>HCR</ali_Code>
+    <ali_Code>MMM</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <convictionDisclosure>
+    <convictionDisclosureIndicator>N</convictionDisclosureIndicator>
+    <convictions>
+    </convictions>
+  </convictionDisclosure>
+  <specific_issues>Pursue demonstration program and modernization of payment streams under Medicare &amp; Medicaid; Pursue pilot program for drug discounts for front line hospitals. </specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Denver Health and Hospital Authority</affiliatedOrgName>
+      <affiliatedOrgAddress>777 Bannock Street, Mail Code 0278</affiliatedOrgAddress>
+      <affiliatedOrgCity>Denver</affiliatedOrgCity>
+      <affiliatedOrgState>CO</affiliatedOrgState>
+      <affiliatedOrgZip>80204</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Eskenazi Health</affiliatedOrgName>
+      <affiliatedOrgAddress>720 Eskenazi Avenue, Fifth Third Bank Bldg.</affiliatedOrgAddress>
+      <affiliatedOrgCity>Indianapolis</affiliatedOrgCity>
+      <affiliatedOrgState>IN</affiliatedOrgState>
+      <affiliatedOrgZip>46202</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Harris Health System </affiliatedOrgName>
+      <affiliatedOrgAddress>2525 Holly Hall</affiliatedOrgAddress>
+      <affiliatedOrgCity>Houston</affiliatedOrgCity>
+      <affiliatedOrgState>TX</affiliatedOrgState>
+      <affiliatedOrgZip>77054</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Grady Memorial Hospital</affiliatedOrgName>
+      <affiliatedOrgAddress>80 Jesse Hill Jr. Drive, SE</affiliatedOrgAddress>
+      <affiliatedOrgCity>Atlanta</affiliatedOrgCity>
+      <affiliatedOrgState>GA</affiliatedOrgState>
+      <affiliatedOrgZip>30303</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Temple University Health System</affiliatedOrgName>
+      <affiliatedOrgAddress>3509 N. Broad Street, 9th Floor</affiliatedOrgAddress>
+      <affiliatedOrgCity>Philadelphia</affiliatedOrgCity>
+      <affiliatedOrgState>PA</affiliatedOrgState>
+      <affiliatedOrgZip>19140</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>MetroHealth System</affiliatedOrgName>
+      <affiliatedOrgAddress>2500 MetroHealth Drive</affiliatedOrgAddress>
+      <affiliatedOrgCity>Cleveland</affiliatedOrgCity>
+      <affiliatedOrgState>OH</affiliatedOrgState>
+      <affiliatedOrgZip>44109</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Erlanger Health System</affiliatedOrgName>
+      <affiliatedOrgAddress>975 E 3rd St</affiliatedOrgAddress>
+      <affiliatedOrgCity>Chattanooga</affiliatedOrgCity>
+      <affiliatedOrgState>TN</affiliatedOrgState>
+      <affiliatedOrgZip>37403</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>2/25/2019</effectiveDate>
+  <printedName>Richard M. Gold, Partner</printedName>
+  <signedDate>4/5/2019 12:09:51 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>Y</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Squire Patton Boggs</organizationName>
+  <prefix />
+  <firstName />
+  <lastName />
+  <address1>2550 M STREET, NW</address1>
+  <address2 />
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20037</zip>
+  <zipext />
+  <country>USA</country>
+  <principal_city />
+  <principal_state />
+  <principal_zip />
+  <principal_zipext />
+  <principal_country />
+  <contactPrefix />
+  <contactIntlPhone />
+  <registrantGeneralDescription>Law Firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Buchanan Ingersoll &amp; Rooney obo MDG Contracting and Environmental Solutions</clientName>
+  <clientAddress>409 North 2nd Street</clientAddress>
+  <clientCity>Harrisburg</clientCity>
+  <clientState>PA</clientState>
+  <clientZip>17101</clientZip>
+  <clientZipExt />
+  <clientCountry>USA</clientCountry>
+  <prinClientCity />
+  <prinClientState />
+  <prinClientZip />
+  <prinClientZipExt />
+  <prinClientCountry />
+  <clientGeneralDescription>Law firm</clientGeneralDescription>
+  <senateID>30906</senateID>
+  <houseID>319171507</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Sam</lobbyistFirstName>
+      <lobbyistLastName>Adcock</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>Jan-1996-March 1997: Dir. of Defense and Security Policy, Office of Senate Majority Leader; Jan. 1990-Dec. 1996:  Legis. Dir., Sen. Trent Lott; Nov. 1989-Jan. 1990: Legis. Assist.,  Sen. Trent Lott</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>CAW</ali_Code>
+    <ali_Code>ENV</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Provide advocacy for MDG Contracting &amp; Environmental Solutions, LLC in coal ash remediation efforts in various locations throughout United States, including Virginia and Alabama.</specific_issues>
+  <affiliatedUrl>http://www.mdgcontracting.ca/mdg-contracting-services/</affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>MDG Contracting and Environmental Solutions</affiliatedOrgName>
+      <affiliatedOrgAddress>9401 Southern Pine Boulevard, Suite T</affiliatedOrgAddress>
+      <affiliatedOrgCity>Charlotte</affiliatedOrgCity>
+      <affiliatedOrgState>NC</affiliatedOrgState>
+      <affiliatedOrgZip />
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>Charlotte</affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>NC</affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>USA</affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <convictionDisclosure>
+    <convictionDisclosureIndicator>N</convictionDisclosureIndicator>
+    <convictions>
+    </convictions>
+  </convictionDisclosure>
+  <reportYear>2019</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>3/25/2019</effectiveDate>
+  <printedName>Glenn Willard, Of Counsel</printedName>
+  <signedDate>4/2/2019 3:26:11 PM</signedDate>
+</LOBBYINGDISCLOSURE1>
