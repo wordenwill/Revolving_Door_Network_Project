@@ -51,12 +51,17 @@ congressman['last_name'] = congressman['last_name'].str.strip()
 congressman['last_name'] = congressman['last_name'].str.lower()
 congressman['last_name'] = congressman['last_name'].astype(str)
 
+congressman['full_name'] = congressman['full_name'].str.strip()
+congressman['full_name'] = congressman['full_name'].str.lower()
+congressman['full_name'] = congressman['full_name'].astype(str)
+
 for entry in word_list:
     for word in entry:
         word = word.strip()
 
 f_name_list = list(congressman['first_name'])
 l_name_list = list(congressman['last_name'])
+full_name_list = list(congressman['full_name'])
 
 positions_list = df['position'].tolist()
 
@@ -92,9 +97,32 @@ for each in new_list:
     l = len(each)
     name_num.append(l)
     
-full_name_count_list['TotalCount'] = full_name_count_list['FirstNameCount'] + full_name_count_list['LastNameCount']  
-
- 
+full_name_count_list['TotalCount'] = full_name_count_list['FirstNameCount'] + full_name_count_list['LastNameCount']
 
 
-         
+sorta_flat_list = []
+for each in new_list:
+    flat = ' '.join(map(str,each))
+    sorta_flat_list.append(flat)
+print(name_num_length[0] + 1)
+
+paired_names_list = []
+name_num_length = []
+for row in new_list:
+    name_num = len(row)
+    name_num_length.append(name_num)
+most_names = max(name_num_length)
+
+for row in sorta_flat_list:
+    space_count = row.count(' ')
+    first_word = row[0]
+    second_word = row[1]    
+    try:
+        while space_count <= most_names:
+            if first_word +" "+ second_word in full_name_list:
+                join = first_word + " " + second_word + ","
+                paired_names_list.append(join)
+                first_word = row[0] 
+    
+        except:
+            ""     

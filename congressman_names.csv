@@ -1,2348 +1,2348 @@
-first_name,last_name,position
-Ralph,Abraham,Representative
-Gary,Ackerman,Representative
-Alma,Adams,Representative
-Sandy,Adams,Representative
-Robert,Aderholt,Representative
-Pete,Aguilar,Representative
-Daniel,Akaka,Senator
-Todd,Akin,Representative
-Lamar,Alexander,Senator
-Rodney,Alexander,Representative
-Rick,Allen,Representative
-Colin,Allred,Representative
-Jason,Altmire,Representative
-Justin,Amash,Representative
-Mark,Amodei,Representative
-Robert,Andrews,Representative
-Kelly,Armstrong,Representative
-Jodey,Arrington,Representative
-Brad,Ashford,Representative
-Steve,Austria,Representative
-Cynthia,Axne,Representative
-Kelly,Ayotte,Senator
-Brian,Babin,Representative
-Joe,Baca,Representative
-Michele,Bachmann,Representative
-Spencer,Bachus,Representative
-Don,Bacon,Representative
-James,Baird,Representative
-Troy,Balderson,Representative
-Tammy,Baldwin,Senator
-Jim,Banks,Representative
-Ron,Barber,Representative
-Lou,Barletta,Representative
-Andy,Barr,Representative
-Nanette,Barragan,Representative
-John,Barrasso,Senator
-John,Barrow,Representative
-Roscoe,Bartlett,Representative
-Joe,Barton,Representative
-Charles,Bass,Representative
-Karen,Bass,Representative
-Max,Baucus,Senator
-Joyce,Beatty,Representative
-Xavier,Becerra,Representative
-Mark,Begich,Senator
-Dan,Benishek,Representative
-Michael,Bennet,Senator
-Kerry,Bentivolio,Representative
-Ami,Bera,Representative
-Rick,Berg,Representative
-Jack,Bergman,Representative
-Shelley,Berkley,Representative
-Howard,Berman,Representative
-Donald,Beyer,Representative
-Judy,Biggert,Representative
-Andy,Biggs,Representative
-Brian,Bilbray,Representative
-Gus,Bilirakis,Representative
-Jeff,Bingaman,Senator
-Mike,Bishop,Representative
-Rob,Bishop,Representative
-Sanford,Bishop,Representative
-Timothy,Bishop,Representative
-Diane,Black,Representative
-Marsha,Blackburn,Senator
-Rod,Blum,Representative
-Earl,Blumenauer,Representative
-Richard,Blumenthal,Senator
-Lisa,Blunt,Representative
-Roy,Blunt,Senator
-John,Boehner,Representative
-Suzanne,Bonamici,Representative
-Jo,Bonner,Representative
-Mary,Bono,Representative
-Cory,Booker,Senator
-John,Boozman,Senator
-Madeleine,Bordallo,Representative
-Dan,Boren,Representative
-Mike,Bost,Representative
-Leonard,Boswell,Representative
-Charles,Boustany,Representative
-Barbara,Boxer,Senator
-Brendan,Boyle,Representative
-Kevin,Brady,Representative
-Robert,Brady,Representative
-Bruce,Braley,Representative
-Dave,Brat,Representative
-Mike,Braun,Senator
-Jim,Bridenstine,Representative
-Anthony,Brindisi,Representative
-Mo,Brooks,Representative
-Susan,Brooks,Representative
-Paul,Broun,Representative
-Anthony,Brown,Representative
-Corrine,Brown,Representative
-Scott,Brown,Senator
-Sherrod,Brown,Senator
-Julia,Brownley,Representative
-Vern,Buchanan,Representative
-Ken,Buck,Representative
-Larry,Bucshon,Representative
-Ted,Budd,Representative
-Ann,Buerkle,Representative
-Tim,Burchett,Representative
-Michael,Burgess,Representative
-Richard,Burr,Senator
-Dan,Burton,Representative
-Cheri,Bustos,Representative
-G.,Butterfield,Representative
-Bradley,Byrne,Representative
-Ken,Calvert,Representative
-Dave,Camp,Representative
-John,Campbell,Representative
-Francisco,Canseco,Representative
-Eric,Cantor,Representative
-Maria,Cantwell,Senator
-Shelley,Capito,Senator
-Lois,Capps,Representative
-Michael,Capuano,Representative
-Salud,Carbajal,Representative
-Tony,Cardenas,Representative
-Benjamin,Cardin,Senator
-Dennis,Cardoza,Representative
-Russ,Carnahan,Representative
-John,Carney,Representative
-Thomas,Carper,Senator
-Andre,Carson,Representative
-Earl,Carter,Representative
-John,Carter,Representative
-Matt,Cartwright,Representative
-Ed,Case,Representative
-Robert,Casey,Senator
-Bill,Cassidy,Senator
-Sean,Casten,Representative
-Kathy,Castor,Representative
-Joaquin,Castro,Representative
-Steve,Chabot,Representative
-Jason,Chaffetz,Representative
-Saxby,Chambliss,Senator
-Ben,Chandler,Representative
-Liz,Cheney,Representative
-Jeff,Chiesa,Senator
-Donna,Christensen,Representative
-Judy,Chu,Representative
-David,Cicilline,Representative
-Gilbert,Cisneros,Representative
-Katherine,Clark,Representative
-Hansen,Clarke,Representative
-Yvette,Clarke,Representative
-Curt,Clawson,Representative
-Wm.,Clay,Representative
-Emanuel,Cleaver,Representative
-Ben,Cline,Representative
-Michael,Cloud,Representative
-James,Clyburn,Representative
-Daniel,Coats,Senator
-Howard,Coble,Representative
-Tom,Coburn,Senator
-Thad,Cochran,Senator
-Mike,Coffman,Representative
-Steve,Cohen,Representative
-Tom,Cole,Representative
-Chris,Collins,Representative
-Doug,Collins,Representative
-Susan,Collins,Senator
-James,Comer,Representative
-Barbara,Comstock,Representative
-K.,Conaway,Representative
-Gerald,Connolly,Representative
-Kent,Conrad,Senator
-John,Conyers,Representative
-Paul,Cook,Representative
-Christopher,Coons,Senator
-Jim,Cooper,Representative
-Bob,Corker,Senator
-John,Cornyn,Senator
-J.,Correa,Representative
-Catherine,Cortez,Senator
-Jim,Costa,Representative
-Jerry,Costello,Representative
-Ryan,Costello,Representative
-Tom,Cotton,Senator
-Joe,Courtney,Representative
-William,Cowan,Senator
-TJ,Cox,Representative
-Angie,Craig,Representative
-Kevin,Cramer,Senator
-Mike,Crapo,Senator
-Chip,Cravaack,Representative
-Eric,Crawford,Representative
-Ander,Crenshaw,Representative
-Dan,Crenshaw,Representative
-Charlie,Crist,Representative
-Mark,Critz,Representative
-Jason,Crow,Representative
-Joseph,Crowley,Representative
-Ted,Cruz,Senator
-Henry,Cuellar,Representative
-John,Culberson,Representative
-Elijah,Cummings,Representative
-Joe,Cunningham,Representative
-Carlos,Curbelo,Representative
-David,Curson,Representative
-John,Curtis,Representative
-Steve,Daines,Senator
-Sharice,Davids,Representative
-Warren,Davidson,Representative
-Danny,Davis,Representative
-Geoff,Davis,Representative
-Rodney,Davis,Representative
-Susan,Davis,Representative
-Madeleine,Dean,Representative
-Peter,DeFazio,Representative
-Diana,DeGette,Representative
-John,Delaney,Representative
-Rosa,DeLauro,Representative
-Suzan,DelBene,Representative
-Antonio,Delgado,Representative
-Val,Demings,Representative
-Jim,DeMint,Senator
-Jeff,Denham,Representative
-Charles,Dent,Representative
-Ron,DeSantis,Representative
-Mark,DeSaulnier,Representative
-Scott,DesJarlais,Representative
-Theodore,Deutch,Representative
-Mario,Diaz-Balart,Representative
-Norman,Dicks,Representative
-Debbie,Dingell,Representative
-John,Dingell,Representative
-Lloyd,Doggett,Representative
-Robert,Dold,Representative
-Joe,Donnelly,Senator
-Daniel,Donovan,Representative
-Michael,Doyle,Representative
-David,Dreier,Representative
-Tammy,Duckworth,Senator
-Sean,Duffy,Representative
-Jeff,Duncan,Representative
-John,Duncan,Representative
-Neal,Dunn,Representative
-Richard,Durbin,Senator
-Donna,Edwards,Representative
-Keith,Ellison,Representative
-Renee,Ellmers,Representative
-Jo,Emerson,Representative
-Tom,Emmer,Representative
-Eliot,Engel,Representative
-John,Ensign,Senator
-William,Enyart,Representative
-Michael,Enzi,Senator
-Joni,Ernst,Senator
-Veronica,Escobar,Representative
-Anna,Eshoo,Representative
-Adriano,Espaillat,Representative
-Ron,Estes,Representative
-Elizabeth,Esty,Representative
-Dwight,Evans,Representative
-Eni,Faleomavaega,Representative
-Blake,Farenthold,Representative
-Sam,Farr,Representative
-John,Faso,Representative
-Chaka,Fattah,Representative
-Dianne,Feinstein,Senator
-A.,Ferguson,Representative
-Bob,Filner,Representative
-Stephen,Fincher,Representative
-Abby,Finkenauer,Representative
-Deb,Fischer,Senator
-Brian,Fitzpatrick,Representative
-Michael,Fitzpatrick,Representative
-Jeff,Flake,Senator
-Charles,Fleischmann,Representative
-John,Fleming,Representative
-Lizzie,Fletcher,Representative
-Bill,Flores,Representative
-J.,Forbes,Representative
-Jeff,Fortenberry,Representative
-Bill,Foster,Representative
-Virginia,Foxx,Representative
-Barney,Frank,Representative
-Lois,Frankel,Representative
-Al,Franken,Senator
-Trent,Franks,Representative
-Rodney,Frelinghuysen,Representative
-Marcia,Fudge,Representative
-Russ,Fulcher,Representative
-Tulsi,Gabbard,Representative
-Matt,Gaetz,Representative
-Mike,Gallagher,Representative
-Elton,Gallegly,Representative
-Pete,Gallego,Representative
-Ruben,Gallego,Representative
-John,Garamendi,Representative
-Jesus,Garcia,Representative
-Joe,Garcia,Representative
-Sylvia,Garcia,Representative
-Cory,Gardner,Senator
-Scott,Garrett,Representative
-Thomas,Garrett,Representative
-Jim,Gerlach,Representative
-Greg,Gianforte,Representative
-Bob,Gibbs,Representative
-Christopher,Gibson,Representative
-Gabrielle,Giffords,Representative
-Kirsten,Gillibrand,Senator
-Phil,Gingrey,Representative
-Louie,Gohmert,Representative
-Jared,Golden,Representative
-Jimmy,Gomez,Representative
-Anthony,Gonzalez,Representative
-Charles,Gonzalez,Representative
-Vicente,Gonzalez,Representative
-Jenniffer,Gonzalez-Colon,Representative
-Lance,Gooden,Representative
-Bob,Goodlatte,Representative
-Paul,Gosar,Representative
-Josh,Gottheimer,Representative
-Trey,Gowdy,Representative
-Gwen,Graham,Representative
-Lindsey,Graham,Senator
-Kay,Granger,Representative
-Chuck,Grassley,Senator
-Garret,Graves,Representative
-Sam,Graves,Representative
-Tom,Graves,Representative
-Alan,Grayson,Representative
-Al,Green,Representative
-Gene,Green,Representative
-Mark,Green,Representative
-Tim,Griffin,Representative
-H.,Griffith,Representative
-Raul,Grijalva,Representative
-Michael,Grimm,Representative
-Glenn,Grothman,Representative
-Michael,Guest,Representative
-Frank,Guinta,Representative
-Brett,Guthrie,Representative
-Luis,Gutierrez,Representative
-Debra,Haaland,Representative
-Kay,Hagan,Senator
-Jim,Hagedorn,Representative
-Janice,Hahn,Representative
-Ralph,Hall,Representative
-Colleen,Hanabusa,Representative
-Karen,Handel,Representative
-Richard,Hanna,Representative
-Josh,Harder,Representative
-Cresent,Hardy,Representative
-Tom,Harkin,Senator
-Jane,Harman,Representative
-Gregg,Harper,Representative
-Andy,Harris,Representative
-Kamala,Harris,Senator
-Vicky,Hartzler,Representative
-Margaret,Hassan,Senator
-Alcee,Hastings,Representative
-Doc,Hastings,Representative
-Orrin,Hatch,Senator
-Josh,Hawley,Senator
-Jahana,Hayes,Representative
-Nan,Hayworth,Representative
-Denny,Heck,Representative
-Joseph,Heck,Representative
-Martin,Heinrich,Senator
-Heidi,Heitkamp,Senator
-Dean,Heller,Senator
-Jeb,Hensarling,Representative
-Wally,Herger,Representative
-Kevin,Hern,Representative
-Jaime,Herrera,Representative
-Jody,Hice,Representative
-Brian,Higgins,Representative
-Clay,Higgins,Representative
-J.,Hill,Representative
-Katie,Hill,Representative
-James,Himes,Representative
-Maurice,Hinchey,Representative
-Ruben,Hinojosa,Representative
-Mazie,Hirono,Senator
-Kathleen,Hochul,Representative
-John,Hoeven,Senator
-Tim,Holden,Representative
-George,Holding,Representative
-Trey,Hollingsworth,Representative
-Rush,Holt,Representative
-Michael,Honda,Representative
-Kendra,Horn,Representative
-Steven,Horsford,Representative
-Chrissy,Houlahan,Representative
-Steny,Hoyer,Representative
-Richard,Hudson,Representative
-Tim,Huelskamp,Representative
-Jared,Huffman,Representative
-Bill,Huizenga,Representative
-Randy,Hultgren,Representative
-Duncan,Hunter,Representative
-Will,Hurd,Representative
-Robert,Hurt,Representative
-Kay,Hutchison,Senator
-Cindy,Hyde-Smith,Senator
-James,Inhofe,Senator
-Daniel,Inouye,Senator
-Jay,Inslee,Representative
-Johnny,Isakson,Senator
-Steve,Israel,Representative
-Darrell,Issa,Representative
-Sheila,Jackson,Representative
-Jesse,Jackson,Representative
-Pramila,Jayapal,Representative
-Hakeem,Jeffries,Representative
-Evan,Jenkins,Representative
-Lynn,Jenkins,Representative
-Mike,Johanns,Senator
-Bill,Johnson,Representative
-Dusty,Johnson,Representative
-Eddie,Johnson,Representative
-Henry,Johnson,Representative
-Mike,Johnson,Representative
-Ron,Johnson,Senator
-Sam,Johnson,Representative
-Tim,Johnson,Senator
-Timothy,Johnson,Representative
-David,Jolly,Representative
-Brenda,Jones,Representative
-Doug,Jones,Senator
-Walter,Jones,Representative
-Jim,Jordan,Representative
-David,Joyce,Representative
-John,Joyce,Representative
-Tim,Kaine,Senator
-Marcy,Kaptur,Representative
-John,Katko,Representative
-William,Keating,Representative
-Mike,Kelly,Representative
-Robin,Kelly,Representative
-Trent,Kelly,Representative
-John,Kennedy,Senator
-Joseph,Kennedy,Representative
-John,Kerry,Senator
-Ro,Khanna,Representative
-Ruben,Kihuen,Representative
-Dale,Kildee,Representative
-Daniel,Kildee,Representative
-Derek,Kilmer,Representative
-Andy,Kim,Representative
-Ron,Kind,Representative
-Angus,King,Senator
-Peter,King,Representative
-Steve,King,Representative
-Jack,Kingston,Representative
-Adam,Kinzinger,Representative
-Mark,Kirk,Senator
-Ann,Kirkpatrick,Representative
-Larry,Kissell,Representative
-John,Kline,Representative
-Amy,Klobuchar,Senator
-Stephen,Knight,Representative
-Herb,Kohl,Senator
-Raja,Krishnamoorthi,Representative
-Dennis,Kucinich,Representative
-Ann,Kuster,Representative
-David,Kustoff,Representative
-Jon,Kyl,Senator
-Raul,Labrador,Representative
-Darin,LaHood,Representative
-Doug,LaMalfa,Representative
-Conor,Lamb,Representative
-Doug,Lamborn,Representative
-Leonard,Lance,Representative
-Mary,Landrieu,Senator
-Jeffrey,Landry,Representative
-James,Langevin,Representative
-James,Lankford,Senator
-Rick,Larsen,Representative
-John,Larson,Representative
-Tom,Latham,Representative
-Steven,LaTourette,Representative
-Robert,Latta,Representative
-Frank,Lautenberg,Senator
-Brenda,Lawrence,Representative
-Al,Lawson,Representative
-Patrick,Leahy,Senator
-Barbara,Lee,Representative
-Christopher,Lee,Representative
-Mike,Lee,Senator
-Susie,Lee,Representative
-Debbie,Lesko,Representative
-Andy,Levin,Representative
-Carl,Levin,Senator
-Mike,Levin,Representative
-Sander,Levin,Representative
-Jason,Lewis,Representative
-Jerry,Lewis,Representative
-John,Lewis,Representative
-Joseph,Lieberman,Senator
-Ted,Lieu,Representative
-Daniel,Lipinski,Representative
-Frank,LoBiondo,Representative
-David,Loebsack,Representative
-Zoe,Lofgren,Representative
-Billy,Long,Representative
-Barry,Loudermilk,Representative
-Mia,Love,Representative
-Alan,Lowenthal,Representative
-Nita,Lowey,Representative
-Frank,Lucas,Representative
-Blaine,Luetkemeyer,Representative
-Richard,Lugar,Senator
-Michelle,Lujan,Representative
-Ben,Lujan,Representative
-Cynthia,Lummis,Representative
-Daniel,Lungren,Representative
-Elaine,Luria,Representative
-Stephen,Lynch,Representative
-Thomas,MacArthur,Representative
-Connie,Mack,Representative
-Daniel,Maffei,Representative
-Tom,Malinowski,Representative
-Carolyn,Maloney,Representative
-Sean,Maloney,Representative
-Joe,Manchin,Senator
-Donald,Manzullo,Representative
-Kenny,Marchant,Representative
-Tom,Marino,Representative
-Edward,Markey,Senator
-Roger,Marshall,Representative
-Thomas,Massie,Representative
-Brian,Mast,Representative
-Jim,Matheson,Representative
-Doris,Matsui,Representative
-Ben,McAdams,Representative
-Vance,McAllister,Representative
-Lucy,McBath,Representative
-John,McCain,Senator
-Carolyn,McCarthy,Representative
-Kevin,McCarthy,Representative
-Claire,McCaskill,Senator
-Michael,McCaul,Representative
-Tom,McClintock,Representative
-Betty,McCollum,Representative
-Mitch,McConnell,Senator
-Thaddeus,McCotter,Representative
-Jim,McDermott,Representative
-A.,McEachin,Representative
-James,McGovern,Representative
-Patrick,McHenry,Representative
-Mike,McIntyre,Representative
-Howard,McKeon,Representative
-David,McKinley,Representative
-Cathy,McMorris,Representative
-Jerry,McNerney,Representative
-Martha,McSally,Senator
-Mark,Meadows,Representative
-Patrick,Meehan,Representative
-Gregory,Meeks,Representative
-Robert,Menendez,Senator
-Grace,Meng,Representative
-Jeff,Merkley,Senator
-Luke,Messer,Representative
-Daniel,Meuser,Representative
-John,Mica,Representative
-Michael,Michaud,Representative
-Barbara,Mikulski,Senator
-Brad,Miller,Representative
-Candice,Miller,Representative
-Carol,Miller,Representative
-Gary,Miller,Representative
-George,Miller,Representative
-Jeff,Miller,Representative
-Paul,Mitchell,Representative
-John,Moolenaar,Representative
-Alexander,Mooney,Representative
-Gwen,Moore,Representative
-James,Moran,Representative
-Jerry,Moran,Senator
-Joseph,Morelle,Representative
-Seth,Moulton,Representative
-Debbie,Mucarsel-Powell,Representative
-Markwayne,Mullin,Representative
-Mick,Mulvaney,Representative
-Lisa,Murkowski,Senator
-Christopher,Murphy,Senator
-Patrick,Murphy,Representative
-Stephanie,Murphy,Representative
-Tim,Murphy,Representative
-Patty,Murray,Senator
-Sue,Myrick,Representative
-Jerrold,Nadler,Representative
-Grace,Napolitano,Representative
-Richard,Neal,Representative
-Gloria,Negrete,Representative
-Joe,Neguse,Representative
-Ben,Nelson,Senator
-Bill,Nelson,Senator
-Randy,Neugebauer,Representative
-Dan,Newhouse,Representative
-Kristi,Noem,Representative
-Richard,Nolan,Representative
-Donald,Norcross,Representative
-Ralph,Norman,Representative
-Eleanor,Norton,Representative
-Richard,Nugent,Representative
-Devin,Nunes,Representative
-Alan,Nunnelee,Representative
-Tom,O'Halleran,Representative
-Beto,O'Rourke,Representative
-Alexandria,Ocasio-Cortez,Representative
-Pete,Olson,Representative
-John,Olver,Representative
-Ilhan,Omar,Representative
-William,Owens,Representative
-Steven,Palazzo,Representative
-Frank,Pallone,Representative
-Gary,Palmer,Representative
-Jimmy,Panetta,Representative
-Chris,Pappas,Representative
-Bill,Pascrell,Representative
-Ed,Pastor,Representative
-Rand,Paul,Senator
-Ron,Paul,Representative
-Erik,Paulsen,Representative
-Donald,Payne,Representative
-Donald,Payne,Representative
-Stevan,Pearce,Representative
-Nancy,Pelosi,Representative
-Greg,Pence,Representative
-Mike,Pence,Representative
-David,Perdue,Senator
-Ed,Perlmutter,Representative
-Scott,Perry,Representative
-Gary,Peters,Senator
-Scott,Peters,Representative
-Collin,Peterson,Representative
-Thomas,Petri,Representative
-Dean,Phillips,Representative
-Pedro,Pierluisi,Representative
-Chellie,Pingree,Representative
-Robert,Pittenger,Representative
-Joseph,Pitts,Representative
-Stacey,Plaskett,Representative
-Todd,Platts,Representative
-Mark,Pocan,Representative
-Ted,Poe,Representative
-Bruce,Poliquin,Representative
-Jared,Polis,Representative
-Mike,Pompeo,Representative
-Katie,Porter,Representative
-Rob,Portman,Senator
-Bill,Posey,Representative
-Ayanna,Pressley,Representative
-David,Price,Representative
-Tom,Price,Representative
-Mark,Pryor,Senator
-Benjamin,Quayle,Representative
-Mike,Quigley,Representative
-Trey,Radel,Representative
-Aumua,Radewagen,Representative
-Nick,Rahall,Representative
-Charles,Rangel,Representative
-Jamie,Raskin,Representative
-John,Ratcliffe,Representative
-Jack,Reed,Senator
-Tom,Reed,Representative
-Denny,Rehberg,Representative
-David,Reichert,Representative
-Harry,Reid,Senator
-James,Renacci,Representative
-Guy,Reschenthaler,Representative
-Silvestre,Reyes,Representative
-Reid,Ribble,Representative
-Kathleen,Rice,Representative
-Tom,Rice,Representative
-Laura,Richardson,Representative
-Cedric,Richmond,Representative
-E.,Rigell,Representative
-Denver,Riggleman,Representative
-James,Risch,Senator
-David,Rivera,Representative
-Pat,Roberts,Senator
-Martha,Roby,Representative
-John,Rockefeller,Senator
-David,Roe,Representative
-Harold,Rogers,Representative
-Mike,Rogers,Representative
-Mike,Rogers,Representative
-Dana,Rohrabacher,Representative
-Todd,Rokita,Representative
-Mitt,Romney,Senator
-Francis,Rooney,Representative
-Thomas,Rooney,Representative
-Ileana,Ros-Lehtinen,Representative
-John,Rose,Representative
-Max,Rose,Representative
-Jacky,Rosen,Senator
-Peter,Roskam,Representative
-Dennis,Ross,Representative
-Mike,Ross,Representative
-Keith,Rothfus,Representative
-Steven,Rothman,Representative
-Harley,Rouda,Representative
-Mike,Rounds,Senator
-David,Rouzer,Representative
-Chip,Roy,Representative
-Lucille,Roybal-Allard,Representative
-Edward,Royce,Representative
-Marco,Rubio,Senator
-Raul,Ruiz,Representative
-Jon,Runyan,Representative
-C.,Ruppersberger,Representative
-Bobby,Rush,Representative
-Steve,Russell,Representative
-John,Rutherford,Representative
-Paul,Ryan,Representative
-Tim,Ryan,Representative
-Gregorio,Sablan,Representative
-Matt,Salmon,Representative
-Michael,San,Representative
-Linda,Sanchez,Representative
-Loretta,Sanchez,Representative
-Bernard,Sanders,Senator
-Mark,Sanford,Representative
-John,Sarbanes,Representative
-Ben,Sasse,Senator
-Steve,Scalise,Representative
-Mary,Scanlon,Representative
-Janice,Schakowsky,Representative
-Brian,Schatz,Senator
-Adam,Schiff,Representative
-Robert,Schilling,Representative
-Jean,Schmidt,Representative
-Bradley,Schneider,Representative
-Aaron,Schock,Representative
-Kurt,Schrader,Representative
-Kim,Schrier,Representative
-Charles,Schumer,Senator
-Allyson,Schwartz,Representative
-David,Schweikert,Representative
-Austin,Scott,Representative
-David,Scott,Representative
-Rick,Scott,Senator
-Robert,Scott,Representative
-Tim,Scott,Senator
-F.,Sensenbrenner,Representative
-Jose,Serrano,Representative
-Jeff,Sessions,Senator
-Pete,Sessions,Representative
-Terri,Sewell,Representative
-Jeanne,Shaheen,Senator
-Donna,Shalala,Representative
-Carol,Shea-Porter,Representative
-Richard,Shelby,Senator
-Brad,Sherman,Representative
-Mikie,Sherrill,Representative
-John,Shimkus,Representative
-Heath,Shuler,Representative
-Bill,Shuster,Representative
-Michael,Simpson,Representative
-Kyrsten,Sinema,Senator
-Albio,Sires,Representative
-Louise,Slaughter,Representative
-Elissa,Slotkin,Representative
-Adam,Smith,Representative
-Adrian,Smith,Representative
-Christopher,Smith,Representative
-Jason,Smith,Representative
-Lamar,Smith,Representative
-Tina,Smith,Senator
-Lloyd,Smucker,Representative
-Olympia,Snowe,Senator
-Darren,Soto,Representative
-Steve,Southerland,Representative
-Abigail,Spanberger,Representative
-Ross,Spano,Representative
-Jackie,Speier,Representative
-Debbie,Stabenow,Senator
-Greg,Stanton,Representative
-Fortney,Stark,Representative
-Pete,Stauber,Representative
-Cliff,Stearns,Representative
-Elise,Stefanik,Representative
-Bryan,Steil,Representative
-W.,Steube,Representative
-Haley,Stevens,Representative
-Chris,Stewart,Representative
-Steve,Stivers,Representative
-Steve,Stockman,Representative
-Luther,Strange,Senator
-Marlin,Stutzman,Representative
-Dan,Sullivan,Senator
-John,Sullivan,Representative
-Thomas,Suozzi,Representative
-Betty,Sutton,Representative
-Eric,Swalwell,Representative
-Mark,Takai,Representative
-Mark,Takano,Representative
-Scott,Taylor,Representative
-Van,Taylor,Representative
-Claudia,Tenney,Representative
-Lee,Terry,Representative
-Jon,Tester,Senator
-Bennie,Thompson,Representative
-Glenn,Thompson,Representative
-Mike,Thompson,Representative
-Mac,Thornberry,Representative
-John,Thune,Senator
-Patrick,Tiberi,Representative
-John,Tierney,Representative
-Thom,Tillis,Senator
-William,Timmons,Representative
-Scott,Tipton,Representative
-Dina,Titus,Representative
-Rashida,Tlaib,Representative
-Paul,Tonko,Representative
-Pat,Toomey,Senator
-Xochitl,Torres,Representative
-Norma,Torres,Representative
-Edolphus,Towns,Representative
-Lori,Trahan,Representative
-David,Trone,Representative
-David,Trott,Representative
-Niki,Tsongas,Representative
-Michael,Turner,Representative
-Robert,Turner,Representative
-Mark,Udall,Senator
-Tom,Udall,Senator
-Lauren,Underwood,Representative
-Fred,Upton,Representative
-David,Valadao,Representative
-Jefferson,Van,Representative
-Chris,Van,Senator
-Juan,Vargas,Representative
-Marc,Veasey,Representative
-Filemon,Vela,Representative
-Nydia,Velazquez,Representative
-Peter,Visclosky,Representative
-David,Vitter,Senator
-Ann,Wagner,Representative
-Tim,Walberg,Representative
-Greg,Walden,Representative
-Mark,Walker,Representative
-Jackie,Walorski,Representative
-Joe,Walsh,Representative
-John,Walsh,Senator
-Mimi,Walters,Representative
-Michael,Waltz,Representative
-Timothy,Walz,Representative
-Mark,Warner,Senator
-Elizabeth,Warren,Senator
-Debbie,Wasserman,Representative
-Maxine,Waters,Representative
-Steve,Watkins,Representative
-Bonnie,Watson,Representative
-Melvin,Watt,Representative
-Henry,Waxman,Representative
-Jim,Webb,Senator
-Randy,Weber,Representative
-Daniel,Webster,Representative
-Anthony,Weiner,Representative
-Peter,Welch,Representative
-Brad,Wenstrup,Representative
-Allen,West,Representative
-Bruce,Westerman,Representative
-Lynn,Westmoreland,Representative
-Jennifer,Wexton,Representative
-Sheldon,Whitehouse,Senator
-Ed,Whitfield,Representative
-Roger,Wicker,Senator
-Susan,Wild,Representative
-Roger,Williams,Representative
-Frederica,Wilson,Representative
-Joe,Wilson,Representative
-Robert,Wittman,Representative
-Frank,Wolf,Representative
-Steve,Womack,Representative
-Rob,Woodall,Representative
-Lynn,Woolsey,Representative
-Ron,Wright,Representative
-David,Wu,Representative
-Ron,Wyden,Senator
-John,Yarmuth,Representative
-Kevin,Yoder,Representative
-Ted,Yoho,Representative
-C.,Young,Representative
-David,Young,Representative
-Don,Young,Representative
-Todd,Young,Senator
-Lee,Zeldin,Representative
-Ryan,Zinke,Representative
-Neil,Abercrombie,Representative
-Spencer,Abraham,Senator
-Anibal,Acevedo-Vila,Representative
-John,Adler,Representative
-Wayne,Allard,Senator
-George,Allen,Senator
-Thomas,Allen,Representative
-Bill,Archer,Representative
-Michael,Arcuri,Representative
-Richard,Armey,Representative
-John,Ashcroft,Senator
-Scotty,Baesler,Representative
-Brian,Baird,Representative
-Richard,Baker,Representative
-John,Baldacci,Representative
-Frank,Ballance,Representative
-Cass,Ballenger,Representative
-James,Barcia,Representative
-Dean,Barkley,Senator
-Bob,Barr,Representative
-Bill,Barrett,Representative
-J.,Barrett,Representative
-Thomas,Barrett,Representative
-Herbert,Bateman,Representative
-Evan,Bayh,Senator
-Melissa,Bean,Representative
-Bob,Beauprez,Representative
-Chris,Bell,Representative
-Robert,Bennett,Senator
-Ken,Bentsen,Representative
-Doug,Bereuter,Representative
-Marion,Berry,Representative
-Joseph,Biden,Senator
-Michael,Bilirakis,Representative
-Rod,Blagojevich,Representative
-Tom,Bliley,Representative
-John,Boccieri,Representative
-Sherwood,Boehlert,Representative
-Christopher,Bond,Senator
-Henry,Bonilla,Representative
-David,Bonior,Representative
-Sonny,Bono,Representative
-Robert,Borski,Representative
-Rick,Boucher,Representative
-Allen,Boyd,Representative
-Nancy,Boyda,Representative
-Jeb,Bradley,Representative
-John,Breaux,Senator
-Bobby,Bright,Representative
-George,Brown,Representative
-Henry,Brown,Representative
-Ginny,Brown-Waite,Representative
-Sam,Brownback,Senator
-Richard,Bryan,Senator
-Ed,Bryant,Representative
-Dale,Bumpers,Senator
-Jim,Bunning,Senator
-Conrad,Burns,Senator
-Max,Burns,Representative
-Roland,Burris,Senator
-Steve,Buyer,Representative
-Robert,Byrd,Senator
-Sonny,Callahan,Representative
-Ben,Campbell,Senator
-Tom,Campbell,Representative
-Charles,Canady,Representative
-Chris,Cannon,Representative
-Anh,Cao,Representative
-Walter,Capps,Representative
-Jean,Carnahan,Senator
-Christopher,Carney,Representative
-Brad,Carson,Representative
-Julia,Carson,Representative
-Michael,Castle,Representative
-Donald,Cazayoux,Representative
-John,Chafee,Senator
-Lincoln,Chafee,Senator
-Helen,Chenoweth-Hage,Representative
-Travis,Childers,Representative
-Chris,Chocola,Representative
-Jon,Christensen,Representative
-William,Clay,Representative
-Eva,Clayton,Representative
-Max,Cleland,Senator
-Bob,Clement,Representative
-Hillary,Clinton,Senator
-Norm,Coleman,Senator
-Mac,Collins,Representative
-Larry,Combest,Representative
-Gary,Condit,Representative
-Merrill,Cook,Representative
-John,Cooksey,Representative
-Jon,Corzine,Senator
-Paul,Coverdell,Senator
-Christopher,Cox,Representative
-William,Coyne,Representative
-Larry,Craig,Senator
-Robert,Cramer,Representative
-Philip,Crane,Representative
-Barbara,Cubin,Representative
-Randy,Cunningham,Representative
-Alfonse,D'Amato,Senator
-Kathleen,Dahlkemper,Representative
-Pat,Danner,Representative
-Thomas,Daschle,Senator
-Artur,Davis,Representative
-David,Davis,Representative
-Jim,Davis,Representative
-Jo,Davis,Representative
-Lincoln,Davis,Representative
-Tom,Davis,Representative
-Mark,Dayton,Senator
-Nathan,Deal,Representative
-Bill,Delahunt,Representative
-Tom,DeLay,Representative
-Ronald,Dellums,Representative
-Peter,Deutsch,Representative
-Mike,DeWine,Senator
-Lincoln,Diaz-Balart,Representative
-Jay,Dickey,Representative
-Julian,Dixon,Representative
-Charles,Djou,Representative
-Christopher,Dodd,Senator
-Elizabeth,Dole,Senator
-Pete,Domenici,Senator
-Calvin,Dooley,Representative
-John,Doolittle,Representative
-Byron,Dorgan,Senator
-Thelma,Drake,Representative
-Steve,Driehaus,Representative
-Jennifer,Dunn,Representative
-Chet,Edwards,Representative
-John,Edwards,Senator
-Vernon,Ehlers,Representative
-Robert,Ehrlich,Representative
-Brad,Ellsworth,Representative
-Rahm,Emanuel,Representative
-Phil,English,Representative
-Bob,Etheridge,Representative
-Lane,Evans,Representative
-Terry,Everett,Representative
-Thomas,Ewing,Representative
-Lauch,Faircloth,Senator
-Mary,Fallin,Representative
-Harris,Fawell,Representative
-Vic,Fazio,Representative
-Tom,Feeney,Representative
-Russell,Feingold,Senator
-Mike,Ferguson,Representative
-Peter,Fitzgerald,Senator
-Floyd,Flake,Representative
-Ernie,Fletcher,Representative
-Thomas,Foglietta,Representative
-Mark,Foley,Representative
-Michael,Forbes,Representative
-Harold,Ford,Representative
-Wendell,Ford,Senator
-Luis,Fortuno,Representative
-Vito,Fossella,Representative
-Tillie,Fowler,Representative
-Jon,Fox,Representative
-Bob,Franks,Representative
-William,Frist,Senator
-Martin,Frost,Representative
-Elizabeth,Furse,Representative
-Greg,Ganske,Representative
-Sam,Gejdenson,Representative
-George,Gekas,Representative
-Richard,Gephardt,Representative
-Jim,Gibbons,Representative
-Wayne,Gilchrest,Representative
-Paul,Gillmor,Representative
-Benjamin,Gilman,Representative
-Newt,Gingrich,Representative
-John,Glenn,Senator
-Henry,Gonzalez,Representative
-Virgil,Goode,Representative
-William,Goodling,Representative
-Carte,Goodwin,Senator
-Bart,Gordon,Representative
-Slade,Gorton,Senator
-Porter,Goss,Representative
-Bob,Graham,Senator
-Phil,Gramm,Senator
-Rod,Grams,Senator
-Mark,Green,Representative
-James,Greenwood,Representative
-Judd,Gregg,Senator
-Parker,Griffith,Representative
-Felix,Grucci,Representative
-Gil,Gutknecht,Representative
-Chuck,Hagel,Senator
-John,Hall,Representative
-Tony,Hall,Representative
-Deborah,Halvorson,Representative
-Lee,Hamilton,Representative
-James,Hansen,Representative
-Phil,Hare,Representative
-Katherine,Harris,Representative
-Melissa,Hart,Representative
-J.,Hastert,Representative
-Robin,Hayes,Representative
-J.,Hayworth,Representative
-Joel,Hefley,Representative
-W.,Hefner,Representative
-Jesse,Helms,Senator
-Stephanie,Herseth,Representative
-Baron,Hill,Representative
-Rick,Hill,Representative
-Van,Hilleary,Representative
-Earl,Hilliard,Representative
-David,Hobson,Representative
-Paul,Hodes,Representative
-Joseph,Hoeffel,Representative
-Peter,Hoekstra,Representative
-Ernest,Hollings,Senator
-Darlene,Hooley,Representative
-Stephen,Horn,Representative
-John,Hostettler,Representative
-Amo,Houghton,Representative
-Kenny,Hulshof,Representative
-Duncan,Hunter,Representative
-Asa,Hutchinson,Representative
-Tim,Hutchinson,Senator
-Henry,Hyde,Representative
-Bob,Inglis,Representative
-Ernest,Istook,Representative
-William,Janklow,Representative
-William,Jefferson,Representative
-James,Jeffords,Senator
-William,Jenkins,Representative
-Bobby,Jindal,Representative
-Christopher,John,Representative
-Jay,Johnson,Representative
-Nancy,Johnson,Representative
-Stephanie,Jones,Representative
-Steve,Kagen,Representative
-Paul,Kanjorski,Representative
-John,Kasich,Representative
-Edward,Kaufman,Senator
-Ric,Keller,Representative
-Sue,Kelly,Representative
-Dirk,Kempthorne,Senator
-Edward,Kennedy,Senator
-Joseph,Kennedy,Representative
-Mark,Kennedy,Representative
-Patrick,Kennedy,Representative
-Barbara,Kennelly,Representative
-Brian,Kerns,Representative
-J.,Kerrey,Senator
-Carolyn,Kilpatrick,Representative
-Mary,Kilroy,Representative
-Jay,Kim,Representative
-Paul,Kirk,Senator
-Gerald,Kleczka,Representative
-Ron,Klein,Representative
-Ron,Klink,Representative
-Scott,Klug,Representative
-Joe,Knollenberg,Representative
-Jim,Kolbe,Representative
-Suzanne,Kosmas,Representative
-Frank,Kratovil,Representative
-John,Kuhl,Representative
-Steven,Kuykendall,Representative
-John,LaFalce,Representative
-Ray,LaHood,Representative
-Nick,Lampson,Representative
-Tom,Lantos,Representative
-Steve,Largent,Representative
-Rick,Lazio,Representative
-James,Leach,Representative
-George,LeMieux,Senator
-Ron,Lewis,Representative
-Blanche,Lincoln,Senator
-John,Linder,Representative
-William,Lipinski,Representative
-Bob,Livingston,Representative
-Trent,Lott,Senator
-Ken,Lucas,Representative
-Bill,Luther,Representative
-Connie,Mack,Senator
-Tim,Mahoney,Representative
-Denise,Majette,Representative
-James,Maloney,Representative
-Thomas,Manton,Representative
-Betsy,Markey,Representative
-Jim,Marshall,Representative
-Matthew,Martinez,Representative
-Mel,Martinez,Senator
-Frank,Mascara,Representative
-Eric,Massa,Representative
-Robert,Matsui,Representative
-Karen,McCarthy,Representative
-Bill,McCollum,Representative
-Jim,McCrery,Representative
-Joseph,McDade,Representative
-Paul,McHale,Representative
-John,McHugh,Representative
-Scott,McInnis,Representative
-David,McIntosh,Representative
-Cynthia,McKinney,Representative
-Michael,McMahon,Representative
-Michael,McNulty,Representative
-Martin,Meehan,Representative
-Carrie,Meek,Representative
-Kendrick,Meek,Representative
-Charlie,Melancon,Representative
-Jack,Metcalf,Representative
-Juanita,Millender-McDonald,Representative
-Dan,Miller,Representative
-Zell,Miller,Senator
-David,Minge,Representative
-Patsy,Mink,Representative
-Walter,Minnick,Representative
-Harry,Mitchell,Representative
-John,Moakley,Representative
-Susan,Molinari,Representative
-Alan,Mollohan,Representative
-Dennis,Moore,Representative
-Constance,Morella,Representative
-Carol,Moseley-Braun,Senator
-Daniel,Moynihan,Senator
-Frank,Murkowski,Senator
-Patrick,Murphy,Representative
-Scott,Murphy,Representative
-John,Murtha,Representative
-Marilyn,Musgrave,Representative
-George,Nethercutt,Representative
-Mark,Neumann,Representative
-Robert,Ney,Representative
-Don,Nickles,Senator
-Anne,Northup,Representative
-Charles,Norwood,Representative
-Jim,Nussle,Representative
-Glenn,Nye,Representative
-Barack,Obama,Senator
-James,Oberstar,Representative
-David,Obey,Representative
-Solomon,Ortiz,Representative
-Tom,Osborne,Representative
-Doug,Ose,Representative
-C.,Otter,Representative
-Major,Owens,Representative
-Michael,Oxley,Representative
-Ron,Packard,Representative
-Michael,Pappas,Representative
-Mike,Parker,Representative
-Bill,Paxon,Representative
-Edward,Pease,Representative
-Thomas,Perriello,Representative
-John,Peterson,Representative
-David,Phelps,Representative
-Charles,Pickering,Representative
-Owen,Pickett,Representative
-Richard,Pombo,Representative
-Earl,Pomeroy,Representative
-John,Porter,Representative
-Jon,Porter,Representative
-Glenn,Poshard,Representative
-Deborah,Pryce,Representative
-Adam,Putnam,Representative
-Jack,Quinn,Representative
-George,Radanovich,Representative
-Jim,Ramstad,Representative
-Bill,Redmond,Representative
-Ralph,Regula,Representative
-Rick,Renzi,Representative
-Thomas,Reynolds,Representative
-Bill,Richardson,Representative
-Frank,Riggs,Representative
-Bob,Riley,Representative
-Lynn,Rivers,Representative
-Charles,Robb,Senator
-Ciro,Rodriguez,Representative
-Tim,Roemer,Representative
-James,Rogan,Representative
-Carlos,Romero-Barcelo,Representative
-William,Roth,Senator
-Marge,Roukema,Representative
-Jim,Ryun,Representative
-Martin,Sabo,Representative
-John,Salazar,Representative
-Ken,Salazar,Senator
-Bill,Sali,Representative
-Max,Sandlin,Representative
-Rick,Santorum,Senator
-Paul,Sarbanes,Senator
-Tom,Sawyer,Representative
-Jim,Saxton,Representative
-Joe,Scarborough,Representative
-Dan,Schaefer,Representative
-Bob,Schaffer,Representative
-Mark,Schauer,Representative
-Steven,Schiff,Representative
-Edward,Schrock,Representative
-John,Schwarz,Representative
-Shelley,Sekula,Representative
-Joe,Sestak,Representative
-John,Shadegg,Representative
-E.,Shaw,Representative
-Christopher,Shays,Representative
-Don,Sherwood,Representative
-Ronnie,Shows,Representative
-Bud,Shuster,Representative
-Rob,Simmons,Representative
-Norman,Sisisky,Representative
-David,Skaggs,Representative
-Joe,Skeen,Representative
-Ike,Skelton,Representative
-Bob,Smith,Senator
-Gordon,Smith,Senator
-Linda,Smith,Representative
-Nick,Smith,Representative
-Robert,Smith,Representative
-Vince,Snowbarger,Representative
-Vic,Snyder,Representative
-Michael,Sodrel,Representative
-Hilda,Solis,Representative
-Gerald,Solomon,Representative
-Mark,Souder,Representative
-Zachary,Space,Representative
-Arlen,Specter,Senator
-Floyd,Spence,Representative
-John,Spratt,Representative
-Charles,Stenholm,Representative
-Ted,Stevens,Senator
-Louis,Stokes,Representative
-Ted,Strickland,Representative
-Bob,Stump,Representative
-Bart,Stupak,Representative
-John,Sununu,Senator
-John,Sweeney,Representative
-Jim,Talent,Senator
-Thomas,Tancredo,Representative
-John,Tanner,Representative
-Ellen,Tauscher,Representative
-W.,Tauzin,Representative
-Charles,Taylor,Representative
-Gene,Taylor,Representative
-Harry,Teague,Representative
-Frank,Tejeda,Representative
-Craig,Thomas,Senator
-William,Thomas,Representative
-Fred,Thompson,Senator
-Karen,Thurman,Representative
-Strom,Thurmond,Senator
-Todd,Tiahrt,Representative
-Estaban,Torres,Representative
-Robert,Torricelli,Senator
-James,Traficant,Representative
-Jim,Turner,Representative
-Robert,Underwood,Representative
-Bruce,Vento,Representative
-George,Voinovich,Senator
-James,Walsh,Representative
-Zach,Wamp,Representative
-John,Warner,Senator
-Wes,Watkins,Representative
-Diane,Watson,Representative
-J.,Watts,Representative
-Curt,Weldon,Representative
-Dave,Weldon,Representative
-Jerry,Weller,Representative
-Paul,Wellstone,Senator
-Robert,Wexler,Representative
-Robert,Weygand,Representative
-Rick,White,Representative
-Charles,Wilson,Representative
-Heather,Wilson,Representative
-Robert,Wise,Representative
-Albert,Wynn,Representative
-Sidney,Yates,Representative
-James,Abdnor,Senator
-Brock,Adams,Senator
-Joseph,Addabbo,Representative
-Donald,Albosta,Representative
-Bill,Alexander,Representative
-Glenn,Anderson,Representative
-Ike,Andrews,Representative
-Mark,Andrews,Senator
-Michael,Andrews,Representative
-Thomas,Andrews,Representative
-Frank,Annunzio,Representative
-Beryl,Anthony,Representative
-Douglas,Applegate,Representative
-William,Armstrong,Senator
-Les,Aspin,Representative
-Chester,Atkins,Representative
-Les,AuCoin,Representative
-Jim,Bacchus,Representative
-Robert,Badham,Representative
-Bill,Baker,Representative
-Howard,Baker,Senator
-Peter,Barca,Representative
-Tom,Barlow,Representative
-Doug,Barnard,Representative
-Michael,Barnes,Representative
-Steve,Bartlett,Representative
-Jim,Bates,Representative
-Berkley,Bedell,Representative
-Anthony,Beilenson,Representative
-Charles,Bennett,Representative
-Helen,Bentley,Representative
-Lloyd,Bentsen,Senator
-Ed,Bethune,Representative
-Tom,Bevill,Representative
-Mario,Biaggi,Representative
-James,Bilbray,Representative
-Lucien,Blackwell,Representative
-Ben,Blaz,Representative
-Peter,Blute,Representative
-Corinne,Boggs,Representative
-Edward,Boland,Representative
-William,Boner,Representative
-Don,Bonker,Representative
-David,Boren,Senator
-Rudy,Boschwitz,Senator
-Douglas,Bosco,Representative
-Beau,Boulter,Representative
-Bill,Bradley,Senator
-Joseph,Brennan,Representative
-Bill,Brewster,Representative
-Robin,Britt,Representative
-Jack,Brooks,Representative
-William,Broomfield,Representative
-Glen,Browder,Representative
-Hank,Brown,Senator
-James,Broyhill,Senator
-Terry,Bruce,Representative
-John,Bryant,Representative
-Jack,Buechner,Representative
-Jim,Bunn,Representative
-Joycelyn,Burdick,Senator
-Quentin,Burdick,Senator
-Phillip,Burton,Representative
-Sala,Burton,Representative
-Albert,Bustamante,Representative
-Leslie,Byrne,Representative
-Beverly,Byron,Representative
-Carroll,Campbell,Representative
-William,Carney,Representative
-Bob,Carr,Representative
-Rod,Chandler,Representative
-Jim,Chapman,Representative
-Bill,Chappell,Representative
-Eugene,Chappie,Representative
-Dick,Cheney,Representative
-Lawton,Chiles,Senator
-Dick,Chrysler,Representative
-James,Clarke,Representative
-William,Clinger,Representative
-William,Cobey,Representative
-Anthony,Coelho,Representative
-William,Cohen,Senator
-E.,Coleman,Representative
-Ronald,Coleman,Representative
-Barbara-Rose,Collins,Representative
-Cardiss,Collins,Representative
-Antonio,Colordao,Representative
-Barber,Conable,Representative
-Silvio,Conte,Representative
-Wes,Cooley,Representative
-Sam,Coppersmith,Representative
-Tom,Corcoran,Representative
-Baltasar,Corrada,Representative
-Lawrence,Coughlin,Representative
-Jim,Courter,Representative
-John,Cox,Representative
-Daniel,Crane,Representative
-Alan,Cranston,Senator
-Frank,Cremeans,Representative
-George,Crockett,Representative
-Norman,D'Amours,Representative
-John,Danforth,Senator
-W.,Daniel,Representative
-William,Dannemeyer,Representative
-George,Darden,Representative
-Hal,Daub,Representative
-Jack,Davis,Representative
-Robert,Davis,Representative
-E.,de,Representative
-Ron,de,Representative
-Dennis,DeConcini,Senator
-Jeremiah,Denton,Senator
-Butler,Derrick,Representative
-William,Dickinson,Representative
-Joseph,DioGuardi,Representative
-Alan,Dixon,Senator
-Robert,Dole,Senator
-Brian,Donnelly,Representative
-Robert,Dornan,Representative
-Chuck,Douglas,Representative
-Wayne,Dowdy,Representative
-Thomas,Downey,Representative
-John,Duncan,Representative
-Dave,Durenberger,Senator
-Bernard,Dwyer,Representative
-Mervyn,Dymally,Representative
-Roy,Dyson,Representative
-Thomas,Eagleton,Senator
-Joseph,Early,Representative
-John,East,Senator
-Dennis,Eckart,Representative
-Fred,Eckert,Representative
-Robert,Edgar,Representative
-Don,Edwards,Representative
-Jack,Edwards,Representative
-Mickey,Edwards,Representative
-Bill,Emerson,Representative
-Glenn,English,Representative
-Karan,English,Representative
-Ben,Erdreich,Representative
-John,Erlenborn,Representative
-Mike,Espy,Representative
-Cooper,Evans,Representative
-Daniel,Evans,Senator
-J.,Exon,Senator
-Dante,Fascell,Representative
-Walter,Fauntroy,Representative
-Edward,Feighan,Representative
-Geraldine,Ferraro,Representative
-Bobbi,Fiedler,Representative
-Cleo,Fields,Representative
-Jack,Fields,Representative
-Eric,Fingerhut,Representative
-Hamilton,Fish,Representative
-Michael,Flanagan,Representative
-Ronnie,Flippo,Representative
-James,Florio,Representative
-Thomas,Foley,Representative
-Harold,Ford,Representative
-William,Ford,Representative
-Edwin,Forsythe,Representative
-Wyche,Fowler,Senator
-Sheila,Frahm,Senator
-William,Franklin,Representative
-Gary,Franks,Representative
-Victor,Frazer,Representative
-Bill,Frenzel,Representative
-Dan,Frisa,Representative
-David,Funderburk,Representative
-Don,Fuqua,Representative
-Jamie,Fuster,Representative
-Dean,Gallo,Representative
-Robert,Garcia,Representative
-E.,Garn,Senator
-Joseph,Gaydos,Representative
-Pete,Geren,Representative
-Sam,Gibbons,Representative
-Dan,Glickman,Representative
-Barry,Goldwater,Senator
-Albert,Gore,Senator
-Willis,Gradison,Representative
-Fred,Grandy,Representative
-Bill,Grant,Representative
-Kenneth,Gray,Representative
-William,Gray,Representative
-S.,Green,Representative
-John,Grotberg,Representative
-Frank,Guarini,Representative
-Steve,Gunderson,Representative
-Katie,Hall,Representative
-Sam,Hall,Representative
-Dan,Hamburg,Representative
-John,Hammerschmidt,Representative
-Kent,Hance,Representative
-Mel,Hancock,Representative
-George,Hansen,Representative
-Claude,Harris,Representative
-Frank,Harrison,Representative
-Gary,Hart,Senator
-Thomas,Hartnett,Representative
-Charles,Hatcher,Representative
-Mark,Hatfield,Senator
-Augustus,Hawkins,Representative
-Paula,Hawkins,Senator
-Charles,Hayes,Representative
-James,Hayes,Representative
-Chic,Hecht,Senator
-Howell,Heflin,Senator
-Cecil,Heftel,Representative
-Frederick,Heineman,Representative
-John,Heinz,Senator
-Bill,Hendon,Representative
-Paul,Henry,Representative
-Dennis,Hertel,Representative
-Jack,Hightower,Representative
-John,Hiler,Representative
-Elwood,Hillis,Representative
-Peter,Hoagland,Representative
-George,Hochbrueckner,Representative
-Martin,Hoke,Representative
-Clyde,Holloway,Representative
-Marjorie,Holt,Representative
-Larry,Hopkins,Representative
-Joan,Horn,Representative
-Frank,Horton,Representative
-James,Howard,Representative
-Carroll,Hubbard,Representative
-Thomas,Huckaby,Representative
-Walter,Huddleston,Senator
-Michael,Huffington,Representative
-William,Hughes,Representative
-Gordon,Humphrey,Senator
-Earl,Hutto,Representative
-Andrew,Ireland,Representative
-Henry,Jackson,Senator
-Andrew,Jacobs,Representative
-Craig,James,Representative
-Edgar,Jenkins,Representative
-Roger,Jepsen,Senator
-Don,Johnson,Representative
-Harry,Johnston,Representative
-J.,Johnston,Senator
-Ben,Jones,Representative
-Ed,Jones,Representative
-James,Jones,Representative
-Walter,Jones,Representative
-Jim,Jontz,Representative
-David,Karnes,Senator
-Nancy,Kassebaum,Senator
-Robert,Kasten,Senator
-Robert,Kastenmeier,Representative
-Abraham,Kazen,Representative
-Jack,Kemp,Representative
-Thomas,Kindness,Representative
-Herbert,Klein,Representative
-Ray,Kogovsek,Representative
-Joseph,Kolter,Representative
-Ernest,Konnyu,Representative
-Mike,Kopetski,Representative
-Peter,Kostmayer,Representative
-Ken,Kramer,Representative
-Mike,Kreidler,Representative
-Robert,Krueger,Senator
-Robert,Lagomarsino,Representative
-H.,Lancaster,Representative
-Larry,LaRocco,Representative
-Delbert,Latta,Representative
-Greg,Laughlin,Representative
-Paul,Laxalt,Senator
-Marvin,Leath,Representative
-Richard,Lehman,Representative
-William,Lehman,Representative
-Mickey,Leland,Representative
-Norman,Lent,Representative
-Mel,Levine,Representative
-Elliott,Levitas,Representative
-David,Levy,Representative
-Thomas,Lewis,Representative
-Jim,Lightfoot,Representative
-Marilyn,Lloyd,Representative
-Tom,Loeffler,Representative
-Cathy,Long,Representative
-Clarence,Long,Representative
-Gillis,Long,Representative
-Jill,Long,Representative
-Russell,Long,Senator
-James,Longley,Representative
-Bill,Lowery,Representative
-Mike,Lowry,Representative
-Manuel,Lujan,Representative
-Charles,Luken,Representative
-Thomas,Luken,Representative
-Donald,Lukens,Representative
-Stanley,Lundine,Representative
-Ronald,Machtley,Representative
-Buddy,MacKay,Representative
-Edward,Madigan,Representative
-David,Mann,Representative
-Marjorie,Margolies-Mezvinsky,Representative
-Ron,Marlenee,Representative
-David,Marriott,Representative
-David,Martin,Representative
-James,Martin,Representative
-Lynn,Martin,Representative
-William,Martini,Representative
-Harlan,Mathews,Senator
-Charles,Mathias,Senator
-Spark,Matsunaga,Senator
-Mack,Mattingly,Senator
-Nicholas,Mavroules,Representative
-Romano,Mazzoli,Representative
-Alfred,McCandless,Representative
-Frank,McCloskey,Representative
-James,McClure,Senator
-Dave,McCurdy,Representative
-Lawrence,McDonald,Representative
-Bob,McEwen,Representative
-Raymond,McGrath,Representative
-Matthew,McHugh,Representative
-John,McKernan,Representative
-Stewart,McKinney,Representative
-J.,McMillan,Representative
-Thomas,McMillen,Representative
-James,McNulty,Representative
-John,Melcher,Senator
-Howard,Metzenbaum,Senator
-Jan,Meyers,Representative
-Kweisi,Mfume,Representative
-Daniel,Mica,Representative
-Robert,Michel,Representative
-Clarence,Miller,Representative
-John,Miller,Representative
-Norman,Mineta,Representative
-Joseph,Minish,Representative
-George,Mitchell,Senator
-Parren,Mitchell,Representative
-Guy,Molinari,Representative
-David,Monson,Representative
-G.,Montgomery,Representative
-Jim,Moody,Representative
-W.,Moore,Representative
-Carlos,Moorhead,Representative
-Bruce,Morrison,Representative
-Sid,Morrison,Representative
-Robert,Mrazek,Representative
-Austin,Murphy,Representative
-John,Myers,Representative
-Dave,Nagle,Representative
-William,Natcher,Representative
-Stephen,Neal,Representative
-Bill,Nichols,Representative
-Dick,Nichols,Representative
-Howard,Nielson,Representative
-Henry,Nowak,Representative
-Sam,Nunn,Senator
-George,O'Brien,Representative
-Thomas,O'Neill,Representative
-Mary,Oakar,Representative
-James,Olin,Representative
-Bill,Orton,Representative
-Richard,Ottinger,Representative
-Wayne,Owens,Representative
-Bob,Packwood,Senator
-Leon,Panetta,Representative
-Stanford,Parris,Representative
-Charles,Pashayan,Representative
-William,Patman,Representative
-Elizabeth,Patterson,Representative
-Jerry,Patterson,Representative
-Lewis,Payne,Representative
-Donald,Pease,Representative
-Claiborne,Pell,Senator
-Timothy,Penny,Representative
-Claude,Pepper,Representative
-Charles,Percy,Senator
-Carl,Perkins,Representative
-Carl,Perkins,Representative
-Douglas,Peterson,Representative
-J.,Pickle,Representative
-Larry,Pressler,Senator
-Melvin,Price,Representative
-Joel,Pritchard,Representative
-William,Proxmire,Senator
-David,Pryor,Senator
-Carl,Pursell,Representative
-Dan,Quayle,Senator
-James,Quillen,Representative
-Jennings,Randolph,Senator
-William,Ratchford,Representative
-Arthur,Ravenel,Representative
-Richard,Ray,Representative
-Mel,Reynolds,Representative
-John,Rhodes,Representative
-Thomas,Ridge,Representative
-Donald,Riegle,Senator
-Matthew,Rinaldo,Representative
-Don,Ritter,Representative
-J.,Robinson,Representative
-Tommy,Robinson,Representative
-Peter,Rodino,Representative
-Robert,Roe,Representative
-Buddy,Roemer,Representative
-Charlie,Rose,Representative
-Dan,Rostenkowski,Representative
-Toby,Roth,Representative
-J.,Rowland,Representative
-John,Rowland,Representative
-Edward,Roybal,Representative
-Eldon,Rudd,Representative
-Warren,Rudman,Senator
-Martin,Russo,Representative
-Patricia,Saiki,Representative
-Terry,Sanford,Senator
-George,Sangmeister,Representative
-Bill,Sarpalius,Representative
-Jim,Sasser,Senator
-Gus,Savage,Representative
-Harold,Sawyer,Representative
-Lynn,Schenk,Representative
-James,Scheuer,Representative
-Claudine,Schneider,Representative
-Patricia,Schroeder,Representative
-Bill,Schuette,Representative
-Richard,Schulze,Representative
-Andrea,Seastrand,Representative
-John,Seiberling,Representative
-John,Seymour,Senator
-James,Shannon,Representative
-Philip,Sharp,Representative
-Karen,Shepherd,Representative
-Norman,Shumway,Representative
-Gerry,Sikorski,Representative
-Mark,Siljander,Representative
-Paul,Simon,Senator
-Alan,Simpson,Senator
-Jim,Slattery,Representative
-D.,Slaughter,Representative
-Denny,Smith,Representative
-Larkin,Smith,Representative
-Lawrence,Smith,Representative
-Neal,Smith,Representative
-Peter,Smith,Representative
-Virginia,Smith,Representative
-M.,Snyder,Representative
-Stephen,Solarz,Representative
-Fernand,St,Representative
-Robert,Stafford,Senator
-Harley,Staggers,Representative
-Richard,Stallings,Representative
-Arlan,Stangeland,Representative
-John,Stennis,Senator
-Michael,Strang,Representative
-Samuel,Stratton,Representative
-Gerry,Studds,Representative
-Don,Sundquist,Representative
-Foto,Sunia,Representative
-David,Sweeney,Representative
-Dick,Swett,Representative
-Al,Swift,Representative
-Patrick,Swindall,Representative
-Steven,Symms,Senator
-Mike,Synar,Representative
-Robert,Tallon,Representative
-Randy,Tate,Representative
-Thomas,Tauke,Representative
-G.,Taylor,Representative
-Lindsay,Thomas,Representative
-Ray,Thornton,Representative
-Peter,Torkildsen,Representative
-John,Tower,Senator
-Bob,Traxler,Representative
-Paul,Trible,Senator
-Paul,Tsongas,Senator
-Walter,Tucker,Representative
-Morris,Udall,Representative
-Jolene,Unsoeld,Representative
-Tim,Valentine,Representative
-Guy,Vander,Representative
-Tommy,Vandergriff,Representative
-Harold,Volkmer,Representative
-Barbara,Vucanovich,Representative
-Enid,Waldholtz,Representative
-Alton,Waldon,Representative
-Doug,Walgren,Representative
-Robert,Walker,Representative
-Malcolm,Wallop,Senator
-Mike,Ward,Representative
-Craig,Washington,Representative
-Harold,Washington,Representative
-James,Weaver,Representative
-Vin,Weber,Representative
-Lowell,Weicker,Senator
-Ted,Weiss,Representative
-Alan,Wheat,Representative
-G.,Whitehurst,Representative
-Charles,Whitley,Representative
-Bob,Whittaker,Representative
-Jamie,Whitten,Representative
-Lyle,Williams,Representative
-Pat,Williams,Representative
-Charles,Wilson,Representative
-Pete,Wilson,Senator
-Larry,Winn,Representative
-Timothy,Wirth,Senator
-Harris,Wofford,Senator
-Howard,Wolpe,Representative
-Antonio,Won,Representative
-George,Wortley,Representative
-James,Wright,Representative
-Chalmers,Wylie,Representative
-Gus,Yatron,Representative
-Robert,Young,Representative
-Clement,Zablocki,Representative
-William,Zeliff,Representative
-Dick,Zimmer,Representative
-Edward,Zorinsky,Senator
-Edwin,Zschau,Representative
-James,Abourezk,Senator
-Bella,Abzug,Representative
-George,Aiken,Senator
-Carl,Albert,Representative
-Clifford,Allen,Representative
-James,Allen,Senator
-Maryon,Allen,Senator
-Jerome,Ambro,Representative
-Joseph,Ammerman,Representative
-John,Anderson,Representative
-Wendell,Anderson,Senator
-Leslie,Arends,Representative
-Jean,Ashbrook,Representative
-John,Ashbrook,Representative
-Thomas,Ashley,Representative
-Eugene,Atkinson,Representative
-Herman,Badillo,Representative
-L.,Bafalis,Representative
-Donald,Bailey,Representative
-Wendell,Bailey,Representative
-LaMar,Baker,Representative
-Alvin,Baldus,Representative
-William,Barrett,Representative
-Dewey,Bartlett,Senator
-Robert,Bauman,Representative
-Birch,Bayh,Senator
-J.,Beall,Senator
-Edward,Beard,Representative
-Robin,Beard,Representative
-Alphonzo,Bell,Representative
-Henry,Bellmon,Senator
-Cleve,Benedict,Representative
-Jamie,Benitez,Representative
-Adam,Benjamin,Representative
-Wallace,Bennett,Senator
-Bob,Bergland,Representative
-Alan,Bible,Senator
-Edward,Biester,Representative
-Jonathan,Bingham,Representative
-Ben,Blackburn,Representative
-James,Blanchard,Representative
-John,Blatnik,Representative
-Michael,Blouin,Representative
-Richard,Bolling,Representative
-David,Bowen,Representative
-John,Brademas,Representative
-Nicholas,Brady,Senator
-Frank,Brasco,Representative
-William,Bray,Representative
-John,Breckinridge,Representative
-Jack,Brinkley,Representative
-Bill,Brock,Senator
-William,Brodhead,Representative
-Edward,Brooke,Senator
-Donald,Brotzman,Representative
-Clarence,Brown,Representative
-Garry,Brown,Representative
-Joel,Broyhill,Representative
-John,Buchanan,Representative
-James,Buckley,Senator
-Clair,Burgener,Representative
-J.,Burke,Representative
-James,Burke,Representative
-Yvonne,Burke,Representative
-Omar,Burleson,Representative
-Bill,Burlison,Representative
-John,Burton,Representative
-M.,Butler,Representative
-Harry,Byrd,Senator
-Goodloe,Byron,Representative
-John,Camp,Representative
-Howard,Cannon,Senator
-Bruce,Caputo,Representative
-Hugh,Carey,Representative
-Gregory,Carman,Representative
-Charles,Carney,Representative
-Tim,Carter,Representative
-Clifford,Case,Senator
-Bob,Casey,Representative
-John,Cavanaugh,Representative
-Elford,Cederberg,Representative
-Charles,Chamberlain,Representative
-Shirley,Chisholm,Representative
-Frank,Church,Senator
-Donald,Clancy,Representative
-Dick,Clark,Senator
-Frank,Clark,Representative
-Don,Clausen,Representative
-Del,Clawson,Representative
-James,Cleveland,Representative
-Harold,Collier,Representative
-James,Collins,Representative
-John,Conlan,Representative
-Marlow,Cook,Senator
-James,Corman,Representative
-Robert,Cornell,Representative
-David,Cornwell,Representative
-William,Cotter,Representative
-Norris,Cotton,Senator
-James,Coyne,Representative
-Paul,Cronin,Representative
-John,Culver,Senator
-John,Cunningham,Representative
-Carl,Curtis,Senator
-Robert,Daniel,Representative
-Dominick,Daniels,Representative
-George,Danielson,Representative
-Glenn,Davis,Representative
-John,Davis,Representative
-Mendel,Davis,Representative
-Joel,Deckard,Representative
-James,Delaney,Representative
-John,Dellenback,Representative
-Lawrence,DeNardis,Representative
-Frank,Denholm,Representative
-David,Dennis,Representative
-John,Dent,Representative
-Edward,Derwinski,Representative
-Samuel,Devine,Representative
-Charles,Diggs,Representative
-Peter,Dominick,Senator
-Harold,Donohue,Representative
-William,Dorn,Representative
-Charles,Dougherty,Representative
-Thomas,Downing,Representative
-Robert,Drinan,Representative
-Pierre,du,Representative
-Thaddeus,Dulski,Representative
-Robert,Duncan,Representative
-Jim,Dunn,Representative
-John,Durkin,Senator
-James,Eastland,Senator
-Bob,Eckhardt,Representative
-Joshua,Eilberg,Representative
-David,Emery,Representative
-Arlen,Erdahl,Representative
-Allen,Ertel,Representative
-Sam,Ervin,Senator
-Marvin,Esch,Representative
-Edwin,Eshleman,Representative
-Billy,Evans,Representative
-David,Evans,Representative
-Frank,Evans,Representative
-Melvin,Evans,Representative
-Thomas,Evans,Representative
-Joe,Evins,Representative
-Paul,Fannin,Senator
-John,Fary,Representative
-Millicent,Fenwick,Representative
-Paul,Findley,Representative
-Joesph,Fisher,Representative
-O.,Fisher,Representative
-Floyd,Fithian,Representative
-Daniel,Flood,Representative
-Walter,Flowers,Representative
-John,Flynt,Representative
-Hiram,Fong,Senator
-Gerald,Ford,Representative
-L.,Fountain,Representative
-Donald,Fraser,Representative
-Peter,Frelinghuysen,Representative
-Lou,Frey,Representative
-Harold,Froehlich,Representative
-James,Fulbright,Senator
-Richard,Fulton,Representative
-Robert,Gammage,Representative
-Tom,Gettys,Representative
-Robert,Giaimo,Representative
-Bo,Ginn,Representative
-Barry,Goldwater,Representative
-Ella,Grasso,Representative
-Mike,Gravel,Senator
-Edith,Green,Representative
-William,Green,Representative
-Robert,Griffin,Senator
-Martha,Griffiths,Representative
-Wayne,Grisham,Representative
-H.,Gross,Representative
-James,Grover,Representative
-Charles,Gubser,Representative
-Gilbert,Gude,Representative
-V.,Gudger,Representative
-Bill,Gunter,Representative
-Edward,Gurney,Senator
-Tennyson,Guyer,Representative
-Thomas,Hagedorn,Representative
-James,Haley,Representative
-Tim,Hall,Representative
-James,Hanley,Representative
-Richard,Hanna,Representative
-Mark,Hannaford,Representative
-Robert,Hanrahan,Representative
-Clifford,Hansen,Senator
-Julia,Hansen,Representative
-Orval,Hansen,Representative
-Michael,Harrington,Representative
-Herbert,Harris,Representative
-William,Harsha,Representative
-Philip,Hart,Senator
-Vance,Hartke,Senator
-James,Harvey,Representative
-Floyd,Haskell,Senator
-James,Hastings,Representative
-Paul,Hatfield,Senator
-William,Hathaway,Senator
-Samuel,Hayakawa,Senator
-Philip,Hayes,Representative
-Wayne,Hays,Representative
-F.,Hebert,Representative
-Ken,Hechler,Representative
-Margaret,Heckler,Representative
-Henry,Helstoski,Representative
-David,Henderson,Representative
-Floyd,Hicks,Representative
-Andrew,Hinshaw,Representative
-Jon,Hinson,Representative
-Kaneaster,Hodges,Senator
-Lawrence,Hogan,Representative
-Chet,Holifield,Representative
-Kenneth,Holland,Representative
-Harold,Hollenbeck,Representative
-Elizabeth,Holtzman,Representative
-Craig,Hosmer,Representative
-Allan,Howe,Representative
-Roman,Hruska,Senator
-Robert,Huber,Representative
-William,Hudnut,Representative
-Harold,Hughes,Senator
-Hubert,Humphrey,Senator
-Muriel,Humphrey,Senator
-William,Hungate,Representative
-John,Hunt,Representative
-Edward,Hutchinson,Representative
-John,Hutchinson,Representative
-Richard,Ichord,Representative
-John,Jarman,Representative
-Jacob,Javits,Senator
-Jim,Jeffries,Representative
-John,Jenrette,Representative
-Albert,Johnson,Representative
-Harold,Johnson,Representative
-James,Johnson,Representative
-Eugene,Johnston,Representative
-Robert,Jones,Representative
-Barbara,Jordan,Representative
-Joseph,Karth,Representative
-William,Keating,Representative
-Richard,Kelly,Representative
-William,Ketchum,Representative
-Martha,Keys,Representative
-Carleton,King,Representative
-John,Kluczynski,Representative
-Edward,Koch,Representative
-John,Krebs,Representative
-Dan,Kuykendall,Representative
-Peter,Kyros,Representative
-Earl,Landgrebe,Representative
-Phil,Landrum,Representative
-Claude,Leach,Representative
-John,LeBoutillier,Representative
-Raymond,Lederer,Representative
-Gary,Lee,Representative
-Joseph,LeFante,Representative
-Robert,Leggett,Representative
-Jerry,Litton,Representative
-James,Lloyd,Representative
-Torbert,Macdonald,Representative
-Ray,Madden,Representative
-Warren,Magnuson,Senator
-Andrew,Maguire,Representative
-George,Mahon,Representative
-William,Mailliard,Representative
-Richard,Mallary,Representative
-James,Mann,Representative
-Mike,Mansfield,Senator
-Joseph,Maraziti,Representative
-Marc,Marks,Representative
-David,Martin,Representative
-Robert,Mathias,Representative
-Dawson,Mathis,Representative
-James,Mattox,Representative
-Wiley,Mayne,Representative
-John,McClellan,Senator
-Robert,McClory,Representative
-Paul,McCloskey,Representative
-John,McCollister,Representative
-Mike,McCormack,Representative
-Robert,McEwen,Representative
-John,McFall,Representative
-Gale,McGee,Senator
-George,McGovern,Senator
-Thomas,McIntyre,Senator
-K.,McKay,Representative
-Clem,McSpadden,Representative
-Lloyd,Meeds,Representative
-Lee,Metcalf,Senator
-Ralph,Metcalfe,Representative
-Helen,Meyner,Representative
-Edward,Mezvinsky,Representative
-Abner,Mikva,Representative
-Dale,Milford,Representative
-Wilbur,Mills,Representative
-William,Mills,Representative
-William,Minshall,Representative
-Donald,Mitchell,Representative
-Wilmer,Mizell,Representative
-Toby,Moffett,Representative
-Robert,Mollohan,Representative
-Walter,Mondale,Senator
-Joseph,Montoya,Senator
-William,Moorhead,Representative
-Robert,Morgan,Senator
-Thomas,Morgan,Representative
-Charles,Mosher,Representative
-Frank,Moss,Senator
-John,Moss,Representative
-Ronald,Mottl,Representative
-John,Murphy,Representative
-Morgan,Murphy,Representative
-Edmund,Muskie,Senator
-Raphael,Musto,Representative
-Gary,Myers,Representative
-Michael,Myers,Representative
-John,Napier,Representative
-Lucien,Nedzi,Representative
-James,Nelligan,Representative
-Ancher,Nelsen,Representative
-Gaylord,Nelson,Senator
-Robert,Nix,Representative
-James,O'Hara,Representative
-Otto,Passman,Representative
-John,Pastore,Senator
-Wright,Patman,Representative
-Edward,Patten,Representative
-Edward,Pattison,Representative
-James,Pearson,Senator
-Jerry,Pettis,Representative
-Shirley,Pettis,Representative
-Peter,Peyser,Representative
-Otis,Pike,Representative
-W.,Poage,Representative
-Bertram,Podell,Representative
-Walter,Powell,Representative
-Richardson,Preyer,Representative
-Robert,Price,Representative
-Albert,Quie,Representative
-Thomas,Railsback,Representative
-William,Randall,Representative
-John,Rarick,Representative
-Thomas,Rees,Representative
-Ogden,Reid,Representative
-Henry,Reuss,Representative
-John,Rhodes,Representative
-Abraham,Ribicoff,Senator
-Frederick,Richmond,Representative
-Theodore,Risenhoover,Representative
-Clint,Roberts,Representative
-Ray,Roberts,Representative
-Howard,Robison,Representative
-Paul,Rogers,Representative
-Teno,Roncalio,Representative
-Angelo,Roncallo,Representative
-Fred,Rooney,Representative
-John,Rooney,Representative
-Benjamin,Rosenthal,Representative
-J.,Roush,Representative
-John,Rousselot,Representative
-William,Roy,Representative
-William,Royer,Representative
-Harold,Runnels,Representative
-Philip,Ruppe,Representative
-Earl,Ruth,Representative
-Leo,Ryan,Representative
-Charles,Sandman,Representative
-James,Santini,Representative
-Ronald,Sarasin,Representative
-David,Satterfield,Representative
-William,Saxbe,Senator
-John,Saylor,Representative
-William,Scherle,Representative
-Harrison,Schmitt,Senator
-Herman,Schneebeli,Representative
-Richard,Schweiker,Senator
-Hugh,Scott,Senator
-William,Scott,Senator
-Keith,Sebelius,Representative
-Bob,Shamansky,Representative
-George,Shipley,Representative
-Dick,Shoup,Representative
-Garner,Shriver,Representative
-Robert,Sikes,Representative
-B.,Sisk,Representative
-Joe,Skubitz,Representative
-John,Slack,Representative
-Albert,Smith,Representative
-Henry,Smith,Representative
-Joseph,Smith,Representative
-John,Sparkman,Senator
-Gladys,Spellman,Representative
-Edward,Stack,Representative
-Harley,Staggers,Representative
-J.,Stanton,Representative
-James,Stanton,Representative
-David,Staton,Representative
-Tom,Steed,Representative
-Robert,Steele,Representative
-Alan,Steelman,Representative
-Newton,Steers,Representative
-Sam,Steiger,Representative
-William,Steiger,Representative
-Robert,Stephens,Representative
-Adlai,Stevenson,Senator
-Bennett,Stewart,Representative
-Donald,Stewart,Senator
-David,Stockman,Representative
-Richard,Stone,Senator
-Frank,Stubblefield,Representative
-W.,Stuckey,Representative
-Leonor,Sullivan,Representative
-James,Symington,Representative
-Stuart,Symington,Senator
-Robert,Taft,Senator
-Burt,Talcott,Representative
-Herman,Talmadge,Senator
-Roy,Taylor,Representative
-Charles,Teague,Representative
-Olin,Teague,Representative
-Frank,Thompson,Representative
-Vernon,Thomson,Representative
-Charles,Thone,Representative
-Robert,Tiernan,Representative
-Richard,Tonry,Representative
-David,Towell,Representative
-David,Treen,Representative
-James,Tucker,Representative
-John,Tunney,Senator
-Al,Ullman,Representative
-Lionel,Van,Representative
-Richard,Vander,Representative
-Charles,Vanik,Representative
-Victor,Veysey,Representative
-Joseph,Vigorito,Representative
-Joe,Waggonner,Representative
-Jerome,Waldie,Representative
-William,Walsh,Representative
-William,Wampler,Representative
-John,Ware,Representative
-Ed,Weber,Representative
-Charles,Whalen,Representative
-Richard,White,Representative
-William,Widnall,Representative
-Charles,Wiggins,Representative
-Harrison,Williams,Senator
-Lawrence,Williams,Representative
-Charles,Wilson,Representative
-Robert,Wilson,Representative
-Lester,Wolff,Representative
-Joe,Wyatt,Representative
-Wendell,Wyatt,Representative
-John,Wydler,Representative
-Louis,Wyman,Senator
-Andrew,Young,Representative
-Edward,Young,Representative
-John,Young,Representative
-Milton,Young,Senator
-Samuel,Young,Representative
-Leo,Zeferetti,Representative
-Roger,Zion,Representative
-John,Zwach,Representative
+first_name,last_name,full_name
+Ralph,Abraham,Ralph Abraham
+Gary,Ackerman,Gary Ackerman
+Alma,Adams,Alma Adams
+Sandy,Adams,Sandy Adams
+Robert,Aderholt,Robert Aderholt
+Pete,Aguilar,Pete Aguilar
+Daniel,Akaka,Daniel Akaka
+Todd,Akin,Todd Akin
+Lamar,Alexander,Lamar Alexander
+Rodney,Alexander,Rodney Alexander
+Rick,Allen,Rick Allen
+Colin,Allred,Colin Allred
+Jason,Altmire,Jason Altmire
+Justin,Amash,Justin Amash
+Mark,Amodei,Mark Amodei
+Robert,Andrews,Robert Andrews
+Kelly,Armstrong,Kelly Armstrong
+Jodey,Arrington,Jodey Arrington
+Brad,Ashford,Brad Ashford
+Steve,Austria,Steve Austria
+Cynthia,Axne,Cynthia Axne
+Kelly,Ayotte,Kelly Ayotte
+Brian,Babin,Brian Babin
+Joe,Baca,Joe Baca
+Michele,Bachmann,Michele Bachmann
+Spencer,Bachus,Spencer Bachus
+Don,Bacon,Don Bacon
+James,Baird,James Baird
+Troy,Balderson,Troy Balderson
+Tammy,Baldwin,Tammy Baldwin
+Jim,Banks,Jim Banks
+Ron,Barber,Ron Barber
+Lou,Barletta,Lou Barletta
+Andy,Barr,Andy Barr
+Nanette,Barragan,Nanette Barragan
+John,Barrasso,John Barrasso
+John,Barrow,John Barrow
+Roscoe,Bartlett,Roscoe Bartlett
+Joe,Barton,Joe Barton
+Charles,Bass,Charles Bass
+Karen,Bass,Karen Bass
+Max,Baucus,Max Baucus
+Joyce,Beatty,Joyce Beatty
+Xavier,Becerra,Xavier Becerra
+Mark,Begich,Mark Begich
+Dan,Benishek,Dan Benishek
+Michael,Bennet,Michael Bennet
+Kerry,Bentivolio,Kerry Bentivolio
+Ami,Bera,Ami Bera
+Rick,Berg,Rick Berg
+Jack,Bergman,Jack Bergman
+Shelley,Berkley,Shelley Berkley
+Howard,Berman,Howard Berman
+Donald,Beyer,Donald Beyer
+Judy,Biggert,Judy Biggert
+Andy,Biggs,Andy Biggs
+Brian,Bilbray,Brian Bilbray
+Gus,Bilirakis,Gus Bilirakis
+Jeff,Bingaman,Jeff Bingaman
+Mike,Bishop,Mike Bishop
+Rob,Bishop,Rob Bishop
+Sanford,Bishop,Sanford Bishop
+Timothy,Bishop,Timothy Bishop
+Diane,Black,Diane Black
+Marsha,Blackburn,Marsha Blackburn
+Rod,Blum,Rod Blum
+Earl,Blumenauer,Earl Blumenauer
+Richard,Blumenthal,Richard Blumenthal
+Lisa,Blunt,Lisa Blunt
+Roy,Blunt,Roy Blunt
+John,Boehner,John Boehner
+Suzanne,Bonamici,Suzanne Bonamici
+Jo,Bonner,Jo Bonner
+Mary,Bono,Mary Bono
+Cory,Booker,Cory Booker
+John,Boozman,John Boozman
+Madeleine,Bordallo,Madeleine Bordallo
+Dan,Boren,Dan Boren
+Mike,Bost,Mike Bost
+Leonard,Boswell,Leonard Boswell
+Charles,Boustany,Charles Boustany
+Barbara,Boxer,Barbara Boxer
+Brendan,Boyle,Brendan Boyle
+Kevin,Brady,Kevin Brady
+Robert,Brady,Robert Brady
+Bruce,Braley,Bruce Braley
+Dave,Brat,Dave Brat
+Mike,Braun,Mike Braun
+Jim,Bridenstine,Jim Bridenstine
+Anthony,Brindisi,Anthony Brindisi
+Mo,Brooks,Mo Brooks
+Susan,Brooks,Susan Brooks
+Paul,Broun,Paul Broun
+Anthony,Brown,Anthony Brown
+Corrine,Brown,Corrine Brown
+Scott,Brown,Scott Brown
+Sherrod,Brown,Sherrod Brown
+Julia,Brownley,Julia Brownley
+Vern,Buchanan,Vern Buchanan
+Ken,Buck,Ken Buck
+Larry,Bucshon,Larry Bucshon
+Ted,Budd,Ted Budd
+Ann,Buerkle,Ann Buerkle
+Tim,Burchett,Tim Burchett
+Michael,Burgess,Michael Burgess
+Richard,Burr,Richard Burr
+Dan,Burton,Dan Burton
+Cheri,Bustos,Cheri Bustos
+G.,Butterfield,G. Butterfield
+Bradley,Byrne,Bradley Byrne
+Ken,Calvert,Ken Calvert
+Dave,Camp,Dave Camp
+John,Campbell,John Campbell
+Francisco,Canseco,Francisco Canseco
+Eric,Cantor,Eric Cantor
+Maria,Cantwell,Maria Cantwell
+Shelley,Capito,Shelley Capito
+Lois,Capps,Lois Capps
+Michael,Capuano,Michael Capuano
+Salud,Carbajal,Salud Carbajal
+Tony,Cardenas,Tony Cardenas
+Benjamin,Cardin,Benjamin Cardin
+Dennis,Cardoza,Dennis Cardoza
+Russ,Carnahan,Russ Carnahan
+John,Carney,John Carney
+Thomas,Carper,Thomas Carper
+Andre,Carson,Andre Carson
+Earl,Carter,Earl Carter
+John,Carter,John Carter
+Matt,Cartwright,Matt Cartwright
+Ed,Case,Ed Case
+Robert,Casey,Robert Casey
+Bill,Cassidy,Bill Cassidy
+Sean,Casten,Sean Casten
+Kathy,Castor,Kathy Castor
+Joaquin,Castro,Joaquin Castro
+Steve,Chabot,Steve Chabot
+Jason,Chaffetz,Jason Chaffetz
+Saxby,Chambliss,Saxby Chambliss
+Ben,Chandler,Ben Chandler
+Liz,Cheney,Liz Cheney
+Jeff,Chiesa,Jeff Chiesa
+Donna,Christensen,Donna Christensen
+Judy,Chu,Judy Chu
+David,Cicilline,David Cicilline
+Gilbert,Cisneros,Gilbert Cisneros
+Katherine,Clark,Katherine Clark
+Hansen,Clarke,Hansen Clarke
+Yvette,Clarke,Yvette Clarke
+Curt,Clawson,Curt Clawson
+Wm.,Clay,Wm. Clay
+Emanuel,Cleaver,Emanuel Cleaver
+Ben,Cline,Ben Cline
+Michael,Cloud,Michael Cloud
+James,Clyburn,James Clyburn
+Daniel,Coats,Daniel Coats
+Howard,Coble,Howard Coble
+Tom,Coburn,Tom Coburn
+Thad,Cochran,Thad Cochran
+Mike,Coffman,Mike Coffman
+Steve,Cohen,Steve Cohen
+Tom,Cole,Tom Cole
+Chris,Collins,Chris Collins
+Doug,Collins,Doug Collins
+Susan,Collins,Susan Collins
+James,Comer,James Comer
+Barbara,Comstock,Barbara Comstock
+K.,Conaway,K. Conaway
+Gerald,Connolly,Gerald Connolly
+Kent,Conrad,Kent Conrad
+John,Conyers,John Conyers
+Paul,Cook,Paul Cook
+Christopher,Coons,Christopher Coons
+Jim,Cooper,Jim Cooper
+Bob,Corker,Bob Corker
+John,Cornyn,John Cornyn
+J.,Correa,J. Correa
+Catherine,Cortez,Catherine Cortez
+Jim,Costa,Jim Costa
+Jerry,Costello,Jerry Costello
+Ryan,Costello,Ryan Costello
+Tom,Cotton,Tom Cotton
+Joe,Courtney,Joe Courtney
+William,Cowan,William Cowan
+TJ,Cox,TJ Cox
+Angie,Craig,Angie Craig
+Kevin,Cramer,Kevin Cramer
+Mike,Crapo,Mike Crapo
+Chip,Cravaack,Chip Cravaack
+Eric,Crawford,Eric Crawford
+Ander,Crenshaw,Ander Crenshaw
+Dan,Crenshaw,Dan Crenshaw
+Charlie,Crist,Charlie Crist
+Mark,Critz,Mark Critz
+Jason,Crow,Jason Crow
+Joseph,Crowley,Joseph Crowley
+Ted,Cruz,Ted Cruz
+Henry,Cuellar,Henry Cuellar
+John,Culberson,John Culberson
+Elijah,Cummings,Elijah Cummings
+Joe,Cunningham,Joe Cunningham
+Carlos,Curbelo,Carlos Curbelo
+David,Curson,David Curson
+John,Curtis,John Curtis
+Steve,Daines,Steve Daines
+Sharice,Davids,Sharice Davids
+Warren,Davidson,Warren Davidson
+Danny,Davis,Danny Davis
+Geoff,Davis,Geoff Davis
+Rodney,Davis,Rodney Davis
+Susan,Davis,Susan Davis
+Madeleine,Dean,Madeleine Dean
+Peter,DeFazio,Peter DeFazio
+Diana,DeGette,Diana DeGette
+John,Delaney,John Delaney
+Rosa,DeLauro,Rosa DeLauro
+Suzan,DelBene,Suzan DelBene
+Antonio,Delgado,Antonio Delgado
+Val,Demings,Val Demings
+Jim,DeMint,Jim DeMint
+Jeff,Denham,Jeff Denham
+Charles,Dent,Charles Dent
+Ron,DeSantis,Ron DeSantis
+Mark,DeSaulnier,Mark DeSaulnier
+Scott,DesJarlais,Scott DesJarlais
+Theodore,Deutch,Theodore Deutch
+Mario,Diaz-Balart,Mario Diaz-Balart
+Norman,Dicks,Norman Dicks
+Debbie,Dingell,Debbie Dingell
+John,Dingell,John Dingell
+Lloyd,Doggett,Lloyd Doggett
+Robert,Dold,Robert Dold
+Joe,Donnelly,Joe Donnelly
+Daniel,Donovan,Daniel Donovan
+Michael,Doyle,Michael Doyle
+David,Dreier,David Dreier
+Tammy,Duckworth,Tammy Duckworth
+Sean,Duffy,Sean Duffy
+Jeff,Duncan,Jeff Duncan
+John,Duncan,John Duncan
+Neal,Dunn,Neal Dunn
+Richard,Durbin,Richard Durbin
+Donna,Edwards,Donna Edwards
+Keith,Ellison,Keith Ellison
+Renee,Ellmers,Renee Ellmers
+Jo,Emerson,Jo Emerson
+Tom,Emmer,Tom Emmer
+Eliot,Engel,Eliot Engel
+John,Ensign,John Ensign
+William,Enyart,William Enyart
+Michael,Enzi,Michael Enzi
+Joni,Ernst,Joni Ernst
+Veronica,Escobar,Veronica Escobar
+Anna,Eshoo,Anna Eshoo
+Adriano,Espaillat,Adriano Espaillat
+Ron,Estes,Ron Estes
+Elizabeth,Esty,Elizabeth Esty
+Dwight,Evans,Dwight Evans
+Eni,Faleomavaega,Eni Faleomavaega
+Blake,Farenthold,Blake Farenthold
+Sam,Farr,Sam Farr
+John,Faso,John Faso
+Chaka,Fattah,Chaka Fattah
+Dianne,Feinstein,Dianne Feinstein
+A.,Ferguson,A. Ferguson
+Bob,Filner,Bob Filner
+Stephen,Fincher,Stephen Fincher
+Abby,Finkenauer,Abby Finkenauer
+Deb,Fischer,Deb Fischer
+Brian,Fitzpatrick,Brian Fitzpatrick
+Michael,Fitzpatrick,Michael Fitzpatrick
+Jeff,Flake,Jeff Flake
+Charles,Fleischmann,Charles Fleischmann
+John,Fleming,John Fleming
+Lizzie,Fletcher,Lizzie Fletcher
+Bill,Flores,Bill Flores
+J.,Forbes,J. Forbes
+Jeff,Fortenberry,Jeff Fortenberry
+Bill,Foster,Bill Foster
+Virginia,Foxx,Virginia Foxx
+Barney,Frank,Barney Frank
+Lois,Frankel,Lois Frankel
+Al,Franken,Al Franken
+Trent,Franks,Trent Franks
+Rodney,Frelinghuysen,Rodney Frelinghuysen
+Marcia,Fudge,Marcia Fudge
+Russ,Fulcher,Russ Fulcher
+Tulsi,Gabbard,Tulsi Gabbard
+Matt,Gaetz,Matt Gaetz
+Mike,Gallagher,Mike Gallagher
+Elton,Gallegly,Elton Gallegly
+Pete,Gallego,Pete Gallego
+Ruben,Gallego,Ruben Gallego
+John,Garamendi,John Garamendi
+Jesus,Garcia,Jesus Garcia
+Joe,Garcia,Joe Garcia
+Sylvia,Garcia,Sylvia Garcia
+Cory,Gardner,Cory Gardner
+Scott,Garrett,Scott Garrett
+Thomas,Garrett,Thomas Garrett
+Jim,Gerlach,Jim Gerlach
+Greg,Gianforte,Greg Gianforte
+Bob,Gibbs,Bob Gibbs
+Christopher,Gibson,Christopher Gibson
+Gabrielle,Giffords,Gabrielle Giffords
+Kirsten,Gillibrand,Kirsten Gillibrand
+Phil,Gingrey,Phil Gingrey
+Louie,Gohmert,Louie Gohmert
+Jared,Golden,Jared Golden
+Jimmy,Gomez,Jimmy Gomez
+Anthony,Gonzalez,Anthony Gonzalez
+Charles,Gonzalez,Charles Gonzalez
+Vicente,Gonzalez,Vicente Gonzalez
+Jenniffer,Gonzalez-Colon,Jenniffer Gonzalez-Colon
+Lance,Gooden,Lance Gooden
+Bob,Goodlatte,Bob Goodlatte
+Paul,Gosar,Paul Gosar
+Josh,Gottheimer,Josh Gottheimer
+Trey,Gowdy,Trey Gowdy
+Gwen,Graham,Gwen Graham
+Lindsey,Graham,Lindsey Graham
+Kay,Granger,Kay Granger
+Chuck,Grassley,Chuck Grassley
+Garret,Graves,Garret Graves
+Sam,Graves,Sam Graves
+Tom,Graves,Tom Graves
+Alan,Grayson,Alan Grayson
+Al,Green,Al Green
+Gene,Green,Gene Green
+Mark,Green,Mark Green
+Tim,Griffin,Tim Griffin
+H.,Griffith,H. Griffith
+Raul,Grijalva,Raul Grijalva
+Michael,Grimm,Michael Grimm
+Glenn,Grothman,Glenn Grothman
+Michael,Guest,Michael Guest
+Frank,Guinta,Frank Guinta
+Brett,Guthrie,Brett Guthrie
+Luis,Gutierrez,Luis Gutierrez
+Debra,Haaland,Debra Haaland
+Kay,Hagan,Kay Hagan
+Jim,Hagedorn,Jim Hagedorn
+Janice,Hahn,Janice Hahn
+Ralph,Hall,Ralph Hall
+Colleen,Hanabusa,Colleen Hanabusa
+Karen,Handel,Karen Handel
+Richard,Hanna,Richard Hanna
+Josh,Harder,Josh Harder
+Cresent,Hardy,Cresent Hardy
+Tom,Harkin,Tom Harkin
+Jane,Harman,Jane Harman
+Gregg,Harper,Gregg Harper
+Andy,Harris,Andy Harris
+Kamala,Harris,Kamala Harris
+Vicky,Hartzler,Vicky Hartzler
+Margaret,Hassan,Margaret Hassan
+Alcee,Hastings,Alcee Hastings
+Doc,Hastings,Doc Hastings
+Orrin,Hatch,Orrin Hatch
+Josh,Hawley,Josh Hawley
+Jahana,Hayes,Jahana Hayes
+Nan,Hayworth,Nan Hayworth
+Denny,Heck,Denny Heck
+Joseph,Heck,Joseph Heck
+Martin,Heinrich,Martin Heinrich
+Heidi,Heitkamp,Heidi Heitkamp
+Dean,Heller,Dean Heller
+Jeb,Hensarling,Jeb Hensarling
+Wally,Herger,Wally Herger
+Kevin,Hern,Kevin Hern
+Jaime,Herrera,Jaime Herrera
+Jody,Hice,Jody Hice
+Brian,Higgins,Brian Higgins
+Clay,Higgins,Clay Higgins
+J.,Hill,J. Hill
+Katie,Hill,Katie Hill
+James,Himes,James Himes
+Maurice,Hinchey,Maurice Hinchey
+Ruben,Hinojosa,Ruben Hinojosa
+Mazie,Hirono,Mazie Hirono
+Kathleen,Hochul,Kathleen Hochul
+John,Hoeven,John Hoeven
+Tim,Holden,Tim Holden
+George,Holding,George Holding
+Trey,Hollingsworth,Trey Hollingsworth
+Rush,Holt,Rush Holt
+Michael,Honda,Michael Honda
+Kendra,Horn,Kendra Horn
+Steven,Horsford,Steven Horsford
+Chrissy,Houlahan,Chrissy Houlahan
+Steny,Hoyer,Steny Hoyer
+Richard,Hudson,Richard Hudson
+Tim,Huelskamp,Tim Huelskamp
+Jared,Huffman,Jared Huffman
+Bill,Huizenga,Bill Huizenga
+Randy,Hultgren,Randy Hultgren
+Duncan,Hunter,Duncan Hunter
+Will,Hurd,Will Hurd
+Robert,Hurt,Robert Hurt
+Kay,Hutchison,Kay Hutchison
+Cindy,Hyde-Smith,Cindy Hyde-Smith
+James,Inhofe,James Inhofe
+Daniel,Inouye,Daniel Inouye
+Jay,Inslee,Jay Inslee
+Johnny,Isakson,Johnny Isakson
+Steve,Israel,Steve Israel
+Darrell,Issa,Darrell Issa
+Sheila,Jackson,Sheila Jackson
+Jesse,Jackson,Jesse Jackson
+Pramila,Jayapal,Pramila Jayapal
+Hakeem,Jeffries,Hakeem Jeffries
+Evan,Jenkins,Evan Jenkins
+Lynn,Jenkins,Lynn Jenkins
+Mike,Johanns,Mike Johanns
+Bill,Johnson,Bill Johnson
+Dusty,Johnson,Dusty Johnson
+Eddie,Johnson,Eddie Johnson
+Henry,Johnson,Henry Johnson
+Mike,Johnson,Mike Johnson
+Ron,Johnson,Ron Johnson
+Sam,Johnson,Sam Johnson
+Tim,Johnson,Tim Johnson
+Timothy,Johnson,Timothy Johnson
+David,Jolly,David Jolly
+Brenda,Jones,Brenda Jones
+Doug,Jones,Doug Jones
+Walter,Jones,Walter Jones
+Jim,Jordan,Jim Jordan
+David,Joyce,David Joyce
+John,Joyce,John Joyce
+Tim,Kaine,Tim Kaine
+Marcy,Kaptur,Marcy Kaptur
+John,Katko,John Katko
+William,Keating,William Keating
+Mike,Kelly,Mike Kelly
+Robin,Kelly,Robin Kelly
+Trent,Kelly,Trent Kelly
+John,Kennedy,John Kennedy
+Joseph,Kennedy,Joseph Kennedy
+John,Kerry,John Kerry
+Ro,Khanna,Ro Khanna
+Ruben,Kihuen,Ruben Kihuen
+Dale,Kildee,Dale Kildee
+Daniel,Kildee,Daniel Kildee
+Derek,Kilmer,Derek Kilmer
+Andy,Kim,Andy Kim
+Ron,Kind,Ron Kind
+Angus,King,Angus King
+Peter,King,Peter King
+Steve,King,Steve King
+Jack,Kingston,Jack Kingston
+Adam,Kinzinger,Adam Kinzinger
+Mark,Kirk,Mark Kirk
+Ann,Kirkpatrick,Ann Kirkpatrick
+Larry,Kissell,Larry Kissell
+John,Kline,John Kline
+Amy,Klobuchar,Amy Klobuchar
+Stephen,Knight,Stephen Knight
+Herb,Kohl,Herb Kohl
+Raja,Krishnamoorthi,Raja Krishnamoorthi
+Dennis,Kucinich,Dennis Kucinich
+Ann,Kuster,Ann Kuster
+David,Kustoff,David Kustoff
+Jon,Kyl,Jon Kyl
+Raul,Labrador,Raul Labrador
+Darin,LaHood,Darin LaHood
+Doug,LaMalfa,Doug LaMalfa
+Conor,Lamb,Conor Lamb
+Doug,Lamborn,Doug Lamborn
+Leonard,Lance,Leonard Lance
+Mary,Landrieu,Mary Landrieu
+Jeffrey,Landry,Jeffrey Landry
+James,Langevin,James Langevin
+James,Lankford,James Lankford
+Rick,Larsen,Rick Larsen
+John,Larson,John Larson
+Tom,Latham,Tom Latham
+Steven,LaTourette,Steven LaTourette
+Robert,Latta,Robert Latta
+Frank,Lautenberg,Frank Lautenberg
+Brenda,Lawrence,Brenda Lawrence
+Al,Lawson,Al Lawson
+Patrick,Leahy,Patrick Leahy
+Barbara,Lee,Barbara Lee
+Christopher,Lee,Christopher Lee
+Mike,Lee,Mike Lee
+Susie,Lee,Susie Lee
+Debbie,Lesko,Debbie Lesko
+Andy,Levin,Andy Levin
+Carl,Levin,Carl Levin
+Mike,Levin,Mike Levin
+Sander,Levin,Sander Levin
+Jason,Lewis,Jason Lewis
+Jerry,Lewis,Jerry Lewis
+John,Lewis,John Lewis
+Joseph,Lieberman,Joseph Lieberman
+Ted,Lieu,Ted Lieu
+Daniel,Lipinski,Daniel Lipinski
+Frank,LoBiondo,Frank LoBiondo
+David,Loebsack,David Loebsack
+Zoe,Lofgren,Zoe Lofgren
+Billy,Long,Billy Long
+Barry,Loudermilk,Barry Loudermilk
+Mia,Love,Mia Love
+Alan,Lowenthal,Alan Lowenthal
+Nita,Lowey,Nita Lowey
+Frank,Lucas,Frank Lucas
+Blaine,Luetkemeyer,Blaine Luetkemeyer
+Richard,Lugar,Richard Lugar
+Michelle,Lujan,Michelle Lujan
+Ben,Lujan,Ben Lujan
+Cynthia,Lummis,Cynthia Lummis
+Daniel,Lungren,Daniel Lungren
+Elaine,Luria,Elaine Luria
+Stephen,Lynch,Stephen Lynch
+Thomas,MacArthur,Thomas MacArthur
+Connie,Mack,Connie Mack
+Daniel,Maffei,Daniel Maffei
+Tom,Malinowski,Tom Malinowski
+Carolyn,Maloney,Carolyn Maloney
+Sean,Maloney,Sean Maloney
+Joe,Manchin,Joe Manchin
+Donald,Manzullo,Donald Manzullo
+Kenny,Marchant,Kenny Marchant
+Tom,Marino,Tom Marino
+Edward,Markey,Edward Markey
+Roger,Marshall,Roger Marshall
+Thomas,Massie,Thomas Massie
+Brian,Mast,Brian Mast
+Jim,Matheson,Jim Matheson
+Doris,Matsui,Doris Matsui
+Ben,McAdams,Ben McAdams
+Vance,McAllister,Vance McAllister
+Lucy,McBath,Lucy McBath
+John,McCain,John McCain
+Carolyn,McCarthy,Carolyn McCarthy
+Kevin,McCarthy,Kevin McCarthy
+Claire,McCaskill,Claire McCaskill
+Michael,McCaul,Michael McCaul
+Tom,McClintock,Tom McClintock
+Betty,McCollum,Betty McCollum
+Mitch,McConnell,Mitch McConnell
+Thaddeus,McCotter,Thaddeus McCotter
+Jim,McDermott,Jim McDermott
+A.,McEachin,A. McEachin
+James,McGovern,James McGovern
+Patrick,McHenry,Patrick McHenry
+Mike,McIntyre,Mike McIntyre
+Howard,McKeon,Howard McKeon
+David,McKinley,David McKinley
+Cathy,McMorris,Cathy McMorris
+Jerry,McNerney,Jerry McNerney
+Martha,McSally,Martha McSally
+Mark,Meadows,Mark Meadows
+Patrick,Meehan,Patrick Meehan
+Gregory,Meeks,Gregory Meeks
+Robert,Menendez,Robert Menendez
+Grace,Meng,Grace Meng
+Jeff,Merkley,Jeff Merkley
+Luke,Messer,Luke Messer
+Daniel,Meuser,Daniel Meuser
+John,Mica,John Mica
+Michael,Michaud,Michael Michaud
+Barbara,Mikulski,Barbara Mikulski
+Brad,Miller,Brad Miller
+Candice,Miller,Candice Miller
+Carol,Miller,Carol Miller
+Gary,Miller,Gary Miller
+George,Miller,George Miller
+Jeff,Miller,Jeff Miller
+Paul,Mitchell,Paul Mitchell
+John,Moolenaar,John Moolenaar
+Alexander,Mooney,Alexander Mooney
+Gwen,Moore,Gwen Moore
+James,Moran,James Moran
+Jerry,Moran,Jerry Moran
+Joseph,Morelle,Joseph Morelle
+Seth,Moulton,Seth Moulton
+Debbie,Mucarsel-Powell,Debbie Mucarsel-Powell
+Markwayne,Mullin,Markwayne Mullin
+Mick,Mulvaney,Mick Mulvaney
+Lisa,Murkowski,Lisa Murkowski
+Christopher,Murphy,Christopher Murphy
+Patrick,Murphy,Patrick Murphy
+Stephanie,Murphy,Stephanie Murphy
+Tim,Murphy,Tim Murphy
+Patty,Murray,Patty Murray
+Sue,Myrick,Sue Myrick
+Jerrold,Nadler,Jerrold Nadler
+Grace,Napolitano,Grace Napolitano
+Richard,Neal,Richard Neal
+Gloria,Negrete,Gloria Negrete
+Joe,Neguse,Joe Neguse
+Ben,Nelson,Ben Nelson
+Bill,Nelson,Bill Nelson
+Randy,Neugebauer,Randy Neugebauer
+Dan,Newhouse,Dan Newhouse
+Kristi,Noem,Kristi Noem
+Richard,Nolan,Richard Nolan
+Donald,Norcross,Donald Norcross
+Ralph,Norman,Ralph Norman
+Eleanor,Norton,Eleanor Norton
+Richard,Nugent,Richard Nugent
+Devin,Nunes,Devin Nunes
+Alan,Nunnelee,Alan Nunnelee
+Tom,O'Halleran,Tom O'Halleran
+Beto,O'Rourke,Beto O'Rourke
+Alexandria,Ocasio-Cortez,Alexandria Ocasio-Cortez
+Pete,Olson,Pete Olson
+John,Olver,John Olver
+Ilhan,Omar,Ilhan Omar
+William,Owens,William Owens
+Steven,Palazzo,Steven Palazzo
+Frank,Pallone,Frank Pallone
+Gary,Palmer,Gary Palmer
+Jimmy,Panetta,Jimmy Panetta
+Chris,Pappas,Chris Pappas
+Bill,Pascrell,Bill Pascrell
+Ed,Pastor,Ed Pastor
+Rand,Paul,Rand Paul
+Ron,Paul,Ron Paul
+Erik,Paulsen,Erik Paulsen
+Donald,Payne,Donald Payne
+Donald,Payne,Donald Payne
+Stevan,Pearce,Stevan Pearce
+Nancy,Pelosi,Nancy Pelosi
+Greg,Pence,Greg Pence
+Mike,Pence,Mike Pence
+David,Perdue,David Perdue
+Ed,Perlmutter,Ed Perlmutter
+Scott,Perry,Scott Perry
+Gary,Peters,Gary Peters
+Scott,Peters,Scott Peters
+Collin,Peterson,Collin Peterson
+Thomas,Petri,Thomas Petri
+Dean,Phillips,Dean Phillips
+Pedro,Pierluisi,Pedro Pierluisi
+Chellie,Pingree,Chellie Pingree
+Robert,Pittenger,Robert Pittenger
+Joseph,Pitts,Joseph Pitts
+Stacey,Plaskett,Stacey Plaskett
+Todd,Platts,Todd Platts
+Mark,Pocan,Mark Pocan
+Ted,Poe,Ted Poe
+Bruce,Poliquin,Bruce Poliquin
+Jared,Polis,Jared Polis
+Mike,Pompeo,Mike Pompeo
+Katie,Porter,Katie Porter
+Rob,Portman,Rob Portman
+Bill,Posey,Bill Posey
+Ayanna,Pressley,Ayanna Pressley
+David,Price,David Price
+Tom,Price,Tom Price
+Mark,Pryor,Mark Pryor
+Benjamin,Quayle,Benjamin Quayle
+Mike,Quigley,Mike Quigley
+Trey,Radel,Trey Radel
+Aumua,Radewagen,Aumua Radewagen
+Nick,Rahall,Nick Rahall
+Charles,Rangel,Charles Rangel
+Jamie,Raskin,Jamie Raskin
+John,Ratcliffe,John Ratcliffe
+Jack,Reed,Jack Reed
+Tom,Reed,Tom Reed
+Denny,Rehberg,Denny Rehberg
+David,Reichert,David Reichert
+Harry,Reid,Harry Reid
+James,Renacci,James Renacci
+Guy,Reschenthaler,Guy Reschenthaler
+Silvestre,Reyes,Silvestre Reyes
+Reid,Ribble,Reid Ribble
+Kathleen,Rice,Kathleen Rice
+Tom,Rice,Tom Rice
+Laura,Richardson,Laura Richardson
+Cedric,Richmond,Cedric Richmond
+E.,Rigell,E. Rigell
+Denver,Riggleman,Denver Riggleman
+James,Risch,James Risch
+David,Rivera,David Rivera
+Pat,Roberts,Pat Roberts
+Martha,Roby,Martha Roby
+John,Rockefeller,John Rockefeller
+David,Roe,David Roe
+Harold,Rogers,Harold Rogers
+Mike,Rogers,Mike Rogers
+Mike,Rogers,Mike Rogers
+Dana,Rohrabacher,Dana Rohrabacher
+Todd,Rokita,Todd Rokita
+Mitt,Romney,Mitt Romney
+Francis,Rooney,Francis Rooney
+Thomas,Rooney,Thomas Rooney
+Ileana,Ros-Lehtinen,Ileana Ros-Lehtinen
+John,Rose,John Rose
+Max,Rose,Max Rose
+Jacky,Rosen,Jacky Rosen
+Peter,Roskam,Peter Roskam
+Dennis,Ross,Dennis Ross
+Mike,Ross,Mike Ross
+Keith,Rothfus,Keith Rothfus
+Steven,Rothman,Steven Rothman
+Harley,Rouda,Harley Rouda
+Mike,Rounds,Mike Rounds
+David,Rouzer,David Rouzer
+Chip,Roy,Chip Roy
+Lucille,Roybal-Allard,Lucille Roybal-Allard
+Edward,Royce,Edward Royce
+Marco,Rubio,Marco Rubio
+Raul,Ruiz,Raul Ruiz
+Jon,Runyan,Jon Runyan
+C.,Ruppersberger,C. Ruppersberger
+Bobby,Rush,Bobby Rush
+Steve,Russell,Steve Russell
+John,Rutherford,John Rutherford
+Paul,Ryan,Paul Ryan
+Tim,Ryan,Tim Ryan
+Gregorio,Sablan,Gregorio Sablan
+Matt,Salmon,Matt Salmon
+Michael,San,Michael San
+Linda,Sanchez,Linda Sanchez
+Loretta,Sanchez,Loretta Sanchez
+Bernard,Sanders,Bernard Sanders
+Mark,Sanford,Mark Sanford
+John,Sarbanes,John Sarbanes
+Ben,Sasse,Ben Sasse
+Steve,Scalise,Steve Scalise
+Mary,Scanlon,Mary Scanlon
+Janice,Schakowsky,Janice Schakowsky
+Brian,Schatz,Brian Schatz
+Adam,Schiff,Adam Schiff
+Robert,Schilling,Robert Schilling
+Jean,Schmidt,Jean Schmidt
+Bradley,Schneider,Bradley Schneider
+Aaron,Schock,Aaron Schock
+Kurt,Schrader,Kurt Schrader
+Kim,Schrier,Kim Schrier
+Charles,Schumer,Charles Schumer
+Allyson,Schwartz,Allyson Schwartz
+David,Schweikert,David Schweikert
+Austin,Scott,Austin Scott
+David,Scott,David Scott
+Rick,Scott,Rick Scott
+Robert,Scott,Robert Scott
+Tim,Scott,Tim Scott
+F.,Sensenbrenner,F. Sensenbrenner
+Jose,Serrano,Jose Serrano
+Jeff,Sessions,Jeff Sessions
+Pete,Sessions,Pete Sessions
+Terri,Sewell,Terri Sewell
+Jeanne,Shaheen,Jeanne Shaheen
+Donna,Shalala,Donna Shalala
+Carol,Shea-Porter,Carol Shea-Porter
+Richard,Shelby,Richard Shelby
+Brad,Sherman,Brad Sherman
+Mikie,Sherrill,Mikie Sherrill
+John,Shimkus,John Shimkus
+Heath,Shuler,Heath Shuler
+Bill,Shuster,Bill Shuster
+Michael,Simpson,Michael Simpson
+Kyrsten,Sinema,Kyrsten Sinema
+Albio,Sires,Albio Sires
+Louise,Slaughter,Louise Slaughter
+Elissa,Slotkin,Elissa Slotkin
+Adam,Smith,Adam Smith
+Adrian,Smith,Adrian Smith
+Christopher,Smith,Christopher Smith
+Jason,Smith,Jason Smith
+Lamar,Smith,Lamar Smith
+Tina,Smith,Tina Smith
+Lloyd,Smucker,Lloyd Smucker
+Olympia,Snowe,Olympia Snowe
+Darren,Soto,Darren Soto
+Steve,Southerland,Steve Southerland
+Abigail,Spanberger,Abigail Spanberger
+Ross,Spano,Ross Spano
+Jackie,Speier,Jackie Speier
+Debbie,Stabenow,Debbie Stabenow
+Greg,Stanton,Greg Stanton
+Fortney,Stark,Fortney Stark
+Pete,Stauber,Pete Stauber
+Cliff,Stearns,Cliff Stearns
+Elise,Stefanik,Elise Stefanik
+Bryan,Steil,Bryan Steil
+W.,Steube,W. Steube
+Haley,Stevens,Haley Stevens
+Chris,Stewart,Chris Stewart
+Steve,Stivers,Steve Stivers
+Steve,Stockman,Steve Stockman
+Luther,Strange,Luther Strange
+Marlin,Stutzman,Marlin Stutzman
+Dan,Sullivan,Dan Sullivan
+John,Sullivan,John Sullivan
+Thomas,Suozzi,Thomas Suozzi
+Betty,Sutton,Betty Sutton
+Eric,Swalwell,Eric Swalwell
+Mark,Takai,Mark Takai
+Mark,Takano,Mark Takano
+Scott,Taylor,Scott Taylor
+Van,Taylor,Van Taylor
+Claudia,Tenney,Claudia Tenney
+Lee,Terry,Lee Terry
+Jon,Tester,Jon Tester
+Bennie,Thompson,Bennie Thompson
+Glenn,Thompson,Glenn Thompson
+Mike,Thompson,Mike Thompson
+Mac,Thornberry,Mac Thornberry
+John,Thune,John Thune
+Patrick,Tiberi,Patrick Tiberi
+John,Tierney,John Tierney
+Thom,Tillis,Thom Tillis
+William,Timmons,William Timmons
+Scott,Tipton,Scott Tipton
+Dina,Titus,Dina Titus
+Rashida,Tlaib,Rashida Tlaib
+Paul,Tonko,Paul Tonko
+Pat,Toomey,Pat Toomey
+Xochitl,Torres,Xochitl Torres
+Norma,Torres,Norma Torres
+Edolphus,Towns,Edolphus Towns
+Lori,Trahan,Lori Trahan
+David,Trone,David Trone
+David,Trott,David Trott
+Niki,Tsongas,Niki Tsongas
+Michael,Turner,Michael Turner
+Robert,Turner,Robert Turner
+Mark,Udall,Mark Udall
+Tom,Udall,Tom Udall
+Lauren,Underwood,Lauren Underwood
+Fred,Upton,Fred Upton
+David,Valadao,David Valadao
+Jefferson,Van,Jefferson Van
+Chris,Van,Chris Van
+Juan,Vargas,Juan Vargas
+Marc,Veasey,Marc Veasey
+Filemon,Vela,Filemon Vela
+Nydia,Velazquez,Nydia Velazquez
+Peter,Visclosky,Peter Visclosky
+David,Vitter,David Vitter
+Ann,Wagner,Ann Wagner
+Tim,Walberg,Tim Walberg
+Greg,Walden,Greg Walden
+Mark,Walker,Mark Walker
+Jackie,Walorski,Jackie Walorski
+Joe,Walsh,Joe Walsh
+John,Walsh,John Walsh
+Mimi,Walters,Mimi Walters
+Michael,Waltz,Michael Waltz
+Timothy,Walz,Timothy Walz
+Mark,Warner,Mark Warner
+Elizabeth,Warren,Elizabeth Warren
+Debbie,Wasserman,Debbie Wasserman
+Maxine,Waters,Maxine Waters
+Steve,Watkins,Steve Watkins
+Bonnie,Watson,Bonnie Watson
+Melvin,Watt,Melvin Watt
+Henry,Waxman,Henry Waxman
+Jim,Webb,Jim Webb
+Randy,Weber,Randy Weber
+Daniel,Webster,Daniel Webster
+Anthony,Weiner,Anthony Weiner
+Peter,Welch,Peter Welch
+Brad,Wenstrup,Brad Wenstrup
+Allen,West,Allen West
+Bruce,Westerman,Bruce Westerman
+Lynn,Westmoreland,Lynn Westmoreland
+Jennifer,Wexton,Jennifer Wexton
+Sheldon,Whitehouse,Sheldon Whitehouse
+Ed,Whitfield,Ed Whitfield
+Roger,Wicker,Roger Wicker
+Susan,Wild,Susan Wild
+Roger,Williams,Roger Williams
+Frederica,Wilson,Frederica Wilson
+Joe,Wilson,Joe Wilson
+Robert,Wittman,Robert Wittman
+Frank,Wolf,Frank Wolf
+Steve,Womack,Steve Womack
+Rob,Woodall,Rob Woodall
+Lynn,Woolsey,Lynn Woolsey
+Ron,Wright,Ron Wright
+David,Wu,David Wu
+Ron,Wyden,Ron Wyden
+John,Yarmuth,John Yarmuth
+Kevin,Yoder,Kevin Yoder
+Ted,Yoho,Ted Yoho
+C.,Young,C. Young
+David,Young,David Young
+Don,Young,Don Young
+Todd,Young,Todd Young
+Lee,Zeldin,Lee Zeldin
+Ryan,Zinke,Ryan Zinke
+Neil,Abercrombie,Neil Abercrombie
+Spencer,Abraham,Spencer Abraham
+Anibal,Acevedo-Vila,Anibal Acevedo-Vila
+John,Adler,John Adler
+Wayne,Allard,Wayne Allard
+George,Allen,George Allen
+Thomas,Allen,Thomas Allen
+Bill,Archer,Bill Archer
+Michael,Arcuri,Michael Arcuri
+Richard,Armey,Richard Armey
+John,Ashcroft,John Ashcroft
+Scotty,Baesler,Scotty Baesler
+Brian,Baird,Brian Baird
+Richard,Baker,Richard Baker
+John,Baldacci,John Baldacci
+Frank,Ballance,Frank Ballance
+Cass,Ballenger,Cass Ballenger
+James,Barcia,James Barcia
+Dean,Barkley,Dean Barkley
+Bob,Barr,Bob Barr
+Bill,Barrett,Bill Barrett
+J.,Barrett,J. Barrett
+Thomas,Barrett,Thomas Barrett
+Herbert,Bateman,Herbert Bateman
+Evan,Bayh,Evan Bayh
+Melissa,Bean,Melissa Bean
+Bob,Beauprez,Bob Beauprez
+Chris,Bell,Chris Bell
+Robert,Bennett,Robert Bennett
+Ken,Bentsen,Ken Bentsen
+Doug,Bereuter,Doug Bereuter
+Marion,Berry,Marion Berry
+Joseph,Biden,Joseph Biden
+Michael,Bilirakis,Michael Bilirakis
+Rod,Blagojevich,Rod Blagojevich
+Tom,Bliley,Tom Bliley
+John,Boccieri,John Boccieri
+Sherwood,Boehlert,Sherwood Boehlert
+Christopher,Bond,Christopher Bond
+Henry,Bonilla,Henry Bonilla
+David,Bonior,David Bonior
+Sonny,Bono,Sonny Bono
+Robert,Borski,Robert Borski
+Rick,Boucher,Rick Boucher
+Allen,Boyd,Allen Boyd
+Nancy,Boyda,Nancy Boyda
+Jeb,Bradley,Jeb Bradley
+John,Breaux,John Breaux
+Bobby,Bright,Bobby Bright
+George,Brown,George Brown
+Henry,Brown,Henry Brown
+Ginny,Brown-Waite,Ginny Brown-Waite
+Sam,Brownback,Sam Brownback
+Richard,Bryan,Richard Bryan
+Ed,Bryant,Ed Bryant
+Dale,Bumpers,Dale Bumpers
+Jim,Bunning,Jim Bunning
+Conrad,Burns,Conrad Burns
+Max,Burns,Max Burns
+Roland,Burris,Roland Burris
+Steve,Buyer,Steve Buyer
+Robert,Byrd,Robert Byrd
+Sonny,Callahan,Sonny Callahan
+Ben,Campbell,Ben Campbell
+Tom,Campbell,Tom Campbell
+Charles,Canady,Charles Canady
+Chris,Cannon,Chris Cannon
+Anh,Cao,Anh Cao
+Walter,Capps,Walter Capps
+Jean,Carnahan,Jean Carnahan
+Christopher,Carney,Christopher Carney
+Brad,Carson,Brad Carson
+Julia,Carson,Julia Carson
+Michael,Castle,Michael Castle
+Donald,Cazayoux,Donald Cazayoux
+John,Chafee,John Chafee
+Lincoln,Chafee,Lincoln Chafee
+Helen,Chenoweth-Hage,Helen Chenoweth-Hage
+Travis,Childers,Travis Childers
+Chris,Chocola,Chris Chocola
+Jon,Christensen,Jon Christensen
+William,Clay,William Clay
+Eva,Clayton,Eva Clayton
+Max,Cleland,Max Cleland
+Bob,Clement,Bob Clement
+Hillary,Clinton,Hillary Clinton
+Norm,Coleman,Norm Coleman
+Mac,Collins,Mac Collins
+Larry,Combest,Larry Combest
+Gary,Condit,Gary Condit
+Merrill,Cook,Merrill Cook
+John,Cooksey,John Cooksey
+Jon,Corzine,Jon Corzine
+Paul,Coverdell,Paul Coverdell
+Christopher,Cox,Christopher Cox
+William,Coyne,William Coyne
+Larry,Craig,Larry Craig
+Robert,Cramer,Robert Cramer
+Philip,Crane,Philip Crane
+Barbara,Cubin,Barbara Cubin
+Randy,Cunningham,Randy Cunningham
+Alfonse,D'Amato,Alfonse D'Amato
+Kathleen,Dahlkemper,Kathleen Dahlkemper
+Pat,Danner,Pat Danner
+Thomas,Daschle,Thomas Daschle
+Artur,Davis,Artur Davis
+David,Davis,David Davis
+Jim,Davis,Jim Davis
+Jo,Davis,Jo Davis
+Lincoln,Davis,Lincoln Davis
+Tom,Davis,Tom Davis
+Mark,Dayton,Mark Dayton
+Nathan,Deal,Nathan Deal
+Bill,Delahunt,Bill Delahunt
+Tom,DeLay,Tom DeLay
+Ronald,Dellums,Ronald Dellums
+Peter,Deutsch,Peter Deutsch
+Mike,DeWine,Mike DeWine
+Lincoln,Diaz-Balart,Lincoln Diaz-Balart
+Jay,Dickey,Jay Dickey
+Julian,Dixon,Julian Dixon
+Charles,Djou,Charles Djou
+Christopher,Dodd,Christopher Dodd
+Elizabeth,Dole,Elizabeth Dole
+Pete,Domenici,Pete Domenici
+Calvin,Dooley,Calvin Dooley
+John,Doolittle,John Doolittle
+Byron,Dorgan,Byron Dorgan
+Thelma,Drake,Thelma Drake
+Steve,Driehaus,Steve Driehaus
+Jennifer,Dunn,Jennifer Dunn
+Chet,Edwards,Chet Edwards
+John,Edwards,John Edwards
+Vernon,Ehlers,Vernon Ehlers
+Robert,Ehrlich,Robert Ehrlich
+Brad,Ellsworth,Brad Ellsworth
+Rahm,Emanuel,Rahm Emanuel
+Phil,English,Phil English
+Bob,Etheridge,Bob Etheridge
+Lane,Evans,Lane Evans
+Terry,Everett,Terry Everett
+Thomas,Ewing,Thomas Ewing
+Lauch,Faircloth,Lauch Faircloth
+Mary,Fallin,Mary Fallin
+Harris,Fawell,Harris Fawell
+Vic,Fazio,Vic Fazio
+Tom,Feeney,Tom Feeney
+Russell,Feingold,Russell Feingold
+Mike,Ferguson,Mike Ferguson
+Peter,Fitzgerald,Peter Fitzgerald
+Floyd,Flake,Floyd Flake
+Ernie,Fletcher,Ernie Fletcher
+Thomas,Foglietta,Thomas Foglietta
+Mark,Foley,Mark Foley
+Michael,Forbes,Michael Forbes
+Harold,Ford,Harold Ford
+Wendell,Ford,Wendell Ford
+Luis,Fortuno,Luis Fortuno
+Vito,Fossella,Vito Fossella
+Tillie,Fowler,Tillie Fowler
+Jon,Fox,Jon Fox
+Bob,Franks,Bob Franks
+William,Frist,William Frist
+Martin,Frost,Martin Frost
+Elizabeth,Furse,Elizabeth Furse
+Greg,Ganske,Greg Ganske
+Sam,Gejdenson,Sam Gejdenson
+George,Gekas,George Gekas
+Richard,Gephardt,Richard Gephardt
+Jim,Gibbons,Jim Gibbons
+Wayne,Gilchrest,Wayne Gilchrest
+Paul,Gillmor,Paul Gillmor
+Benjamin,Gilman,Benjamin Gilman
+Newt,Gingrich,Newt Gingrich
+John,Glenn,John Glenn
+Henry,Gonzalez,Henry Gonzalez
+Virgil,Goode,Virgil Goode
+William,Goodling,William Goodling
+Carte,Goodwin,Carte Goodwin
+Bart,Gordon,Bart Gordon
+Slade,Gorton,Slade Gorton
+Porter,Goss,Porter Goss
+Bob,Graham,Bob Graham
+Phil,Gramm,Phil Gramm
+Rod,Grams,Rod Grams
+Mark,Green,Mark Green
+James,Greenwood,James Greenwood
+Judd,Gregg,Judd Gregg
+Parker,Griffith,Parker Griffith
+Felix,Grucci,Felix Grucci
+Gil,Gutknecht,Gil Gutknecht
+Chuck,Hagel,Chuck Hagel
+John,Hall,John Hall
+Tony,Hall,Tony Hall
+Deborah,Halvorson,Deborah Halvorson
+Lee,Hamilton,Lee Hamilton
+James,Hansen,James Hansen
+Phil,Hare,Phil Hare
+Katherine,Harris,Katherine Harris
+Melissa,Hart,Melissa Hart
+J.,Hastert,J. Hastert
+Robin,Hayes,Robin Hayes
+J.,Hayworth,J. Hayworth
+Joel,Hefley,Joel Hefley
+W.,Hefner,W. Hefner
+Jesse,Helms,Jesse Helms
+Stephanie,Herseth,Stephanie Herseth
+Baron,Hill,Baron Hill
+Rick,Hill,Rick Hill
+Van,Hilleary,Van Hilleary
+Earl,Hilliard,Earl Hilliard
+David,Hobson,David Hobson
+Paul,Hodes,Paul Hodes
+Joseph,Hoeffel,Joseph Hoeffel
+Peter,Hoekstra,Peter Hoekstra
+Ernest,Hollings,Ernest Hollings
+Darlene,Hooley,Darlene Hooley
+Stephen,Horn,Stephen Horn
+John,Hostettler,John Hostettler
+Amo,Houghton,Amo Houghton
+Kenny,Hulshof,Kenny Hulshof
+Duncan,Hunter,Duncan Hunter
+Asa,Hutchinson,Asa Hutchinson
+Tim,Hutchinson,Tim Hutchinson
+Henry,Hyde,Henry Hyde
+Bob,Inglis,Bob Inglis
+Ernest,Istook,Ernest Istook
+William,Janklow,William Janklow
+William,Jefferson,William Jefferson
+James,Jeffords,James Jeffords
+William,Jenkins,William Jenkins
+Bobby,Jindal,Bobby Jindal
+Christopher,John,Christopher John
+Jay,Johnson,Jay Johnson
+Nancy,Johnson,Nancy Johnson
+Stephanie,Jones,Stephanie Jones
+Steve,Kagen,Steve Kagen
+Paul,Kanjorski,Paul Kanjorski
+John,Kasich,John Kasich
+Edward,Kaufman,Edward Kaufman
+Ric,Keller,Ric Keller
+Sue,Kelly,Sue Kelly
+Dirk,Kempthorne,Dirk Kempthorne
+Edward,Kennedy,Edward Kennedy
+Joseph,Kennedy,Joseph Kennedy
+Mark,Kennedy,Mark Kennedy
+Patrick,Kennedy,Patrick Kennedy
+Barbara,Kennelly,Barbara Kennelly
+Brian,Kerns,Brian Kerns
+J.,Kerrey,J. Kerrey
+Carolyn,Kilpatrick,Carolyn Kilpatrick
+Mary,Kilroy,Mary Kilroy
+Jay,Kim,Jay Kim
+Paul,Kirk,Paul Kirk
+Gerald,Kleczka,Gerald Kleczka
+Ron,Klein,Ron Klein
+Ron,Klink,Ron Klink
+Scott,Klug,Scott Klug
+Joe,Knollenberg,Joe Knollenberg
+Jim,Kolbe,Jim Kolbe
+Suzanne,Kosmas,Suzanne Kosmas
+Frank,Kratovil,Frank Kratovil
+John,Kuhl,John Kuhl
+Steven,Kuykendall,Steven Kuykendall
+John,LaFalce,John LaFalce
+Ray,LaHood,Ray LaHood
+Nick,Lampson,Nick Lampson
+Tom,Lantos,Tom Lantos
+Steve,Largent,Steve Largent
+Rick,Lazio,Rick Lazio
+James,Leach,James Leach
+George,LeMieux,George LeMieux
+Ron,Lewis,Ron Lewis
+Blanche,Lincoln,Blanche Lincoln
+John,Linder,John Linder
+William,Lipinski,William Lipinski
+Bob,Livingston,Bob Livingston
+Trent,Lott,Trent Lott
+Ken,Lucas,Ken Lucas
+Bill,Luther,Bill Luther
+Connie,Mack,Connie Mack
+Tim,Mahoney,Tim Mahoney
+Denise,Majette,Denise Majette
+James,Maloney,James Maloney
+Thomas,Manton,Thomas Manton
+Betsy,Markey,Betsy Markey
+Jim,Marshall,Jim Marshall
+Matthew,Martinez,Matthew Martinez
+Mel,Martinez,Mel Martinez
+Frank,Mascara,Frank Mascara
+Eric,Massa,Eric Massa
+Robert,Matsui,Robert Matsui
+Karen,McCarthy,Karen McCarthy
+Bill,McCollum,Bill McCollum
+Jim,McCrery,Jim McCrery
+Joseph,McDade,Joseph McDade
+Paul,McHale,Paul McHale
+John,McHugh,John McHugh
+Scott,McInnis,Scott McInnis
+David,McIntosh,David McIntosh
+Cynthia,McKinney,Cynthia McKinney
+Michael,McMahon,Michael McMahon
+Michael,McNulty,Michael McNulty
+Martin,Meehan,Martin Meehan
+Carrie,Meek,Carrie Meek
+Kendrick,Meek,Kendrick Meek
+Charlie,Melancon,Charlie Melancon
+Jack,Metcalf,Jack Metcalf
+Juanita,Millender-McDonald,Juanita Millender-McDonald
+Dan,Miller,Dan Miller
+Zell,Miller,Zell Miller
+David,Minge,David Minge
+Patsy,Mink,Patsy Mink
+Walter,Minnick,Walter Minnick
+Harry,Mitchell,Harry Mitchell
+John,Moakley,John Moakley
+Susan,Molinari,Susan Molinari
+Alan,Mollohan,Alan Mollohan
+Dennis,Moore,Dennis Moore
+Constance,Morella,Constance Morella
+Carol,Moseley-Braun,Carol Moseley-Braun
+Daniel,Moynihan,Daniel Moynihan
+Frank,Murkowski,Frank Murkowski
+Patrick,Murphy,Patrick Murphy
+Scott,Murphy,Scott Murphy
+John,Murtha,John Murtha
+Marilyn,Musgrave,Marilyn Musgrave
+George,Nethercutt,George Nethercutt
+Mark,Neumann,Mark Neumann
+Robert,Ney,Robert Ney
+Don,Nickles,Don Nickles
+Anne,Northup,Anne Northup
+Charles,Norwood,Charles Norwood
+Jim,Nussle,Jim Nussle
+Glenn,Nye,Glenn Nye
+Barack,Obama,Barack Obama
+James,Oberstar,James Oberstar
+David,Obey,David Obey
+Solomon,Ortiz,Solomon Ortiz
+Tom,Osborne,Tom Osborne
+Doug,Ose,Doug Ose
+C.,Otter,C. Otter
+Major,Owens,Major Owens
+Michael,Oxley,Michael Oxley
+Ron,Packard,Ron Packard
+Michael,Pappas,Michael Pappas
+Mike,Parker,Mike Parker
+Bill,Paxon,Bill Paxon
+Edward,Pease,Edward Pease
+Thomas,Perriello,Thomas Perriello
+John,Peterson,John Peterson
+David,Phelps,David Phelps
+Charles,Pickering,Charles Pickering
+Owen,Pickett,Owen Pickett
+Richard,Pombo,Richard Pombo
+Earl,Pomeroy,Earl Pomeroy
+John,Porter,John Porter
+Jon,Porter,Jon Porter
+Glenn,Poshard,Glenn Poshard
+Deborah,Pryce,Deborah Pryce
+Adam,Putnam,Adam Putnam
+Jack,Quinn,Jack Quinn
+George,Radanovich,George Radanovich
+Jim,Ramstad,Jim Ramstad
+Bill,Redmond,Bill Redmond
+Ralph,Regula,Ralph Regula
+Rick,Renzi,Rick Renzi
+Thomas,Reynolds,Thomas Reynolds
+Bill,Richardson,Bill Richardson
+Frank,Riggs,Frank Riggs
+Bob,Riley,Bob Riley
+Lynn,Rivers,Lynn Rivers
+Charles,Robb,Charles Robb
+Ciro,Rodriguez,Ciro Rodriguez
+Tim,Roemer,Tim Roemer
+James,Rogan,James Rogan
+Carlos,Romero-Barcelo,Carlos Romero-Barcelo
+William,Roth,William Roth
+Marge,Roukema,Marge Roukema
+Jim,Ryun,Jim Ryun
+Martin,Sabo,Martin Sabo
+John,Salazar,John Salazar
+Ken,Salazar,Ken Salazar
+Bill,Sali,Bill Sali
+Max,Sandlin,Max Sandlin
+Rick,Santorum,Rick Santorum
+Paul,Sarbanes,Paul Sarbanes
+Tom,Sawyer,Tom Sawyer
+Jim,Saxton,Jim Saxton
+Joe,Scarborough,Joe Scarborough
+Dan,Schaefer,Dan Schaefer
+Bob,Schaffer,Bob Schaffer
+Mark,Schauer,Mark Schauer
+Steven,Schiff,Steven Schiff
+Edward,Schrock,Edward Schrock
+John,Schwarz,John Schwarz
+Shelley,Sekula,Shelley Sekula
+Joe,Sestak,Joe Sestak
+John,Shadegg,John Shadegg
+E.,Shaw,E. Shaw
+Christopher,Shays,Christopher Shays
+Don,Sherwood,Don Sherwood
+Ronnie,Shows,Ronnie Shows
+Bud,Shuster,Bud Shuster
+Rob,Simmons,Rob Simmons
+Norman,Sisisky,Norman Sisisky
+David,Skaggs,David Skaggs
+Joe,Skeen,Joe Skeen
+Ike,Skelton,Ike Skelton
+Bob,Smith,Bob Smith
+Gordon,Smith,Gordon Smith
+Linda,Smith,Linda Smith
+Nick,Smith,Nick Smith
+Robert,Smith,Robert Smith
+Vince,Snowbarger,Vince Snowbarger
+Vic,Snyder,Vic Snyder
+Michael,Sodrel,Michael Sodrel
+Hilda,Solis,Hilda Solis
+Gerald,Solomon,Gerald Solomon
+Mark,Souder,Mark Souder
+Zachary,Space,Zachary Space
+Arlen,Specter,Arlen Specter
+Floyd,Spence,Floyd Spence
+John,Spratt,John Spratt
+Charles,Stenholm,Charles Stenholm
+Ted,Stevens,Ted Stevens
+Louis,Stokes,Louis Stokes
+Ted,Strickland,Ted Strickland
+Bob,Stump,Bob Stump
+Bart,Stupak,Bart Stupak
+John,Sununu,John Sununu
+John,Sweeney,John Sweeney
+Jim,Talent,Jim Talent
+Thomas,Tancredo,Thomas Tancredo
+John,Tanner,John Tanner
+Ellen,Tauscher,Ellen Tauscher
+W.,Tauzin,W. Tauzin
+Charles,Taylor,Charles Taylor
+Gene,Taylor,Gene Taylor
+Harry,Teague,Harry Teague
+Frank,Tejeda,Frank Tejeda
+Craig,Thomas,Craig Thomas
+William,Thomas,William Thomas
+Fred,Thompson,Fred Thompson
+Karen,Thurman,Karen Thurman
+Strom,Thurmond,Strom Thurmond
+Todd,Tiahrt,Todd Tiahrt
+Estaban,Torres,Estaban Torres
+Robert,Torricelli,Robert Torricelli
+James,Traficant,James Traficant
+Jim,Turner,Jim Turner
+Robert,Underwood,Robert Underwood
+Bruce,Vento,Bruce Vento
+George,Voinovich,George Voinovich
+James,Walsh,James Walsh
+Zach,Wamp,Zach Wamp
+John,Warner,John Warner
+Wes,Watkins,Wes Watkins
+Diane,Watson,Diane Watson
+J.,Watts,J. Watts
+Curt,Weldon,Curt Weldon
+Dave,Weldon,Dave Weldon
+Jerry,Weller,Jerry Weller
+Paul,Wellstone,Paul Wellstone
+Robert,Wexler,Robert Wexler
+Robert,Weygand,Robert Weygand
+Rick,White,Rick White
+Charles,Wilson,Charles Wilson
+Heather,Wilson,Heather Wilson
+Robert,Wise,Robert Wise
+Albert,Wynn,Albert Wynn
+Sidney,Yates,Sidney Yates
+James,Abdnor,James Abdnor
+Brock,Adams,Brock Adams
+Joseph,Addabbo,Joseph Addabbo
+Donald,Albosta,Donald Albosta
+Bill,Alexander,Bill Alexander
+Glenn,Anderson,Glenn Anderson
+Ike,Andrews,Ike Andrews
+Mark,Andrews,Mark Andrews
+Michael,Andrews,Michael Andrews
+Thomas,Andrews,Thomas Andrews
+Frank,Annunzio,Frank Annunzio
+Beryl,Anthony,Beryl Anthony
+Douglas,Applegate,Douglas Applegate
+William,Armstrong,William Armstrong
+Les,Aspin,Les Aspin
+Chester,Atkins,Chester Atkins
+Les,AuCoin,Les AuCoin
+Jim,Bacchus,Jim Bacchus
+Robert,Badham,Robert Badham
+Bill,Baker,Bill Baker
+Howard,Baker,Howard Baker
+Peter,Barca,Peter Barca
+Tom,Barlow,Tom Barlow
+Doug,Barnard,Doug Barnard
+Michael,Barnes,Michael Barnes
+Steve,Bartlett,Steve Bartlett
+Jim,Bates,Jim Bates
+Berkley,Bedell,Berkley Bedell
+Anthony,Beilenson,Anthony Beilenson
+Charles,Bennett,Charles Bennett
+Helen,Bentley,Helen Bentley
+Lloyd,Bentsen,Lloyd Bentsen
+Ed,Bethune,Ed Bethune
+Tom,Bevill,Tom Bevill
+Mario,Biaggi,Mario Biaggi
+James,Bilbray,James Bilbray
+Lucien,Blackwell,Lucien Blackwell
+Ben,Blaz,Ben Blaz
+Peter,Blute,Peter Blute
+Corinne,Boggs,Corinne Boggs
+Edward,Boland,Edward Boland
+William,Boner,William Boner
+Don,Bonker,Don Bonker
+David,Boren,David Boren
+Rudy,Boschwitz,Rudy Boschwitz
+Douglas,Bosco,Douglas Bosco
+Beau,Boulter,Beau Boulter
+Bill,Bradley,Bill Bradley
+Joseph,Brennan,Joseph Brennan
+Bill,Brewster,Bill Brewster
+Robin,Britt,Robin Britt
+Jack,Brooks,Jack Brooks
+William,Broomfield,William Broomfield
+Glen,Browder,Glen Browder
+Hank,Brown,Hank Brown
+James,Broyhill,James Broyhill
+Terry,Bruce,Terry Bruce
+John,Bryant,John Bryant
+Jack,Buechner,Jack Buechner
+Jim,Bunn,Jim Bunn
+Joycelyn,Burdick,Joycelyn Burdick
+Quentin,Burdick,Quentin Burdick
+Phillip,Burton,Phillip Burton
+Sala,Burton,Sala Burton
+Albert,Bustamante,Albert Bustamante
+Leslie,Byrne,Leslie Byrne
+Beverly,Byron,Beverly Byron
+Carroll,Campbell,Carroll Campbell
+William,Carney,William Carney
+Bob,Carr,Bob Carr
+Rod,Chandler,Rod Chandler
+Jim,Chapman,Jim Chapman
+Bill,Chappell,Bill Chappell
+Eugene,Chappie,Eugene Chappie
+Dick,Cheney,Dick Cheney
+Lawton,Chiles,Lawton Chiles
+Dick,Chrysler,Dick Chrysler
+James,Clarke,James Clarke
+William,Clinger,William Clinger
+William,Cobey,William Cobey
+Anthony,Coelho,Anthony Coelho
+William,Cohen,William Cohen
+E.,Coleman,E. Coleman
+Ronald,Coleman,Ronald Coleman
+Barbara-Rose,Collins,Barbara-Rose Collins
+Cardiss,Collins,Cardiss Collins
+Antonio,Colordao,Antonio Colordao
+Barber,Conable,Barber Conable
+Silvio,Conte,Silvio Conte
+Wes,Cooley,Wes Cooley
+Sam,Coppersmith,Sam Coppersmith
+Tom,Corcoran,Tom Corcoran
+Baltasar,Corrada,Baltasar Corrada
+Lawrence,Coughlin,Lawrence Coughlin
+Jim,Courter,Jim Courter
+John,Cox,John Cox
+Daniel,Crane,Daniel Crane
+Alan,Cranston,Alan Cranston
+Frank,Cremeans,Frank Cremeans
+George,Crockett,George Crockett
+Norman,D'Amours,Norman D'Amours
+John,Danforth,John Danforth
+W.,Daniel,W. Daniel
+William,Dannemeyer,William Dannemeyer
+George,Darden,George Darden
+Hal,Daub,Hal Daub
+Jack,Davis,Jack Davis
+Robert,Davis,Robert Davis
+E.,de,E. de
+Ron,de,Ron de
+Dennis,DeConcini,Dennis DeConcini
+Jeremiah,Denton,Jeremiah Denton
+Butler,Derrick,Butler Derrick
+William,Dickinson,William Dickinson
+Joseph,DioGuardi,Joseph DioGuardi
+Alan,Dixon,Alan Dixon
+Robert,Dole,Robert Dole
+Brian,Donnelly,Brian Donnelly
+Robert,Dornan,Robert Dornan
+Chuck,Douglas,Chuck Douglas
+Wayne,Dowdy,Wayne Dowdy
+Thomas,Downey,Thomas Downey
+John,Duncan,John Duncan
+Dave,Durenberger,Dave Durenberger
+Bernard,Dwyer,Bernard Dwyer
+Mervyn,Dymally,Mervyn Dymally
+Roy,Dyson,Roy Dyson
+Thomas,Eagleton,Thomas Eagleton
+Joseph,Early,Joseph Early
+John,East,John East
+Dennis,Eckart,Dennis Eckart
+Fred,Eckert,Fred Eckert
+Robert,Edgar,Robert Edgar
+Don,Edwards,Don Edwards
+Jack,Edwards,Jack Edwards
+Mickey,Edwards,Mickey Edwards
+Bill,Emerson,Bill Emerson
+Glenn,English,Glenn English
+Karan,English,Karan English
+Ben,Erdreich,Ben Erdreich
+John,Erlenborn,John Erlenborn
+Mike,Espy,Mike Espy
+Cooper,Evans,Cooper Evans
+Daniel,Evans,Daniel Evans
+J.,Exon,J. Exon
+Dante,Fascell,Dante Fascell
+Walter,Fauntroy,Walter Fauntroy
+Edward,Feighan,Edward Feighan
+Geraldine,Ferraro,Geraldine Ferraro
+Bobbi,Fiedler,Bobbi Fiedler
+Cleo,Fields,Cleo Fields
+Jack,Fields,Jack Fields
+Eric,Fingerhut,Eric Fingerhut
+Hamilton,Fish,Hamilton Fish
+Michael,Flanagan,Michael Flanagan
+Ronnie,Flippo,Ronnie Flippo
+James,Florio,James Florio
+Thomas,Foley,Thomas Foley
+Harold,Ford,Harold Ford
+William,Ford,William Ford
+Edwin,Forsythe,Edwin Forsythe
+Wyche,Fowler,Wyche Fowler
+Sheila,Frahm,Sheila Frahm
+William,Franklin,William Franklin
+Gary,Franks,Gary Franks
+Victor,Frazer,Victor Frazer
+Bill,Frenzel,Bill Frenzel
+Dan,Frisa,Dan Frisa
+David,Funderburk,David Funderburk
+Don,Fuqua,Don Fuqua
+Jamie,Fuster,Jamie Fuster
+Dean,Gallo,Dean Gallo
+Robert,Garcia,Robert Garcia
+E.,Garn,E. Garn
+Joseph,Gaydos,Joseph Gaydos
+Pete,Geren,Pete Geren
+Sam,Gibbons,Sam Gibbons
+Dan,Glickman,Dan Glickman
+Barry,Goldwater,Barry Goldwater
+Albert,Gore,Albert Gore
+Willis,Gradison,Willis Gradison
+Fred,Grandy,Fred Grandy
+Bill,Grant,Bill Grant
+Kenneth,Gray,Kenneth Gray
+William,Gray,William Gray
+S.,Green,S. Green
+John,Grotberg,John Grotberg
+Frank,Guarini,Frank Guarini
+Steve,Gunderson,Steve Gunderson
+Katie,Hall,Katie Hall
+Sam,Hall,Sam Hall
+Dan,Hamburg,Dan Hamburg
+John,Hammerschmidt,John Hammerschmidt
+Kent,Hance,Kent Hance
+Mel,Hancock,Mel Hancock
+George,Hansen,George Hansen
+Claude,Harris,Claude Harris
+Frank,Harrison,Frank Harrison
+Gary,Hart,Gary Hart
+Thomas,Hartnett,Thomas Hartnett
+Charles,Hatcher,Charles Hatcher
+Mark,Hatfield,Mark Hatfield
+Augustus,Hawkins,Augustus Hawkins
+Paula,Hawkins,Paula Hawkins
+Charles,Hayes,Charles Hayes
+James,Hayes,James Hayes
+Chic,Hecht,Chic Hecht
+Howell,Heflin,Howell Heflin
+Cecil,Heftel,Cecil Heftel
+Frederick,Heineman,Frederick Heineman
+John,Heinz,John Heinz
+Bill,Hendon,Bill Hendon
+Paul,Henry,Paul Henry
+Dennis,Hertel,Dennis Hertel
+Jack,Hightower,Jack Hightower
+John,Hiler,John Hiler
+Elwood,Hillis,Elwood Hillis
+Peter,Hoagland,Peter Hoagland
+George,Hochbrueckner,George Hochbrueckner
+Martin,Hoke,Martin Hoke
+Clyde,Holloway,Clyde Holloway
+Marjorie,Holt,Marjorie Holt
+Larry,Hopkins,Larry Hopkins
+Joan,Horn,Joan Horn
+Frank,Horton,Frank Horton
+James,Howard,James Howard
+Carroll,Hubbard,Carroll Hubbard
+Thomas,Huckaby,Thomas Huckaby
+Walter,Huddleston,Walter Huddleston
+Michael,Huffington,Michael Huffington
+William,Hughes,William Hughes
+Gordon,Humphrey,Gordon Humphrey
+Earl,Hutto,Earl Hutto
+Andrew,Ireland,Andrew Ireland
+Henry,Jackson,Henry Jackson
+Andrew,Jacobs,Andrew Jacobs
+Craig,James,Craig James
+Edgar,Jenkins,Edgar Jenkins
+Roger,Jepsen,Roger Jepsen
+Don,Johnson,Don Johnson
+Harry,Johnston,Harry Johnston
+J.,Johnston,J. Johnston
+Ben,Jones,Ben Jones
+Ed,Jones,Ed Jones
+James,Jones,James Jones
+Walter,Jones,Walter Jones
+Jim,Jontz,Jim Jontz
+David,Karnes,David Karnes
+Nancy,Kassebaum,Nancy Kassebaum
+Robert,Kasten,Robert Kasten
+Robert,Kastenmeier,Robert Kastenmeier
+Abraham,Kazen,Abraham Kazen
+Jack,Kemp,Jack Kemp
+Thomas,Kindness,Thomas Kindness
+Herbert,Klein,Herbert Klein
+Ray,Kogovsek,Ray Kogovsek
+Joseph,Kolter,Joseph Kolter
+Ernest,Konnyu,Ernest Konnyu
+Mike,Kopetski,Mike Kopetski
+Peter,Kostmayer,Peter Kostmayer
+Ken,Kramer,Ken Kramer
+Mike,Kreidler,Mike Kreidler
+Robert,Krueger,Robert Krueger
+Robert,Lagomarsino,Robert Lagomarsino
+H.,Lancaster,H. Lancaster
+Larry,LaRocco,Larry LaRocco
+Delbert,Latta,Delbert Latta
+Greg,Laughlin,Greg Laughlin
+Paul,Laxalt,Paul Laxalt
+Marvin,Leath,Marvin Leath
+Richard,Lehman,Richard Lehman
+William,Lehman,William Lehman
+Mickey,Leland,Mickey Leland
+Norman,Lent,Norman Lent
+Mel,Levine,Mel Levine
+Elliott,Levitas,Elliott Levitas
+David,Levy,David Levy
+Thomas,Lewis,Thomas Lewis
+Jim,Lightfoot,Jim Lightfoot
+Marilyn,Lloyd,Marilyn Lloyd
+Tom,Loeffler,Tom Loeffler
+Cathy,Long,Cathy Long
+Clarence,Long,Clarence Long
+Gillis,Long,Gillis Long
+Jill,Long,Jill Long
+Russell,Long,Russell Long
+James,Longley,James Longley
+Bill,Lowery,Bill Lowery
+Mike,Lowry,Mike Lowry
+Manuel,Lujan,Manuel Lujan
+Charles,Luken,Charles Luken
+Thomas,Luken,Thomas Luken
+Donald,Lukens,Donald Lukens
+Stanley,Lundine,Stanley Lundine
+Ronald,Machtley,Ronald Machtley
+Buddy,MacKay,Buddy MacKay
+Edward,Madigan,Edward Madigan
+David,Mann,David Mann
+Marjorie,Margolies-Mezvinsky,Marjorie Margolies-Mezvinsky
+Ron,Marlenee,Ron Marlenee
+David,Marriott,David Marriott
+David,Martin,David Martin
+James,Martin,James Martin
+Lynn,Martin,Lynn Martin
+William,Martini,William Martini
+Harlan,Mathews,Harlan Mathews
+Charles,Mathias,Charles Mathias
+Spark,Matsunaga,Spark Matsunaga
+Mack,Mattingly,Mack Mattingly
+Nicholas,Mavroules,Nicholas Mavroules
+Romano,Mazzoli,Romano Mazzoli
+Alfred,McCandless,Alfred McCandless
+Frank,McCloskey,Frank McCloskey
+James,McClure,James McClure
+Dave,McCurdy,Dave McCurdy
+Lawrence,McDonald,Lawrence McDonald
+Bob,McEwen,Bob McEwen
+Raymond,McGrath,Raymond McGrath
+Matthew,McHugh,Matthew McHugh
+John,McKernan,John McKernan
+Stewart,McKinney,Stewart McKinney
+J.,McMillan,J. McMillan
+Thomas,McMillen,Thomas McMillen
+James,McNulty,James McNulty
+John,Melcher,John Melcher
+Howard,Metzenbaum,Howard Metzenbaum
+Jan,Meyers,Jan Meyers
+Kweisi,Mfume,Kweisi Mfume
+Daniel,Mica,Daniel Mica
+Robert,Michel,Robert Michel
+Clarence,Miller,Clarence Miller
+John,Miller,John Miller
+Norman,Mineta,Norman Mineta
+Joseph,Minish,Joseph Minish
+George,Mitchell,George Mitchell
+Parren,Mitchell,Parren Mitchell
+Guy,Molinari,Guy Molinari
+David,Monson,David Monson
+G.,Montgomery,G. Montgomery
+Jim,Moody,Jim Moody
+W.,Moore,W. Moore
+Carlos,Moorhead,Carlos Moorhead
+Bruce,Morrison,Bruce Morrison
+Sid,Morrison,Sid Morrison
+Robert,Mrazek,Robert Mrazek
+Austin,Murphy,Austin Murphy
+John,Myers,John Myers
+Dave,Nagle,Dave Nagle
+William,Natcher,William Natcher
+Stephen,Neal,Stephen Neal
+Bill,Nichols,Bill Nichols
+Dick,Nichols,Dick Nichols
+Howard,Nielson,Howard Nielson
+Henry,Nowak,Henry Nowak
+Sam,Nunn,Sam Nunn
+George,O'Brien,George O'Brien
+Thomas,O'Neill,Thomas O'Neill
+Mary,Oakar,Mary Oakar
+James,Olin,James Olin
+Bill,Orton,Bill Orton
+Richard,Ottinger,Richard Ottinger
+Wayne,Owens,Wayne Owens
+Bob,Packwood,Bob Packwood
+Leon,Panetta,Leon Panetta
+Stanford,Parris,Stanford Parris
+Charles,Pashayan,Charles Pashayan
+William,Patman,William Patman
+Elizabeth,Patterson,Elizabeth Patterson
+Jerry,Patterson,Jerry Patterson
+Lewis,Payne,Lewis Payne
+Donald,Pease,Donald Pease
+Claiborne,Pell,Claiborne Pell
+Timothy,Penny,Timothy Penny
+Claude,Pepper,Claude Pepper
+Charles,Percy,Charles Percy
+Carl,Perkins,Carl Perkins
+Carl,Perkins,Carl Perkins
+Douglas,Peterson,Douglas Peterson
+J.,Pickle,J. Pickle
+Larry,Pressler,Larry Pressler
+Melvin,Price,Melvin Price
+Joel,Pritchard,Joel Pritchard
+William,Proxmire,William Proxmire
+David,Pryor,David Pryor
+Carl,Pursell,Carl Pursell
+Dan,Quayle,Dan Quayle
+James,Quillen,James Quillen
+Jennings,Randolph,Jennings Randolph
+William,Ratchford,William Ratchford
+Arthur,Ravenel,Arthur Ravenel
+Richard,Ray,Richard Ray
+Mel,Reynolds,Mel Reynolds
+John,Rhodes,John Rhodes
+Thomas,Ridge,Thomas Ridge
+Donald,Riegle,Donald Riegle
+Matthew,Rinaldo,Matthew Rinaldo
+Don,Ritter,Don Ritter
+J.,Robinson,J. Robinson
+Tommy,Robinson,Tommy Robinson
+Peter,Rodino,Peter Rodino
+Robert,Roe,Robert Roe
+Buddy,Roemer,Buddy Roemer
+Charlie,Rose,Charlie Rose
+Dan,Rostenkowski,Dan Rostenkowski
+Toby,Roth,Toby Roth
+J.,Rowland,J. Rowland
+John,Rowland,John Rowland
+Edward,Roybal,Edward Roybal
+Eldon,Rudd,Eldon Rudd
+Warren,Rudman,Warren Rudman
+Martin,Russo,Martin Russo
+Patricia,Saiki,Patricia Saiki
+Terry,Sanford,Terry Sanford
+George,Sangmeister,George Sangmeister
+Bill,Sarpalius,Bill Sarpalius
+Jim,Sasser,Jim Sasser
+Gus,Savage,Gus Savage
+Harold,Sawyer,Harold Sawyer
+Lynn,Schenk,Lynn Schenk
+James,Scheuer,James Scheuer
+Claudine,Schneider,Claudine Schneider
+Patricia,Schroeder,Patricia Schroeder
+Bill,Schuette,Bill Schuette
+Richard,Schulze,Richard Schulze
+Andrea,Seastrand,Andrea Seastrand
+John,Seiberling,John Seiberling
+John,Seymour,John Seymour
+James,Shannon,James Shannon
+Philip,Sharp,Philip Sharp
+Karen,Shepherd,Karen Shepherd
+Norman,Shumway,Norman Shumway
+Gerry,Sikorski,Gerry Sikorski
+Mark,Siljander,Mark Siljander
+Paul,Simon,Paul Simon
+Alan,Simpson,Alan Simpson
+Jim,Slattery,Jim Slattery
+D.,Slaughter,D. Slaughter
+Denny,Smith,Denny Smith
+Larkin,Smith,Larkin Smith
+Lawrence,Smith,Lawrence Smith
+Neal,Smith,Neal Smith
+Peter,Smith,Peter Smith
+Virginia,Smith,Virginia Smith
+M.,Snyder,M. Snyder
+Stephen,Solarz,Stephen Solarz
+Fernand,St,Fernand St
+Robert,Stafford,Robert Stafford
+Harley,Staggers,Harley Staggers
+Richard,Stallings,Richard Stallings
+Arlan,Stangeland,Arlan Stangeland
+John,Stennis,John Stennis
+Michael,Strang,Michael Strang
+Samuel,Stratton,Samuel Stratton
+Gerry,Studds,Gerry Studds
+Don,Sundquist,Don Sundquist
+Foto,Sunia,Foto Sunia
+David,Sweeney,David Sweeney
+Dick,Swett,Dick Swett
+Al,Swift,Al Swift
+Patrick,Swindall,Patrick Swindall
+Steven,Symms,Steven Symms
+Mike,Synar,Mike Synar
+Robert,Tallon,Robert Tallon
+Randy,Tate,Randy Tate
+Thomas,Tauke,Thomas Tauke
+G.,Taylor,G. Taylor
+Lindsay,Thomas,Lindsay Thomas
+Ray,Thornton,Ray Thornton
+Peter,Torkildsen,Peter Torkildsen
+John,Tower,John Tower
+Bob,Traxler,Bob Traxler
+Paul,Trible,Paul Trible
+Paul,Tsongas,Paul Tsongas
+Walter,Tucker,Walter Tucker
+Morris,Udall,Morris Udall
+Jolene,Unsoeld,Jolene Unsoeld
+Tim,Valentine,Tim Valentine
+Guy,Vander,Guy Vander
+Tommy,Vandergriff,Tommy Vandergriff
+Harold,Volkmer,Harold Volkmer
+Barbara,Vucanovich,Barbara Vucanovich
+Enid,Waldholtz,Enid Waldholtz
+Alton,Waldon,Alton Waldon
+Doug,Walgren,Doug Walgren
+Robert,Walker,Robert Walker
+Malcolm,Wallop,Malcolm Wallop
+Mike,Ward,Mike Ward
+Craig,Washington,Craig Washington
+Harold,Washington,Harold Washington
+James,Weaver,James Weaver
+Vin,Weber,Vin Weber
+Lowell,Weicker,Lowell Weicker
+Ted,Weiss,Ted Weiss
+Alan,Wheat,Alan Wheat
+G.,Whitehurst,G. Whitehurst
+Charles,Whitley,Charles Whitley
+Bob,Whittaker,Bob Whittaker
+Jamie,Whitten,Jamie Whitten
+Lyle,Williams,Lyle Williams
+Pat,Williams,Pat Williams
+Charles,Wilson,Charles Wilson
+Pete,Wilson,Pete Wilson
+Larry,Winn,Larry Winn
+Timothy,Wirth,Timothy Wirth
+Harris,Wofford,Harris Wofford
+Howard,Wolpe,Howard Wolpe
+Antonio,Won,Antonio Won
+George,Wortley,George Wortley
+James,Wright,James Wright
+Chalmers,Wylie,Chalmers Wylie
+Gus,Yatron,Gus Yatron
+Robert,Young,Robert Young
+Clement,Zablocki,Clement Zablocki
+William,Zeliff,William Zeliff
+Dick,Zimmer,Dick Zimmer
+Edward,Zorinsky,Edward Zorinsky
+Edwin,Zschau,Edwin Zschau
+James,Abourezk,James Abourezk
+Bella,Abzug,Bella Abzug
+George,Aiken,George Aiken
+Carl,Albert,Carl Albert
+Clifford,Allen,Clifford Allen
+James,Allen,James Allen
+Maryon,Allen,Maryon Allen
+Jerome,Ambro,Jerome Ambro
+Joseph,Ammerman,Joseph Ammerman
+John,Anderson,John Anderson
+Wendell,Anderson,Wendell Anderson
+Leslie,Arends,Leslie Arends
+Jean,Ashbrook,Jean Ashbrook
+John,Ashbrook,John Ashbrook
+Thomas,Ashley,Thomas Ashley
+Eugene,Atkinson,Eugene Atkinson
+Herman,Badillo,Herman Badillo
+L.,Bafalis,L. Bafalis
+Donald,Bailey,Donald Bailey
+Wendell,Bailey,Wendell Bailey
+LaMar,Baker,LaMar Baker
+Alvin,Baldus,Alvin Baldus
+William,Barrett,William Barrett
+Dewey,Bartlett,Dewey Bartlett
+Robert,Bauman,Robert Bauman
+Birch,Bayh,Birch Bayh
+J.,Beall,J. Beall
+Edward,Beard,Edward Beard
+Robin,Beard,Robin Beard
+Alphonzo,Bell,Alphonzo Bell
+Henry,Bellmon,Henry Bellmon
+Cleve,Benedict,Cleve Benedict
+Jamie,Benitez,Jamie Benitez
+Adam,Benjamin,Adam Benjamin
+Wallace,Bennett,Wallace Bennett
+Bob,Bergland,Bob Bergland
+Alan,Bible,Alan Bible
+Edward,Biester,Edward Biester
+Jonathan,Bingham,Jonathan Bingham
+Ben,Blackburn,Ben Blackburn
+James,Blanchard,James Blanchard
+John,Blatnik,John Blatnik
+Michael,Blouin,Michael Blouin
+Richard,Bolling,Richard Bolling
+David,Bowen,David Bowen
+John,Brademas,John Brademas
+Nicholas,Brady,Nicholas Brady
+Frank,Brasco,Frank Brasco
+William,Bray,William Bray
+John,Breckinridge,John Breckinridge
+Jack,Brinkley,Jack Brinkley
+Bill,Brock,Bill Brock
+William,Brodhead,William Brodhead
+Edward,Brooke,Edward Brooke
+Donald,Brotzman,Donald Brotzman
+Clarence,Brown,Clarence Brown
+Garry,Brown,Garry Brown
+Joel,Broyhill,Joel Broyhill
+John,Buchanan,John Buchanan
+James,Buckley,James Buckley
+Clair,Burgener,Clair Burgener
+J.,Burke,J. Burke
+James,Burke,James Burke
+Yvonne,Burke,Yvonne Burke
+Omar,Burleson,Omar Burleson
+Bill,Burlison,Bill Burlison
+John,Burton,John Burton
+M.,Butler,M. Butler
+Harry,Byrd,Harry Byrd
+Goodloe,Byron,Goodloe Byron
+John,Camp,John Camp
+Howard,Cannon,Howard Cannon
+Bruce,Caputo,Bruce Caputo
+Hugh,Carey,Hugh Carey
+Gregory,Carman,Gregory Carman
+Charles,Carney,Charles Carney
+Tim,Carter,Tim Carter
+Clifford,Case,Clifford Case
+Bob,Casey,Bob Casey
+John,Cavanaugh,John Cavanaugh
+Elford,Cederberg,Elford Cederberg
+Charles,Chamberlain,Charles Chamberlain
+Shirley,Chisholm,Shirley Chisholm
+Frank,Church,Frank Church
+Donald,Clancy,Donald Clancy
+Dick,Clark,Dick Clark
+Frank,Clark,Frank Clark
+Don,Clausen,Don Clausen
+Del,Clawson,Del Clawson
+James,Cleveland,James Cleveland
+Harold,Collier,Harold Collier
+James,Collins,James Collins
+John,Conlan,John Conlan
+Marlow,Cook,Marlow Cook
+James,Corman,James Corman
+Robert,Cornell,Robert Cornell
+David,Cornwell,David Cornwell
+William,Cotter,William Cotter
+Norris,Cotton,Norris Cotton
+James,Coyne,James Coyne
+Paul,Cronin,Paul Cronin
+John,Culver,John Culver
+John,Cunningham,John Cunningham
+Carl,Curtis,Carl Curtis
+Robert,Daniel,Robert Daniel
+Dominick,Daniels,Dominick Daniels
+George,Danielson,George Danielson
+Glenn,Davis,Glenn Davis
+John,Davis,John Davis
+Mendel,Davis,Mendel Davis
+Joel,Deckard,Joel Deckard
+James,Delaney,James Delaney
+John,Dellenback,John Dellenback
+Lawrence,DeNardis,Lawrence DeNardis
+Frank,Denholm,Frank Denholm
+David,Dennis,David Dennis
+John,Dent,John Dent
+Edward,Derwinski,Edward Derwinski
+Samuel,Devine,Samuel Devine
+Charles,Diggs,Charles Diggs
+Peter,Dominick,Peter Dominick
+Harold,Donohue,Harold Donohue
+William,Dorn,William Dorn
+Charles,Dougherty,Charles Dougherty
+Thomas,Downing,Thomas Downing
+Robert,Drinan,Robert Drinan
+Pierre,du,Pierre du
+Thaddeus,Dulski,Thaddeus Dulski
+Robert,Duncan,Robert Duncan
+Jim,Dunn,Jim Dunn
+John,Durkin,John Durkin
+James,Eastland,James Eastland
+Bob,Eckhardt,Bob Eckhardt
+Joshua,Eilberg,Joshua Eilberg
+David,Emery,David Emery
+Arlen,Erdahl,Arlen Erdahl
+Allen,Ertel,Allen Ertel
+Sam,Ervin,Sam Ervin
+Marvin,Esch,Marvin Esch
+Edwin,Eshleman,Edwin Eshleman
+Billy,Evans,Billy Evans
+David,Evans,David Evans
+Frank,Evans,Frank Evans
+Melvin,Evans,Melvin Evans
+Thomas,Evans,Thomas Evans
+Joe,Evins,Joe Evins
+Paul,Fannin,Paul Fannin
+John,Fary,John Fary
+Millicent,Fenwick,Millicent Fenwick
+Paul,Findley,Paul Findley
+Joesph,Fisher,Joesph Fisher
+O.,Fisher,O. Fisher
+Floyd,Fithian,Floyd Fithian
+Daniel,Flood,Daniel Flood
+Walter,Flowers,Walter Flowers
+John,Flynt,John Flynt
+Hiram,Fong,Hiram Fong
+Gerald,Ford,Gerald Ford
+L.,Fountain,L. Fountain
+Donald,Fraser,Donald Fraser
+Peter,Frelinghuysen,Peter Frelinghuysen
+Lou,Frey,Lou Frey
+Harold,Froehlich,Harold Froehlich
+James,Fulbright,James Fulbright
+Richard,Fulton,Richard Fulton
+Robert,Gammage,Robert Gammage
+Tom,Gettys,Tom Gettys
+Robert,Giaimo,Robert Giaimo
+Bo,Ginn,Bo Ginn
+Barry,Goldwater,Barry Goldwater
+Ella,Grasso,Ella Grasso
+Mike,Gravel,Mike Gravel
+Edith,Green,Edith Green
+William,Green,William Green
+Robert,Griffin,Robert Griffin
+Martha,Griffiths,Martha Griffiths
+Wayne,Grisham,Wayne Grisham
+H.,Gross,H. Gross
+James,Grover,James Grover
+Charles,Gubser,Charles Gubser
+Gilbert,Gude,Gilbert Gude
+V.,Gudger,V. Gudger
+Bill,Gunter,Bill Gunter
+Edward,Gurney,Edward Gurney
+Tennyson,Guyer,Tennyson Guyer
+Thomas,Hagedorn,Thomas Hagedorn
+James,Haley,James Haley
+Tim,Hall,Tim Hall
+James,Hanley,James Hanley
+Richard,Hanna,Richard Hanna
+Mark,Hannaford,Mark Hannaford
+Robert,Hanrahan,Robert Hanrahan
+Clifford,Hansen,Clifford Hansen
+Julia,Hansen,Julia Hansen
+Orval,Hansen,Orval Hansen
+Michael,Harrington,Michael Harrington
+Herbert,Harris,Herbert Harris
+William,Harsha,William Harsha
+Philip,Hart,Philip Hart
+Vance,Hartke,Vance Hartke
+James,Harvey,James Harvey
+Floyd,Haskell,Floyd Haskell
+James,Hastings,James Hastings
+Paul,Hatfield,Paul Hatfield
+William,Hathaway,William Hathaway
+Samuel,Hayakawa,Samuel Hayakawa
+Philip,Hayes,Philip Hayes
+Wayne,Hays,Wayne Hays
+F.,Hebert,F. Hebert
+Ken,Hechler,Ken Hechler
+Margaret,Heckler,Margaret Heckler
+Henry,Helstoski,Henry Helstoski
+David,Henderson,David Henderson
+Floyd,Hicks,Floyd Hicks
+Andrew,Hinshaw,Andrew Hinshaw
+Jon,Hinson,Jon Hinson
+Kaneaster,Hodges,Kaneaster Hodges
+Lawrence,Hogan,Lawrence Hogan
+Chet,Holifield,Chet Holifield
+Kenneth,Holland,Kenneth Holland
+Harold,Hollenbeck,Harold Hollenbeck
+Elizabeth,Holtzman,Elizabeth Holtzman
+Craig,Hosmer,Craig Hosmer
+Allan,Howe,Allan Howe
+Roman,Hruska,Roman Hruska
+Robert,Huber,Robert Huber
+William,Hudnut,William Hudnut
+Harold,Hughes,Harold Hughes
+Hubert,Humphrey,Hubert Humphrey
+Muriel,Humphrey,Muriel Humphrey
+William,Hungate,William Hungate
+John,Hunt,John Hunt
+Edward,Hutchinson,Edward Hutchinson
+John,Hutchinson,John Hutchinson
+Richard,Ichord,Richard Ichord
+John,Jarman,John Jarman
+Jacob,Javits,Jacob Javits
+Jim,Jeffries,Jim Jeffries
+John,Jenrette,John Jenrette
+Albert,Johnson,Albert Johnson
+Harold,Johnson,Harold Johnson
+James,Johnson,James Johnson
+Eugene,Johnston,Eugene Johnston
+Robert,Jones,Robert Jones
+Barbara,Jordan,Barbara Jordan
+Joseph,Karth,Joseph Karth
+William,Keating,William Keating
+Richard,Kelly,Richard Kelly
+William,Ketchum,William Ketchum
+Martha,Keys,Martha Keys
+Carleton,King,Carleton King
+John,Kluczynski,John Kluczynski
+Edward,Koch,Edward Koch
+John,Krebs,John Krebs
+Dan,Kuykendall,Dan Kuykendall
+Peter,Kyros,Peter Kyros
+Earl,Landgrebe,Earl Landgrebe
+Phil,Landrum,Phil Landrum
+Claude,Leach,Claude Leach
+John,LeBoutillier,John LeBoutillier
+Raymond,Lederer,Raymond Lederer
+Gary,Lee,Gary Lee
+Joseph,LeFante,Joseph LeFante
+Robert,Leggett,Robert Leggett
+Jerry,Litton,Jerry Litton
+James,Lloyd,James Lloyd
+Torbert,Macdonald,Torbert Macdonald
+Ray,Madden,Ray Madden
+Warren,Magnuson,Warren Magnuson
+Andrew,Maguire,Andrew Maguire
+George,Mahon,George Mahon
+William,Mailliard,William Mailliard
+Richard,Mallary,Richard Mallary
+James,Mann,James Mann
+Mike,Mansfield,Mike Mansfield
+Joseph,Maraziti,Joseph Maraziti
+Marc,Marks,Marc Marks
+David,Martin,David Martin
+Robert,Mathias,Robert Mathias
+Dawson,Mathis,Dawson Mathis
+James,Mattox,James Mattox
+Wiley,Mayne,Wiley Mayne
+John,McClellan,John McClellan
+Robert,McClory,Robert McClory
+Paul,McCloskey,Paul McCloskey
+John,McCollister,John McCollister
+Mike,McCormack,Mike McCormack
+Robert,McEwen,Robert McEwen
+John,McFall,John McFall
+Gale,McGee,Gale McGee
+George,McGovern,George McGovern
+Thomas,McIntyre,Thomas McIntyre
+K.,McKay,K. McKay
+Clem,McSpadden,Clem McSpadden
+Lloyd,Meeds,Lloyd Meeds
+Lee,Metcalf,Lee Metcalf
+Ralph,Metcalfe,Ralph Metcalfe
+Helen,Meyner,Helen Meyner
+Edward,Mezvinsky,Edward Mezvinsky
+Abner,Mikva,Abner Mikva
+Dale,Milford,Dale Milford
+Wilbur,Mills,Wilbur Mills
+William,Mills,William Mills
+William,Minshall,William Minshall
+Donald,Mitchell,Donald Mitchell
+Wilmer,Mizell,Wilmer Mizell
+Toby,Moffett,Toby Moffett
+Robert,Mollohan,Robert Mollohan
+Walter,Mondale,Walter Mondale
+Joseph,Montoya,Joseph Montoya
+William,Moorhead,William Moorhead
+Robert,Morgan,Robert Morgan
+Thomas,Morgan,Thomas Morgan
+Charles,Mosher,Charles Mosher
+Frank,Moss,Frank Moss
+John,Moss,John Moss
+Ronald,Mottl,Ronald Mottl
+John,Murphy,John Murphy
+Morgan,Murphy,Morgan Murphy
+Edmund,Muskie,Edmund Muskie
+Raphael,Musto,Raphael Musto
+Gary,Myers,Gary Myers
+Michael,Myers,Michael Myers
+John,Napier,John Napier
+Lucien,Nedzi,Lucien Nedzi
+James,Nelligan,James Nelligan
+Ancher,Nelsen,Ancher Nelsen
+Gaylord,Nelson,Gaylord Nelson
+Robert,Nix,Robert Nix
+James,O'Hara,James O'Hara
+Otto,Passman,Otto Passman
+John,Pastore,John Pastore
+Wright,Patman,Wright Patman
+Edward,Patten,Edward Patten
+Edward,Pattison,Edward Pattison
+James,Pearson,James Pearson
+Jerry,Pettis,Jerry Pettis
+Shirley,Pettis,Shirley Pettis
+Peter,Peyser,Peter Peyser
+Otis,Pike,Otis Pike
+W.,Poage,W. Poage
+Bertram,Podell,Bertram Podell
+Walter,Powell,Walter Powell
+Richardson,Preyer,Richardson Preyer
+Robert,Price,Robert Price
+Albert,Quie,Albert Quie
+Thomas,Railsback,Thomas Railsback
+William,Randall,William Randall
+John,Rarick,John Rarick
+Thomas,Rees,Thomas Rees
+Ogden,Reid,Ogden Reid
+Henry,Reuss,Henry Reuss
+John,Rhodes,John Rhodes
+Abraham,Ribicoff,Abraham Ribicoff
+Frederick,Richmond,Frederick Richmond
+Theodore,Risenhoover,Theodore Risenhoover
+Clint,Roberts,Clint Roberts
+Ray,Roberts,Ray Roberts
+Howard,Robison,Howard Robison
+Paul,Rogers,Paul Rogers
+Teno,Roncalio,Teno Roncalio
+Angelo,Roncallo,Angelo Roncallo
+Fred,Rooney,Fred Rooney
+John,Rooney,John Rooney
+Benjamin,Rosenthal,Benjamin Rosenthal
+J.,Roush,J. Roush
+John,Rousselot,John Rousselot
+William,Roy,William Roy
+William,Royer,William Royer
+Harold,Runnels,Harold Runnels
+Philip,Ruppe,Philip Ruppe
+Earl,Ruth,Earl Ruth
+Leo,Ryan,Leo Ryan
+Charles,Sandman,Charles Sandman
+James,Santini,James Santini
+Ronald,Sarasin,Ronald Sarasin
+David,Satterfield,David Satterfield
+William,Saxbe,William Saxbe
+John,Saylor,John Saylor
+William,Scherle,William Scherle
+Harrison,Schmitt,Harrison Schmitt
+Herman,Schneebeli,Herman Schneebeli
+Richard,Schweiker,Richard Schweiker
+Hugh,Scott,Hugh Scott
+William,Scott,William Scott
+Keith,Sebelius,Keith Sebelius
+Bob,Shamansky,Bob Shamansky
+George,Shipley,George Shipley
+Dick,Shoup,Dick Shoup
+Garner,Shriver,Garner Shriver
+Robert,Sikes,Robert Sikes
+B.,Sisk,B. Sisk
+Joe,Skubitz,Joe Skubitz
+John,Slack,John Slack
+Albert,Smith,Albert Smith
+Henry,Smith,Henry Smith
+Joseph,Smith,Joseph Smith
+John,Sparkman,John Sparkman
+Gladys,Spellman,Gladys Spellman
+Edward,Stack,Edward Stack
+Harley,Staggers,Harley Staggers
+J.,Stanton,J. Stanton
+James,Stanton,James Stanton
+David,Staton,David Staton
+Tom,Steed,Tom Steed
+Robert,Steele,Robert Steele
+Alan,Steelman,Alan Steelman
+Newton,Steers,Newton Steers
+Sam,Steiger,Sam Steiger
+William,Steiger,William Steiger
+Robert,Stephens,Robert Stephens
+Adlai,Stevenson,Adlai Stevenson
+Bennett,Stewart,Bennett Stewart
+Donald,Stewart,Donald Stewart
+David,Stockman,David Stockman
+Richard,Stone,Richard Stone
+Frank,Stubblefield,Frank Stubblefield
+W.,Stuckey,W. Stuckey
+Leonor,Sullivan,Leonor Sullivan
+James,Symington,James Symington
+Stuart,Symington,Stuart Symington
+Robert,Taft,Robert Taft
+Burt,Talcott,Burt Talcott
+Herman,Talmadge,Herman Talmadge
+Roy,Taylor,Roy Taylor
+Charles,Teague,Charles Teague
+Olin,Teague,Olin Teague
+Frank,Thompson,Frank Thompson
+Vernon,Thomson,Vernon Thomson
+Charles,Thone,Charles Thone
+Robert,Tiernan,Robert Tiernan
+Richard,Tonry,Richard Tonry
+David,Towell,David Towell
+David,Treen,David Treen
+James,Tucker,James Tucker
+John,Tunney,John Tunney
+Al,Ullman,Al Ullman
+Lionel,Van,Lionel Van
+Richard,Vander,Richard Vander
+Charles,Vanik,Charles Vanik
+Victor,Veysey,Victor Veysey
+Joseph,Vigorito,Joseph Vigorito
+Joe,Waggonner,Joe Waggonner
+Jerome,Waldie,Jerome Waldie
+William,Walsh,William Walsh
+William,Wampler,William Wampler
+John,Ware,John Ware
+Ed,Weber,Ed Weber
+Charles,Whalen,Charles Whalen
+Richard,White,Richard White
+William,Widnall,William Widnall
+Charles,Wiggins,Charles Wiggins
+Harrison,Williams,Harrison Williams
+Lawrence,Williams,Lawrence Williams
+Charles,Wilson,Charles Wilson
+Robert,Wilson,Robert Wilson
+Lester,Wolff,Lester Wolff
+Joe,Wyatt,Joe Wyatt
+Wendell,Wyatt,Wendell Wyatt
+John,Wydler,John Wydler
+Louis,Wyman,Louis Wyman
+Andrew,Young,Andrew Young
+Edward,Young,Edward Young
+John,Young,John Young
+Milton,Young,Milton Young
+Samuel,Young,Samuel Young
+Leo,Zeferetti,Leo Zeferetti
+Roger,Zion,Roger Zion
+John,Zwach,John Zwach
