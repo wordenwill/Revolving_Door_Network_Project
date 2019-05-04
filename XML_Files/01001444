@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Mehlman Castagnetti Rosen &amp; Thomas, Inc.</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>1341 G Street, NW</address1>
+  <address2>Suite 1100</address2>
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20005</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Government Affairs Consulting Services</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Lone Star Ports , LLC</clientName>
+  <clientAddress>1414 Valero Way</clientAddress>
+  <clientCity>Corpus Christi</clientCity>
+  <clientState>TX</clientState>
+  <clientZip>78409</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Work at the Port of Corpus Christi</clientGeneralDescription>
+  <senateID>284950</senateID>
+  <houseID>368930225</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Bruce</lobbyistFirstName>
+      <lobbyistLastName>Mehlman</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Assistant Secretary of Commerce for Tech Policy; 
+General Counsel and Policy Director, House Republican Conference
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>David</lobbyistFirstName>
+      <lobbyistLastName>Castagnetti</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Senator Max Baucus; 
+Chief of Staff, Representative Norm Mineta; 
+EA, Representative Ed Markey
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Dean</lobbyistFirstName>
+      <lobbyistLastName>Rosen</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Health Policy Director, Senate Majority Leader Frist; 
+Staff Director, Senate Subcommittee on Public Health; 
+Majority Health Policy Counsel, House Committee on Ways &amp; Means, Subcommittee on Health
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Dean</lobbyistFirstName>
+      <lobbyistLastName>Rosen</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Health Policy Coordinator and Counsel, Senate Committee on Labor and Human Resources; 
+Counsel and Professional Staff, Senate Committee on Labor &amp; Human Resources, Subcommittee on Disability Policy;
+Case Worker, Representative R. Boschwitz
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>David</lobbyistFirstName>
+      <lobbyistLastName>Thomas</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Representative Zoe Lofgren; 
+Director of Congressional Relations, FTC; 
+Deputy Director for Legislative Affairs, Vice President Gore; 
+Staff Assistant, Senator Metzenbaum
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Elise</lobbyistFirstName>
+      <lobbyistLastName>Pickering</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Executive Director, House Republican Policy Committee; 
+Chief of Staff, Representative John Shadegg; 
+Legislative Assistant, Representative Dannemeyer; 
+Legislative Director, Representative Bartlett
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Charles</lobbyistFirstName>
+      <lobbyistLastName>Wooters</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Representative Chris Van Hollen; 
+Director of Member Services, Office of the Assistant to the Speaker; 
+Chief of Staff, Representative Louise Slaughter
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Sage</lobbyistFirstName>
+      <lobbyistLastName>Eastman</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Strategy Director, Committee on Ways &amp; Means; 
+Deputy Staff Director (Majority), Committee on Ways &amp; Means; 
+Senior Advisor, Committee on Ways &amp; Means; 
+Communications Director, Representative Dave Camp
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Lauren</lobbyistFirstName>
+      <lobbyistLastName>Aronson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Director, Office of Legislation, Centers for Medicare &amp; Medicaid Services (CMS)
+Professional Staff Member, Committee on Ways &amp; Means; 
+Policy Director, White House; 
+Policy Director, HHS Office of Health Reform (detailed to the White House);
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Lauren</lobbyistFirstName>
+      <lobbyistLastName>Aronson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Policy Advisor, Representative Rahm Emanuel; 
+Health LA, Representative Carolyn McCarthy
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Michael</lobbyistFirstName>
+      <lobbyistLastName>Robinson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Member Services and Coalitions Director, House Appropriations Committee; 
+Policy Advisor/Deputy Chief of Staff, House Majority Leader/Representative Tom DeLay;  
+Legislative Director, Representative Hal Rogers; 
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Michael</lobbyistFirstName>
+      <lobbyistLastName>Robinson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Senior Legislative Assistant, Representative Ralph Regula; 
+Senior Legislative Assistant, Representative Bob Franks; 
+Legislative Assistant, Representative Hal Rogers; 
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Michael</lobbyistFirstName>
+      <lobbyistLastName>Robinson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Special Projects Assistant, House Transportation and Infrastructure Committee; 
+Staff Assistant, Representative Bud Shuster
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Constantine</lobbyistFirstName>
+      <lobbyistLastName>Hingson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Senator Dan Coats;
+Counsel/Legislative Director, Senator Judd Gregg;
+General Counsel, Senator Elizabeth Dole
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Steven</lobbyistFirstName>
+      <lobbyistLastName>Haro</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Senator Dianne Feinstein;
+Assistant Secretary of Commerce for Legislative and Intergovernmental Affairs;
+Chief of Staff, Senator Martin Heinrich;
+Chief of Staff, Representative Martin Heinrich;
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Steven</lobbyistFirstName>
+      <lobbyistLastName>Haro</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Senior Advisor, Representative Xavier Becerra;
+Director of Legislation and Communication, Representative Xavier Becerra;
+Press Secretary, Representative Xavier Becerra
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Helen</lobbyistFirstName>
+      <lobbyistLastName>Tolar</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Senator John Boozman;
+Staff Director/Chief Counsel, House Veterans Affairs Committee (Representative Jeff Miller);
+Professional Staff/Counsel, Senate Veterans Affairs Committee (Senator Larry Craig);
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Helen</lobbyistFirstName>
+      <lobbyistLastName>Tolar</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Counsel/Legislative Director, Representative Jeff Miller;
+Legislative Assistant, Representative Jeff Miller;
+Scheduler, Representative Jeff Miller;
+Law Clerk, House Transportation and Infrastructure Committee
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>BUD</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Issues related to the Port of Corpus Christi.</specific_issues>
+  <affiliatedUrl>www.carlyle.com</affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>The Carlyle Group</affiliatedOrgName>
+      <affiliatedOrgAddress>1001 Pennsylvania Avenue, NW</affiliatedOrgAddress>
+      <affiliatedOrgCity>Washington</affiliatedOrgCity>
+      <affiliatedOrgState>DC</affiliatedOrgState>
+      <affiliatedOrgZip>20004</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>11/1/2018</effectiveDate>
+  <printedName>Solveig L Monson</printedName>
+  <signedDate>12/14/2018 1:25:45 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

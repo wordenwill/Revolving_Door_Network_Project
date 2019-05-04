@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Invariant LLC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>901 7th Street NW</address1>
+  <address2>Suite 600</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20001</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Government relations firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>GlaxoSmithKline LLC</clientName>
+  <clientAddress>1050 K Street NW, Ste 800</clientAddress>
+  <clientCity>Washington</clientCity>
+  <clientState>DC</clientState>
+  <clientZip>20001</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>Philadelphia</prinClientCity>
+  <prinClientState>PA</prinClientState>
+  <prinClientZip>19112</prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>USA</prinClientCountry>
+  <clientGeneralDescription>Pharmaceutical company</clientGeneralDescription>
+  <senateID>314237</senateID>
+  <houseID>391450136</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Heather</lobbyistFirstName>
+      <lobbyistLastName>Podesta</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Counsel, Representative Robert Matsui (2003);
+Counsel, Representative Earl Pomeroy (2002-2003);
+Legislative Fellow, Senator Bill Bradley (1993-1994);
+Research Assistant, Congressional Budget Office (1992)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Annie</lobbyistFirstName>
+      <lobbyistLastName>Palisi</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Director Special Projects, Education and the Workforce Committee (2016-2016)
+Deputy Director of Member Services, Speaker John Boehner (2013-2015);
+Chief of Staff, Rep. Diane Black (2011-2013)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Patrice</lobbyistFirstName>
+      <lobbyistLastName>Willoughby</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Dep Assoc Admin, Intergovt Affairs Office, GSA (2011-2012);
+Exec Dir, CBC, Rep. Barbara Lee (2008-2011);
+Leg Asst, Counsel, Chief/Staff, Rep. Tubbs Jones (2000-2008)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Benjamin</lobbyistFirstName>
+      <lobbyistLastName>Klein</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Legislative Director, Senator Byron Dorgan (2007-2010);
+Legislative Assistant, Senator Byron Dorgan (2005-2007)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Katie</lobbyistFirstName>
+      <lobbyistLastName>Wise</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Leg. Dir, Rep. Vern Buchanan (2014-2015) 
+Leg. Dir, Rep. Mike Fitzpatrick (2013-2014)
+Sr. Legislative Asst, Rep. Mike Fitzpatrick (2011-2013)
+Legislative Correspondent/Asst, Rep. Mary Fallin (2010-2011)
+Staff Asst, Rep. Mary Fallin (2009-2010)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Mary</lobbyistFirstName>
+      <lobbyistLastName>Stanton</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Leg. Asst, Sen. Kohl (2006-2007);
+Policy Adv, Sen. Aging Comm. (2004-2006);
+Leg. Asst, Rep. Weiner (2004);
+Leg. Correspondent, Sen. Kohl (2003-2004);
+Staff Asst, Sen. Kohl (2002-2003);
+Intern, Rep. Gephardt (2001);
+Intern, Rep. Dingell (2000)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>HCR</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Monitor health care issues related to Medicare/Medicaid.</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>GlaxoSmithKline plc</name>
+      <address>980 Great West Road, Brentford</address>
+      <city>Middlesex, TW8 9GS</city>
+      <state>
+      </state>
+      <country>GBR</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>8/1/2018</effectiveDate>
+  <printedName>Laura Joshua</printedName>
+  <signedDate>8/2/2018 9:35:58 AM</signedDate>
+</LOBBYINGDISCLOSURE1>

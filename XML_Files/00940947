@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>The Ingram Group LLC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>601 Pennsylvania Avenue</address1>
+  <address2>Suite 210</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20004</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>Nashville</principal_city>
+  <principal_state>TN</principal_state>
+  <principal_zip>37219</principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>USA</principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>strategic affairs firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Knoxville Area Hospital Alliance (informal coalition)</clientName>
+  <clientAddress>c/o The Ingram Group LLC, 511 Union Street, Ste 1900</clientAddress>
+  <clientCity>Nashville</clientCity>
+  <clientState>TN</clientState>
+  <clientZip>37219</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>informal coalition of Knoxville, TN area hospitals</clientGeneralDescription>
+  <senateID>400577737</senateID>
+  <houseID>412500052</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Tom</lobbyistFirstName>
+      <lobbyistLastName>Ingram</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>CoS, Sen. Lamar Alexander; Staff Director, Senate Republican Conference</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Brandi</lobbyistFirstName>
+      <lobbyistLastName>Lowell</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>CoS, LD, Rep. Heath Shuler; Dep CoS, LD, Senior LA, LA, Rep. Lincoln Davis; LC, Staff Asst, Rep. Bob Clement</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>MMM</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Issues related to the Medicare Wage Index.</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Covenant Health</affiliatedOrgName>
+      <affiliatedOrgAddress>100 Fort Sanders West Blvd.</affiliatedOrgAddress>
+      <affiliatedOrgCity>Knoxville</affiliatedOrgCity>
+      <affiliatedOrgState>TN</affiliatedOrgState>
+      <affiliatedOrgZip>37922</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>University Health System, Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>2121 Medical Center Way, Suite 200</affiliatedOrgAddress>
+      <affiliatedOrgCity>Knoxville</affiliatedOrgCity>
+      <affiliatedOrgState>TN</affiliatedOrgState>
+      <affiliatedOrgZip>37920</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Blount Memorial Hospital</affiliatedOrgName>
+      <affiliatedOrgAddress>907 E Lamar Alexander Parkway</affiliatedOrgAddress>
+      <affiliatedOrgCity>Maryville</affiliatedOrgCity>
+      <affiliatedOrgState>TN</affiliatedOrgState>
+      <affiliatedOrgZip>37804</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>1/17/2018</effectiveDate>
+  <printedName>Brandi Lowell</printedName>
+  <signedDate>3/5/2018 9:52:54 AM</signedDate>
+</LOBBYINGDISCLOSURE1>

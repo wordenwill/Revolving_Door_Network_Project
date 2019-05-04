@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>PORTERFIELD, FETTIG &amp; SEARS, LLC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>400 North Capitol Street, NW</address1>
+  <address2>Suite 363</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20001</zip>
+  <zipext>2000</zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>government relations</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Coalition for Sustainable Multifamily Housing </clientName>
+  <clientAddress>400 North Capitol Street, NW Suite 363</clientAddress>
+  <clientCity>Washington, DC</clientCity>
+  <clientState>DC</clientState>
+  <clientZip>20001</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>multifamily housing finance issues</clientGeneralDescription>
+  <senateID>305054</senateID>
+  <houseID>380910048</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Lendell</lobbyistFirstName>
+      <lobbyistLastName>Porterfield</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Senior Advisor, Senate Committee on Banking</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Dwight </lobbyistFirstName>
+      <lobbyistLastName>Fettig</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Staff Director, Senate Committee on Banking</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Dawn</lobbyistFirstName>
+      <lobbyistLastName>Sears</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Legislative Fellow, Senate Judiciary Committee; Legislative Counsel, Rep. Lee Terry</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Ben </lobbyistFirstName>
+      <lobbyistLastName>Turner</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Legislative Director, Rep. Delaney; Legislative Assistant and counsel, Rep. Jim Himes; Legislative Aide, Rep. Courtney</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Bryan</lobbyistFirstName>
+      <lobbyistLastName>Blom</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Staff Director, Senate Banking Committee on NSIT; Minority Staff Director, Senate Banking Subcommittee on securities/insurance; Legislative Director, Rep. Duffy; Leg Clerk, House Judiciary; Leg Assistant, Rep. Young; intern, Rep. Sensenbrenner</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>HOU</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>multifamily housing finance issues </specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Berkadia Commercial Mortgage, LLC</affiliatedOrgName>
+      <affiliatedOrgAddress>521 Fifth Avenue</affiliatedOrgAddress>
+      <affiliatedOrgCity>New York</affiliatedOrgCity>
+      <affiliatedOrgState>NY</affiliatedOrgState>
+      <affiliatedOrgZip>10175</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>CBRE</affiliatedOrgName>
+      <affiliatedOrgAddress>400 S. Hope Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Los Angeles</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip>90071</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Greystone Servicing Corporation</affiliatedOrgName>
+      <affiliatedOrgAddress>419 Belle Air Lane</affiliatedOrgAddress>
+      <affiliatedOrgCity>Warrenton</affiliatedOrgCity>
+      <affiliatedOrgState>VA</affiliatedOrgState>
+      <affiliatedOrgZip>20186</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Hunt Real Estate Capital</affiliatedOrgName>
+      <affiliatedOrgAddress>230 Park Avenue</affiliatedOrgAddress>
+      <affiliatedOrgCity>New York</affiliatedOrgCity>
+      <affiliatedOrgState>NY</affiliatedOrgState>
+      <affiliatedOrgZip>10169</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Jones Lang LaSalle</affiliatedOrgName>
+      <affiliatedOrgAddress>200 East Randolph Drive</affiliatedOrgAddress>
+      <affiliatedOrgCity>Chicago</affiliatedOrgCity>
+      <affiliatedOrgState>IL</affiliatedOrgState>
+      <affiliatedOrgZip>60601</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>10/26/2018</effectiveDate>
+  <printedName>Dawn Sears</printedName>
+  <signedDate>10/26/2018 3:19:56 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

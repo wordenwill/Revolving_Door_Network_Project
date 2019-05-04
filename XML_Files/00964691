@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Ridge Policy Group</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>1140 Connecticut Avenue, NW</address1>
+  <address2>Suite 510</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20036</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Lobbying firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>The Seasonal Business Alliance</clientName>
+  <clientAddress>22 Rutgers Road, Suite 100 </clientAddress>
+  <clientCity>Pittsburgh</clientCity>
+  <clientState>PA</clientState>
+  <clientZip>15205</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Alliance to protect seasonal employer temporary workforce</clientGeneralDescription>
+  <senateID>400581776</senateID>
+  <houseID>412730044</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Mark</lobbyistFirstName>
+      <lobbyistLastName>Holman</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>1991 House AA; 2001 - 2002 Dep. Asst. to Pres. for Homeland Security</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Rebeccah</lobbyistFirstName>
+      <lobbyistLastName>Wolfkiel</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>2004-2010 House LD</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Rebekah</lobbyistFirstName>
+      <lobbyistLastName>Corby</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Zaida</lobbyistFirstName>
+      <lobbyistLastName>Ricker</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>2017 - 2018 House LA; 2015 - 2017 Senate LA, LC, Staff Assistant</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>IMM</ali_Code>
+    <ali_Code>LBR</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Legislative issues concerning seasonal temporary workforce (H2B Visa workers)</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Burns and Scalo Roofing</affiliatedOrgName>
+      <affiliatedOrgAddress>22 Rutgers Road</affiliatedOrgAddress>
+      <affiliatedOrgCity>Pittsburgh</affiliatedOrgCity>
+      <affiliatedOrgState>PA</affiliatedOrgState>
+      <affiliatedOrgZip>15205</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Beall's Nursery and Landscaping</affiliatedOrgName>
+      <affiliatedOrgAddress>9334 Saltsburg Road</affiliatedOrgAddress>
+      <affiliatedOrgCity>Pittsburgh</affiliatedOrgCity>
+      <affiliatedOrgState>PA</affiliatedOrgState>
+      <affiliatedOrgZip>15239</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Bruce Evanovich Landscaping</affiliatedOrgName>
+      <affiliatedOrgAddress>2884 Industrial Blvd.</affiliatedOrgAddress>
+      <affiliatedOrgCity>Bethel Park</affiliatedOrgCity>
+      <affiliatedOrgState>PA</affiliatedOrgState>
+      <affiliatedOrgZip>15102</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>The Landscape Center by Evanovich</affiliatedOrgName>
+      <affiliatedOrgAddress>2741 S. Park Rd.</affiliatedOrgAddress>
+      <affiliatedOrgCity>Bethel Park</affiliatedOrgCity>
+      <affiliatedOrgState>PA</affiliatedOrgState>
+      <affiliatedOrgZip>15102</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>6/1/2018</effectiveDate>
+  <printedName>Mark Holman</printedName>
+  <signedDate>7/13/2018 3:27:57 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

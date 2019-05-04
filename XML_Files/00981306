@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>FAHMY HUDOME INTERNATIONAL, INC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>1100 CONNECTICUT AVENUE, NW, #1250</address1>
+  <address2>
+  </address2>
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20036</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Consulting Firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Port Link GP, Ltd. (on behalf of Port Fund L.P.)</clientName>
+  <clientAddress>Cayman Corporate Center, 27 Hospital Road</clientAddress>
+  <clientCity>George Town, Grand Cayman</clientCity>
+  <clientState>
+  </clientState>
+  <clientZip>KY1-9008</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>CAY</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Investment Management</clientGeneralDescription>
+  <senateID>91411</senateID>
+  <houseID>367940002</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Randa</lobbyistFirstName>
+      <lobbyistLastName>Fahmy</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Counselor - U.S. Senator Spencer Abraham; U.S. Associate Deputy Secretary of Energy </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>FIN</ali_Code>
+    <ali_Code>FOR</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Issues related to fairness and integrity in the international banking system.</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>The Port Fund, L.P.</affiliatedOrgName>
+      <affiliatedOrgAddress>Cayman Corporate Center, 27 Hospital Road</affiliatedOrgAddress>
+      <affiliatedOrgCity>George Town, Grand Cayman</affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>KY1-9008</affiliatedOrgZip>
+      <affiliatedOrgCountry>CAY</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>Kuwait Ports Authority (investment in the Port Fund LP)</name>
+      <address>PO Box 3874</address>
+      <city>Safat 13039</city>
+      <state>
+      </state>
+      <country>KUW</country>
+      <prinCity>Safat</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>KUW</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>41.4</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Kuwait Public Institution for Social Security (invesment in Port Fund LP)</name>
+      <address>Al Soor St, Al Mirqab, PO box 23423</address>
+      <city>Safat 13104</city>
+      <state>
+      </state>
+      <country>KUW</country>
+      <prinCity>Safat</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>KUW</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>23.8</ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>7/16/2018</effectiveDate>
+  <printedName>Randa Fahmy</printedName>
+  <signedDate>8/27/2018 4:26:04 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

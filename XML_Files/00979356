@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>Y</imported>
+  <pages>3</pages>
+  <regType>2</regType>
+  <organizationName>Squire Patton Boggs</organizationName>
+  <prefix />
+  <firstName />
+  <lastName />
+  <address1>2550 M STREET, NW</address1>
+  <address2 />
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20037</zip>
+  <zipext />
+  <country>USA</country>
+  <principal_city />
+  <principal_state />
+  <principal_zip />
+  <principal_zipext />
+  <principal_country />
+  <contactPrefix />
+  <contactIntlPhone />
+  <registrantGeneralDescription>Law Firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Americans for Carbon Dividends</clientName>
+  <clientAddress>1250 Connecticut Avenue, NW</clientAddress>
+  <clientCity>Washington</clientCity>
+  <clientState>DC</clientState>
+  <clientZip>20036</clientZip>
+  <clientZipExt />
+  <clientCountry>USA</clientCountry>
+  <prinClientCity />
+  <prinClientState />
+  <prinClientZip />
+  <prinClientZipExt />
+  <prinClientCountry />
+  <clientGeneralDescription>Advocacy campaign group</clientGeneralDescription>
+  <senateID>30906</senateID>
+  <houseID>319171490</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Bret</lobbyistFirstName>
+      <lobbyistLastName>Boyles</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>Staff Assistant, Deputy Chief of Staff, Chief of Staff, Sen.Lott, 1996-97, 2005-07</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>John</lobbyistFirstName>
+      <lobbyistLastName>Breaux</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>US Senator Jan. 1987-Jan. 2005; US Congressman, Sept. 30, 1972-January 3, 1987.</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Matthew</lobbyistFirstName>
+      <lobbyistLastName>Cutts</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition />
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Austin</lobbyistFirstName>
+      <lobbyistLastName>Harrison</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>March 2009: Intern for Cong. Gregg Harper;
+May-Aug. 2013: Intern for Sen. Thad Cochran; January-May 2015: June-August 2015: U.S.  Department of State, intern, U.S. Embassy, Zagreb, Croatia.</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Patrick</lobbyistFirstName>
+      <lobbyistLastName>Kirby</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>Aug-Dec 2014: Legal Extern, Office of the Comptroller of the Currency; May-Aug 2013: Legal Intern, Financial Crimes Enforcement Network;
+May-Aug 2008: Regulatory Intern, CFTC;
+May-Aug 2007: Foreign Affairs Intern, US State Department
+
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Chester Trent</lobbyistFirstName>
+      <lobbyistLastName>Lott</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>US Senator, January 1989-December 2007; US Congressman, January 1972-December 1989</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>David</lobbyistFirstName>
+      <lobbyistLastName>Schnittger</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>Dep. Chief of Staff, Speaker Boehner, 2006-2015; Press Secr.,  Rep. John Boehner 1994-2001; Communications Director, House Committee on Education and the Workforce 2001-2005</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>TAX</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Assisting client with education and advocacy campaign on Capitol Hill and the Executive Branch to build support for the Baker-Shultz Carbon Dividends Plan</specific_issues>
+  <affiliatedUrl />
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>7/2/2018</effectiveDate>
+  <printedName>Glenn Willard, Of Counsel</printedName>
+  <signedDate>7/24/2018 7:29:34 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

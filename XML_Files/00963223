@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>Y</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Squire Patton Boggs</organizationName>
+  <prefix />
+  <firstName />
+  <lastName />
+  <address1>2550 M STREET, NW</address1>
+  <address2 />
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20037</zip>
+  <zipext />
+  <country>USA</country>
+  <principal_city />
+  <principal_state />
+  <principal_zip />
+  <principal_zipext />
+  <principal_country />
+  <contactPrefix />
+  <contactIntlPhone />
+  <registrantGeneralDescription>Law Firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Tri-Star Laminates Inc.</clientName>
+  <clientAddress>20322 Windrow Drive</clientAddress>
+  <clientCity>Lake Forest</clientCity>
+  <clientState>CA</clientState>
+  <clientZip>92630</clientZip>
+  <clientZipExt />
+  <clientCountry>USA</clientCountry>
+  <prinClientCity />
+  <prinClientState />
+  <prinClientZip />
+  <prinClientZipExt />
+  <prinClientCountry />
+  <clientGeneralDescription>Manufacturer/distributor of materials for electronics industry.</clientGeneralDescription>
+  <senateID>30906</senateID>
+  <houseID>319171486</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Robert</lobbyistFirstName>
+      <lobbyistLastName>Kapla</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>Special Asst. for Policy and Admin, Council on Environ. Quality, Exec. Office of Pres., 97-99;Special Assst. to Chair, Council on Environ. Quality, Exec. Office of Pres. 96-97.</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Danielle</lobbyistFirstName>
+      <lobbyistLastName>Mehta</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>January 2011-May 2017,  Management and Program Analyst, DHS, US Citizenship and Immigration Services; July-Sept 2015: Intern, US Depart of Justice, Federal Programs Branch; June-July 2009: Intern, DHS,US Citizenship and Immigration Services.</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>David</lobbyistFirstName>
+      <lobbyistLastName>Stewart</lobbyistLastName>
+      <lobbyistSuffix />
+      <coveredPosition>Nov '15-Apr '18, Maj. SD Ways and Means; June '13-Nov '15, Pol Dir, Speaker Boehner;   Dec '08-Jan '11: Pol Adv, Rep Boehner; Jan '11-June '13, Asst for Policy, Rep Boehner; Apr '07-Dec '08 Dep COS and LD, Rep English</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>TRD</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Section 232 of the Trade Expansion Act of 1962 with respect to aluminum; certain Anti Dumping/Countervailing Duty cases concerning aluminum.</specific_issues>
+  <affiliatedUrl />
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>CAC, Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>20322 Windrow Drive</affiliatedOrgAddress>
+      <affiliatedOrgCity>Lake Forest</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip />
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity />
+      <affiliatedPrinOrgState />
+      <affiliatedPrinOrgCountry />
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Insulectro</affiliatedOrgName>
+      <affiliatedOrgAddress>20322 Windrow Drive</affiliatedOrgAddress>
+      <affiliatedOrgCity>Lake Forest</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip />
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity />
+      <affiliatedPrinOrgState />
+      <affiliatedPrinOrgCountry />
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Laminating Company of America</affiliatedOrgName>
+      <affiliatedOrgAddress>20322 Windrow Drive</affiliatedOrgAddress>
+      <affiliatedOrgCity>Lake Forest</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip />
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity />
+      <affiliatedPrinOrgState />
+      <affiliatedPrinOrgCountry />
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>6/20/2018</effectiveDate>
+  <printedName>Glenn Willard, Of Counsel</printedName>
+  <signedDate>7/10/2018 12:08:09 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>ACCENTURE FEDERAL SERVICES LLC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>800 North Glebe Rd.</address1>
+  <address2>
+  </address2>
+  <city>Arlington</city>
+  <state>VA</state>
+  <zip>22203</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Technology Consulting</registrantGeneralDescription>
+  <selfSelect>Y</selfSelect>
+  <clientName>ACCENTURE FEDERAL SERVICES LLC</clientName>
+  <clientAddress>
+  </clientAddress>
+  <clientCity>
+  </clientCity>
+  <clientState>
+  </clientState>
+  <clientZip>
+  </clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>
+  </clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>
+  </clientGeneralDescription>
+  <senateID>401104962</senateID>
+  <houseID>441170001</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Manu</lobbyistFirstName>
+      <lobbyistLastName>Malhotra</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Angela</lobbyistFirstName>
+      <lobbyistLastName>Ambrose</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Deputy LD; Sr. LA; Legislative Correspondent: Rep. John E. Peterson (R - PA)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Nigel A.</lobbyistFirstName>
+      <lobbyistLastName>Stephens</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff - Congresswoman Yvette D. Clarke
+Professional Staff - Senate Committee on Small Business and Entrepreneurship (Ranking Member John F. Kerry, D-MA)
+Legislative Assistant - Congressman Albert R. Wynn (MD-04), Washington, D.C.      
+ </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>BUD</ali_Code>
+    <ali_Code>DEF</ali_Code>
+    <ali_Code>EDU</ali_Code>
+    <ali_Code>GOV</ali_Code>
+    <ali_Code>HCR</ali_Code>
+    <ali_Code>TAX</ali_Code>
+    <ali_Code>HOM</ali_Code>
+    <ali_Code>VET</ali_Code>
+    <ali_Code>AGR</ali_Code>
+    <ali_Code>LAW</ali_Code>
+    <ali_Code>CPI</ali_Code>
+  </alis>
+  <specific_issues>FY19 Appropriations Bills
+Defense Technology Programs
+Dept of Ed. - NextGen/ Student Loan Provider Program
+Federal Procurement; Shared Services; Citizen Experience; STEM; AI/ Automation
+ACA; FDA/HHS/ NIH
+IRS TRIO; CADE2; FRTIB; CFPB
+TSA; CBP; ICE
+VA/ Military Health - EHR Modernization &amp; Cybersecurity
+AG FARM Bill; Shared Services
+Justice - FBI
+Commerce - Approps; IT, Census 2020
+</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>Accenture Plc</name>
+      <address>1 Grand Canal Square</address>
+      <city>Dublin 2</city>
+      <state>
+      </state>
+      <country>IRL</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0.00</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>7/1/2018</effectiveDate>
+  <printedName>Manu Malhotra</printedName>
+  <signedDate>8/7/2018 10:46:36 AM</signedDate>
+</LOBBYINGDISCLOSURE1>

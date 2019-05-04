@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Arnold &amp; Porter Kaye Scholer LLP</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>601 Massachusetts Ave. NW</address1>
+  <address2>
+  </address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20001</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Law firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Cambridge Coalition</clientName>
+  <clientAddress>601 Massachusetts Ave. NW</clientAddress>
+  <clientCity>Washington</clientCity>
+  <clientState>DC</clientState>
+  <clientZip>20001</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Coalition of single-sex organizations</clientGeneralDescription>
+  <senateID>4301</senateID>
+  <houseID>313810235</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Kevin</lobbyistFirstName>
+      <lobbyistLastName>O'Neill</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Amy</lobbyistFirstName>
+      <lobbyistLastName>Davenport</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Intern, Sen. Voinovich (2009)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Samantha</lobbyistFirstName>
+      <lobbyistLastName>Martin</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Intern, Rep. Gowdy (2012); Intern, Sen. DeMint (2012)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Keri </lobbyistFirstName>
+      <lobbyistLastName>Richmond</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Intern, Sen. Portman (2015)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Gregory</lobbyistFirstName>
+      <lobbyistLastName>Louer</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Policy Director, Rep. Norwood (2003-07); Policy Director, Rep. Blackburn (2007-09)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>EDU</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Issues related to the reauthorization of the Higher Education Act. </specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Porcellian Club, Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>1324 Massachusetts Avenue</affiliatedOrgAddress>
+      <affiliatedOrgCity>Cambridge</affiliatedOrgCity>
+      <affiliatedOrgState>MA</affiliatedOrgState>
+      <affiliatedOrgZip>02138</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Fly Club Corporation</affiliatedOrgName>
+      <affiliatedOrgAddress>800 Pleasant Street #1605</affiliatedOrgAddress>
+      <affiliatedOrgCity>New Bedford</affiliatedOrgCity>
+      <affiliatedOrgState>MA</affiliatedOrgState>
+      <affiliatedOrgZip>027406148</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>The AD Club</affiliatedOrgName>
+      <affiliatedOrgAddress>1 Plympton Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Cambridge</affiliatedOrgCity>
+      <affiliatedOrgState>MA</affiliatedOrgState>
+      <affiliatedOrgZip>02138</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Sigma Chi Fraternity</affiliatedOrgName>
+      <affiliatedOrgAddress>1714 Hinman Avenue</affiliatedOrgAddress>
+      <affiliatedOrgCity>Evanston</affiliatedOrgCity>
+      <affiliatedOrgState>IL</affiliatedOrgState>
+      <affiliatedOrgZip>60201</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Sigma Alpha Epsilon Fraternity</affiliatedOrgName>
+      <affiliatedOrgAddress>1856 Sheridan Road</affiliatedOrgAddress>
+      <affiliatedOrgCity>Evanston</affiliatedOrgCity>
+      <affiliatedOrgState>IL</affiliatedOrgState>
+      <affiliatedOrgZip>602013837</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Delta Kappa Epsilon Fraternity</affiliatedOrgName>
+      <affiliatedOrgAddress>3001 Plymouth Road, Suite 205</affiliatedOrgAddress>
+      <affiliatedOrgCity>Ann Arbor</affiliatedOrgCity>
+      <affiliatedOrgState>MI</affiliatedOrgState>
+      <affiliatedOrgZip>48105</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>2/14/2018</effectiveDate>
+  <printedName>Kevin O'Neill</printedName>
+  <signedDate>3/30/2018 4:25:01 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

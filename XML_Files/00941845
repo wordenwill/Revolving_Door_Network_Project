@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Cornerstone Government Affairs, Inc.</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>300 Independence Avenue, SE</address1>
+  <address2>
+  </address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20003</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Government relations and consulting</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Health Care Alliance for Patient Safety</clientName>
+  <clientAddress>1505 Prince Street #300</clientAddress>
+  <clientCity>Alexandria</clientCity>
+  <clientState>VA</clientState>
+  <clientZip>22314</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Advocate for patient safety</clientGeneralDescription>
+  <senateID>75557</senateID>
+  <houseID>360510379</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Susan</lobbyistFirstName>
+      <lobbyistLastName>Sweat</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>LC, LA &amp; LD House Office (Wicker); LD Senate Member Office (Wicker)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Todd</lobbyistFirstName>
+      <lobbyistLastName>Webster</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Communications Senate Member Office (Murray, Daschle), Chief of Staff Senate Member Office (Coons) </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Will</lobbyistFirstName>
+      <lobbyistLastName>Smith</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Staff Director, House Approps Cmte; Deputy Staff Director, House Approps Cmte; Chief of Staff, Legislative Director, Senior Legislative Assist, House Member Office (Rogers); Staff Assistant, Senate Approps Cmte</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>James</lobbyistFirstName>
+      <lobbyistLastName>Richards</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>COS House Member Office (Pearce); Director IGA USDA; Appropriations Associate House Member Office (Skeen &amp; Bonilla)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Christopher</lobbyistFirstName>
+      <lobbyistLastName>Sarley</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Policy Coordinator, House Energy &amp; Commerce Committee; Policy Director, Sr Legis Asst, House Member Office (Shimkus); Sr Legis Asst, Legislative Assistant, Legislative Correspondent, Staff Assistant, House Member Office (Hastert)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>BUD</ali_Code>
+    <ali_Code>CSP</ali_Code>
+    <ali_Code>HCR</ali_Code>
+    <ali_Code>TRD</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Appropriations for FTC contact lens rule; authorization for FTC, FDA, and CDC data related to contact lens and eye health</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>American Optometric Association</affiliatedOrgName>
+      <affiliatedOrgAddress>1505 Prince Street, Suite 300</affiliatedOrgAddress>
+      <affiliatedOrgCity>Alexandria </affiliatedOrgCity>
+      <affiliatedOrgState>VA</affiliatedOrgState>
+      <affiliatedOrgZip>22314</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Johnson &amp; Johnson Vision </affiliatedOrgName>
+      <affiliatedOrgAddress>7500 Centurion Parkway</affiliatedOrgAddress>
+      <affiliatedOrgCity>Jacksonville</affiliatedOrgCity>
+      <affiliatedOrgState>FL</affiliatedOrgState>
+      <affiliatedOrgZip>32256</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>1/1/2018</effectiveDate>
+  <printedName>Renee Roig</printedName>
+  <signedDate>3/27/2018 10:13:12 AM</signedDate>
+</LOBBYINGDISCLOSURE1>

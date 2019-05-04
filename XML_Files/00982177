@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>The Washington Tax &amp; Public Policy Group (formerly The Washington Tax Group)</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>300 New Jersey Avenue, NW</address1>
+  <address2>Suite 601</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20001</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Legislative and regulatory consulting</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>AMT Refund Coalition</clientName>
+  <clientAddress>300 New Jersey Avenue, NW, Suite 601</clientAddress>
+  <clientCity>Washington</clientCity>
+  <clientState>DC</clientState>
+  <clientZip>20001</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Coalition of business interest regarding AMT refunds</clientGeneralDescription>
+  <senateID>294930</senateID>
+  <houseID>374340097</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Greg</lobbyistFirstName>
+      <lobbyistLastName>Nickerson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Tax Counsel, Ways and Means Committee; Staff Director, Ways and Means Select Revenue Measures Subcommittee</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Jan</lobbyistFirstName>
+      <lobbyistLastName>Fowler</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Leg. Asst, Sen. Voinovich; Leg. Assistant, Leg. Correspondent, Staff Assistant, Intern from Rep. McCrery</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Brian</lobbyistFirstName>
+      <lobbyistLastName>Diffell</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Policy Adv., Sen. Rep. Conference: Leg. Director Sen. Blunt; Leg. Dir. Rep. Blunt; Sr. Policy Adv. Rep. Maj. Whip; Sr. Policy Adv. House Maj. Whip; Research Analyst, House Maj. Whip; Spec. Asst to the Chief Deputy Whip Blunt</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Kelli</lobbyistFirstName>
+      <lobbyistLastName>Briggs</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, 12th Congressional District of Ohio; Chief of Staff, D.C. Chief of Staff, Deputy Chief of Staff, Legislative Director, Legislative Assistant, Legislative Correspondent, Staff Assistant, Intern from Rep. Tiberi </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>TAX</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Issues related to corporate AMT refunds</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Cleveland-Cliffs Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>200 Public Square, Suite 3300</affiliatedOrgAddress>
+      <affiliatedOrgCity>Cleveland</affiliatedOrgCity>
+      <affiliatedOrgState>OH</affiliatedOrgState>
+      <affiliatedOrgZip>44114</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>General Motors Company</affiliatedOrgName>
+      <affiliatedOrgAddress>300 Renaissance Center</affiliatedOrgAddress>
+      <affiliatedOrgCity>Detroit</affiliatedOrgCity>
+      <affiliatedOrgState>MI</affiliatedOrgState>
+      <affiliatedOrgZip>48243</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>The Goodyear Tire &amp; Rubber Company</affiliatedOrgName>
+      <affiliatedOrgAddress>200 Innovation Way</affiliatedOrgAddress>
+      <affiliatedOrgCity>Akron</affiliatedOrgCity>
+      <affiliatedOrgState>OH</affiliatedOrgState>
+      <affiliatedOrgZip>44316</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>T-Mobile USA, Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>12920 Se 38th Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Bellevue</affiliatedOrgCity>
+      <affiliatedOrgState>WA</affiliatedOrgState>
+      <affiliatedOrgZip>98005</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Williams &amp; Jensen PLLC (on behalf of Owens-Illinois, Inc)</affiliatedOrgName>
+      <affiliatedOrgAddress>701 8th Street, NW</affiliatedOrgAddress>
+      <affiliatedOrgCity>Washington</affiliatedOrgCity>
+      <affiliatedOrgState>DC</affiliatedOrgState>
+      <affiliatedOrgZip>20001</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>Duetsche Telekom AG owns 62% of T-Mobile, USA</name>
+      <address>Friedrich-Ebert-Allee 140</address>
+      <city>Bonn</city>
+      <state>
+      </state>
+      <country>GER</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>62</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>8/20/2018</effectiveDate>
+  <printedName>Greg Nickerson</printedName>
+  <signedDate>10/1/2018 12:09:38 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

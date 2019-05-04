@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Ernst &amp; Young LLP (Washington Council Ernst &amp; Young)</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>1101 New York Avenue, NW</address1>
+  <address2>Suite 400</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20005</zip>
+  <zipext>4213</zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Professional services firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Working Group on Competitive International Taxation (informal coalition)</clientName>
+  <clientAddress>1101 New York Ave, NW</clientAddress>
+  <clientCity>Washington</clientCity>
+  <clientState>DC</clientState>
+  <clientZip>20005</clientZip>
+  <clientZipExt>4213</clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Informal coalition</clientGeneralDescription>
+  <senateID>57475</senateID>
+  <houseID>351850311</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Jeffrey </lobbyistFirstName>
+      <lobbyistLastName>Levey</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Rebecca</lobbyistFirstName>
+      <lobbyistLastName>Burch</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Francis </lobbyistFirstName>
+      <lobbyistLastName>Grab</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>97-98 LA to Rep. Xavier Becerra; 98-01 Tax Counsel to Rep. Robert Matsui 
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Sean</lobbyistFirstName>
+      <lobbyistLastName>Hailey</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>08-14 Tax Advisor, W&amp;M 
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Stephen </lobbyistFirstName>
+      <lobbyistLastName>Francis</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>96-00 LD to Rep. John Kasich; 01-11 Deputy CoS to Rep. Tiberi 
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Weston</lobbyistFirstName>
+      <lobbyistLastName>Coulam</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>93-98 Legislative Assistant, Office of Sen. Hatch; 03-06 Staff Dir. Senate Committee on Small Business 
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>John</lobbyistFirstName>
+      <lobbyistLastName>Porter</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>TAX</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>International tax law changes and regulations</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>American Express </affiliatedOrgName>
+      <affiliatedOrgAddress>200 Vesey Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>New York</affiliatedOrgCity>
+      <affiliatedOrgState>NY</affiliatedOrgState>
+      <affiliatedOrgZip>10285</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>American International Group, Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>180 Maiden Lane</affiliatedOrgAddress>
+      <affiliatedOrgCity>New York</affiliatedOrgCity>
+      <affiliatedOrgState>NY</affiliatedOrgState>
+      <affiliatedOrgZip>10038</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Acushnet Company</affiliatedOrgName>
+      <affiliatedOrgAddress>333 Bridget Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Fairhaven</affiliatedOrgCity>
+      <affiliatedOrgState>MA</affiliatedOrgState>
+      <affiliatedOrgZip>02719</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Assurant, Inc. </affiliatedOrgName>
+      <affiliatedOrgAddress>28 Liberty Square, Floor 41</affiliatedOrgAddress>
+      <affiliatedOrgCity>New York</affiliatedOrgCity>
+      <affiliatedOrgState>NY</affiliatedOrgState>
+      <affiliatedOrgZip>10005</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>BlackRock, Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>40 East 52nd Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>New York</affiliatedOrgCity>
+      <affiliatedOrgState>NY</affiliatedOrgState>
+      <affiliatedOrgZip>10022</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Citigroup Washington, Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>1101 Pennsylvania Ave, NW</affiliatedOrgAddress>
+      <affiliatedOrgCity>Washington</affiliatedOrgCity>
+      <affiliatedOrgState>DC</affiliatedOrgState>
+      <affiliatedOrgZip>20004</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>The Dow Chemical Company</affiliatedOrgName>
+      <affiliatedOrgAddress>2040 Dow Center</affiliatedOrgAddress>
+      <affiliatedOrgCity>Midland</affiliatedOrgCity>
+      <affiliatedOrgState>MI</affiliatedOrgState>
+      <affiliatedOrgZip>48674</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>ExxonMobil Corporation</affiliatedOrgName>
+      <affiliatedOrgAddress>5959 Los Colinas Blvd.</affiliatedOrgAddress>
+      <affiliatedOrgCity>Irving</affiliatedOrgCity>
+      <affiliatedOrgState>TX</affiliatedOrgState>
+      <affiliatedOrgZip>75039</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>General Electric Company</affiliatedOrgName>
+      <affiliatedOrgAddress>3135 Easton Turnpike </affiliatedOrgAddress>
+      <affiliatedOrgCity>Fairfield</affiliatedOrgCity>
+      <affiliatedOrgState>CT</affiliatedOrgState>
+      <affiliatedOrgZip>06828</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>International Paper</affiliatedOrgName>
+      <affiliatedOrgAddress>6400 Poplar Ave.</affiliatedOrgAddress>
+      <affiliatedOrgCity>Memphis</affiliatedOrgCity>
+      <affiliatedOrgState>TN</affiliatedOrgState>
+      <affiliatedOrgZip>38197</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Kansas City Southern</affiliatedOrgName>
+      <affiliatedOrgAddress>427 West 12th Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Kansas City</affiliatedOrgCity>
+      <affiliatedOrgState>MO</affiliatedOrgState>
+      <affiliatedOrgZip>64105</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Microsoft Corporation</affiliatedOrgName>
+      <affiliatedOrgAddress>One Microsoft Way</affiliatedOrgAddress>
+      <affiliatedOrgCity>Redmond </affiliatedOrgCity>
+      <affiliatedOrgState>WA</affiliatedOrgState>
+      <affiliatedOrgZip>98052</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Marsh &amp; McLennan Companies, Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>1166 Avenue of the Americas</affiliatedOrgAddress>
+      <affiliatedOrgCity>New York</affiliatedOrgCity>
+      <affiliatedOrgState>NY</affiliatedOrgState>
+      <affiliatedOrgZip>10036</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Medtronic Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>710 Medtronic Parkway</affiliatedOrgAddress>
+      <affiliatedOrgCity>Minneapolis</affiliatedOrgCity>
+      <affiliatedOrgState>MN</affiliatedOrgState>
+      <affiliatedOrgZip>55432</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Metropolitan Life Insurance Company</affiliatedOrgName>
+      <affiliatedOrgAddress>200 Park Ave.</affiliatedOrgAddress>
+      <affiliatedOrgCity>New York</affiliatedOrgCity>
+      <affiliatedOrgState>NY</affiliatedOrgState>
+      <affiliatedOrgZip>10166</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Prudential Insurance Company of America</affiliatedOrgName>
+      <affiliatedOrgAddress>751 Broad Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Newark</affiliatedOrgCity>
+      <affiliatedOrgState>NJ</affiliatedOrgState>
+      <affiliatedOrgZip>07102</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Sempra Energy</affiliatedOrgName>
+      <affiliatedOrgAddress>101 Ash Street, HQ18</affiliatedOrgAddress>
+      <affiliatedOrgCity>San Diego</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip>92101</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Thermo Fischer Scientific, Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>81 Wyman Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Waltham</affiliatedOrgCity>
+      <affiliatedOrgState>MA</affiliatedOrgState>
+      <affiliatedOrgZip>02451</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>United Technologies Corporation</affiliatedOrgName>
+      <affiliatedOrgAddress>10 Farm Springs Rd. </affiliatedOrgAddress>
+      <affiliatedOrgCity>Farmington</affiliatedOrgCity>
+      <affiliatedOrgState>CT</affiliatedOrgState>
+      <affiliatedOrgZip>06032</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Valero Energy Corporation</affiliatedOrgName>
+      <affiliatedOrgAddress>One Valero Way</affiliatedOrgAddress>
+      <affiliatedOrgCity>San Antonio</affiliatedOrgCity>
+      <affiliatedOrgState>TX</affiliatedOrgState>
+      <affiliatedOrgZip>78249</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>The Walgreen Co.</affiliatedOrgName>
+      <affiliatedOrgAddress>108 Wilmot Road, MS#1833</affiliatedOrgAddress>
+      <affiliatedOrgCity>Deerfield</affiliatedOrgCity>
+      <affiliatedOrgState>IL</affiliatedOrgState>
+      <affiliatedOrgZip>60015</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>YRC Worldwide Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>10990 Roe Ave.</affiliatedOrgAddress>
+      <affiliatedOrgCity>Overland Park </affiliatedOrgCity>
+      <affiliatedOrgState>KS</affiliatedOrgState>
+      <affiliatedOrgZip>66211</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>6/4/2018</effectiveDate>
+  <printedName>Jeffrey Levey</printedName>
+  <signedDate>7/10/2018 4:16:11 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

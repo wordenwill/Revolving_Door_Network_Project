@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Leavitt Partners, LLC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>601 New Jersey Ave NW</address1>
+  <address2>Suite 350</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20001</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Coalition management.</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Breaking Down Barriers to Payment/Delivery System Reform Alliance</clientName>
+  <clientAddress>601 New Jersey Ave NW Suite 350</clientAddress>
+  <clientCity>Washington</clientCity>
+  <clientState>DC</clientState>
+  <clientZip>20001</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Providers, payers, patient groups, device/pharmaceutical manufacturers coalition advocacy.</clientGeneralDescription>
+  <senateID>401103367</senateID>
+  <houseID>426690015</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Robert</lobbyistFirstName>
+      <lobbyistLastName>Alspach</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Counsel Energy and Commerce Committee - Senate; Clerk - Senate; Paid Intern - Senate</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Robert </lobbyistFirstName>
+      <lobbyistLastName>Horne</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Professional Staff Energy and Commerce Committee - House; Senior Legislative Assistant - House; Legislative Assistant - House</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Vincent</lobbyistFirstName>
+      <lobbyistLastName>Ventimiglia</lobbyistLastName>
+      <lobbyistSuffix>Jr.</lobbyistSuffix>
+      <coveredPosition>Assistant Secretary for Legislation - HHS; Legislative Assistant - Senate; Counsel and Law Clerk - US Administrative Office; Counsel - Senate; Policy Director - Senate</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>David </lobbyistFirstName>
+      <lobbyistLastName>Lee</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Legislative Correspondent and Staff Assistant - Senate</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>HCR</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>The Alliance is working to develop consensus proposals to modify the Stark Act, Anti-Kickback Statute (AKS), False Claims Act, and other laws or regulations to establish an environment that encourages value-based arrangements.</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Amgen, Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>601 13th St. NW</affiliatedOrgAddress>
+      <affiliatedOrgCity>Washington</affiliatedOrgCity>
+      <affiliatedOrgState>DC</affiliatedOrgState>
+      <affiliatedOrgZip>20005</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Fresenius Medical Care North America</affiliatedOrgName>
+      <affiliatedOrgAddress>920 Winter Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Waltham</affiliatedOrgCity>
+      <affiliatedOrgState>MA</affiliatedOrgState>
+      <affiliatedOrgZip>02451</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Signature Medical Group</affiliatedOrgName>
+      <affiliatedOrgAddress>12400 Olive Blvd. Suite 100</affiliatedOrgAddress>
+      <affiliatedOrgCity>St. Louis</affiliatedOrgCity>
+      <affiliatedOrgState>MO</affiliatedOrgState>
+      <affiliatedOrgZip>63141</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>3/14/2018</effectiveDate>
+  <printedName>Mark Roberts</printedName>
+  <signedDate>4/12/2018 6:21:09 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

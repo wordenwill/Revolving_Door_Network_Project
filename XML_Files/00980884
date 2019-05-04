@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>The Glover Park Group LLC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>1025 F Street NW</address1>
+  <address2>9th Floor</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20004</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Legislative and public affairs firm.</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Hikvision, USA Inc. </clientName>
+  <clientAddress>18639 Railroad St.</clientAddress>
+  <clientCity>City of Industry</clientCity>
+  <clientState>CA</clientState>
+  <clientZip>91748</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Video surveillance products and solutions. </clientGeneralDescription>
+  <senateID>86196</senateID>
+  <houseID>365480185</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Joel </lobbyistFirstName>
+      <lobbyistLastName>Johnson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Senator Howard Metzenbaum; Exec. Director, House Democratic Study Group; Assistant Secretary of the Minority, U.S. Senate; Staff Director, Democrat Leadership Committees; Assistant and Sr. Advisor to the President for Policy and Comms</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Brett</lobbyistFirstName>
+      <lobbyistLastName>O'Brien</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Staff Assistant, Congressional Research Service; Legislative Assistant, Representative Jim Bates; Foreign and Defense Policy Advisor, Democratic Policy Committee, U.S. Senate; Foreign and Defense Policy Advisor, Rep. Richard Gephardt</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Susan</lobbyistFirstName>
+      <lobbyistLastName>Brophy</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Representative Byron Dorgan; Chief of Staff, Senator Tim Wirth; Dep. Asst.to the President for Leg. Affairs</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Randy</lobbyistFirstName>
+      <lobbyistLastName>DeValk</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Counselor to Secretary of Treasury, US Department of the Treasury; Acting Deputy Undersecretary for Legislative Affairs, US Department of the Treasury; Counselor to the White House Office of Legislative Affairs, White House; </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>cont.</lobbyistFirstName>
+      <lobbyistLastName>cont.</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Deputy Chief of Staff, United States Senate Democratic Leader Harry Reid; Legislative Policy Director, United States Senate Democratic Leader Harry Reid; Senior Legislative Assistant, US Senate Democratic Leader Tom Daschle. </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>DEF</ali_Code>
+    <ali_Code>FOR</ali_Code>
+    <ali_Code>SCI</ali_Code>
+    <ali_Code>HOM</ali_Code>
+    <ali_Code>INT</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Lobbying related to prohibitions on certain video surveillance equipment in the National Defense Authorization Act (HR 5515) and other potential legislation.</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>Hangzhou Hikvision Digital Technology Co.</name>
+      <address>No. 555 Qianmo Road, Binjiang District</address>
+      <city>Hangzhou 310052</city>
+      <state>
+      </state>
+      <country>CHN</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>CETHIK Group Co., Ltd</name>
+      <address>Room 311, Bldg 1, No. 1500, Wenyi (W) Road</address>
+      <city>Hangzhou 311121</city>
+      <state>
+      </state>
+      <country>CHN</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>39.59</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>China Electronics Technology Group Co., Ltd(a wholly state-owned Chinese company)</name>
+      <address>No. 27 Wanshou Road, Haidian District</address>
+      <city>Beijing 100846</city>
+      <state>
+      </state>
+      <country>CHN</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>41.55</ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>7/9/2018</effectiveDate>
+  <printedName>Nicole Dade</printedName>
+  <signedDate>8/17/2018 1:04:04 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Greenberg Traurig, LLP</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>2101 L Street, NW</address1>
+  <address2>Suite 1000</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20037</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Law firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>VHG Labs, Inc.</clientName>
+  <clientAddress>276 Abby Road</clientAddress>
+  <clientCity>Manchester</clientCity>
+  <clientState>NH</clientState>
+  <clientZip>03103</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Global producer and distributor of reference materials and proficiency testing schemes.</clientGeneralDescription>
+  <senateID>16896</senateID>
+  <houseID>315950539</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Anna</lobbyistFirstName>
+      <lobbyistLastName>Laakmann</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Charles F.</lobbyistFirstName>
+      <lobbyistLastName>Bass</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>U.S. Congressman (97 - 07) &amp; (11 - 13)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Tim</lobbyistFirstName>
+      <lobbyistLastName>Hutchinson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>U.S. Senator (97-03); U.S. Congressman (93-97)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>PHA</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Administrative and legislative monitoring and outreach on issues related to pharmaceutical reference standards.</specific_issues>
+  <affiliatedUrl>http://www.lgcgroup.com/</affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>LGC (Holdings) Limited</affiliatedOrgName>
+      <affiliatedOrgAddress>LGC Queens Road</affiliatedOrgAddress>
+      <affiliatedOrgCity>Teddington</affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>TW110LY</affiliatedOrgZip>
+      <affiliatedOrgCountry>GBR</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>Teddington</affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>GBR</affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>LGC (Holdings) Limited</name>
+      <address>LGC Queens Road </address>
+      <city>Teddington, TW11 0LY</city>
+      <state>
+      </state>
+      <country>GBR</country>
+      <prinCity>Teddington</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>GBR</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>LGC Investments Limited (100% LGC Holdings Limited)</name>
+      <address>LGC Queens Road</address>
+      <city>Teddington, TW11 0LU</city>
+      <state>
+      </state>
+      <country>GBR</country>
+      <prinCity>Teddington</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>GBR</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>LGC Group Holdings Limited (100% LGC Investments Limited)</name>
+      <address>LGC Queens Road</address>
+      <city>Teddington, TW11 OLY</city>
+      <state>
+      </state>
+      <country>GBR</country>
+      <prinCity>Teddington</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>GBR</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>LGC Science Investments Limited (100% LGC Group Holdings Limited)</name>
+      <address>LGC Queens Road</address>
+      <city>Teddington</city>
+      <state>
+      </state>
+      <country>GBR</country>
+      <prinCity>Teddington</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>GBR</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>LGC Science Holdings Limited (100% of LGC Science Investments Limited)</name>
+      <address>LGC Queens Road</address>
+      <city>Teddington, TW11 0LY</city>
+      <state>
+      </state>
+      <country>GBR</country>
+      <prinCity>Teddington</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>GBR</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Teddington 2 Limited (100% LGC Science Holdings Limited)</name>
+      <address>LGC Queens Road</address>
+      <city>Teddington, TW11 OLY</city>
+      <state>
+      </state>
+      <country>GBR</country>
+      <prinCity>Teddington</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>GBR</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>LGC Science Group Limited (100% Teddington 2 Limited)</name>
+      <address>LGC Queens Road</address>
+      <city>Teddington, TW11 0LY</city>
+      <state>
+      </state>
+      <country>GBR</country>
+      <prinCity>Teddington</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>GBR</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>LGC Science Group Holdings Limited (100% LGC Science Group Limited)</name>
+      <address>LGC Queens Road</address>
+      <city>Teddington, TW11 0LY</city>
+      <state>
+      </state>
+      <country>GBR</country>
+      <prinCity>Teddington</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>GBR</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Elwy 3 Limited (100% LGC Science Group Holdings Limited)</name>
+      <address>LGC Queens Road</address>
+      <city>Teddington, TW11 0LY</city>
+      <state>
+      </state>
+      <country>GBR</country>
+      <prinCity>Teddington</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>GBR</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Elwy 2 Limited (100% Elwy 3 Limited)</name>
+      <address>LGC Queens Road</address>
+      <city>Teddington, TW11 0LY</city>
+      <state>
+      </state>
+      <country>GBR</country>
+      <prinCity>Teddington</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>GBR</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Elwy 1 Limited (100% Elwy 2 Limited)</name>
+      <address>c/o Maples Corp. Services Ltd., P.O. Box 309</address>
+      <city>Ugland House, KY1-1104</city>
+      <state>
+      </state>
+      <country>CAY</country>
+      <prinCity>Ugland House</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>CAY</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Figaro Capital &amp; Co S.C.A. (100% Elwy 1 Limited)</name>
+      <address>59, rue de Rollingergrund</address>
+      <city>L-2440, Luxembourg City</city>
+      <state>
+      </state>
+      <country>LUX</country>
+      <prinCity>Luxembourg City</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>LUX</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Figaro Capital Limited (77.45% Figaro Capital &amp; Co S.C.A.)</name>
+      <address>c/o Maples Corp. Services Ltd, P.O. Box 309</address>
+      <city>Ugland House, KY1-1104</city>
+      <state>
+      </state>
+      <country>CAY</country>
+      <prinCity>Ugland House</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>CAY</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>77.45</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Figaro Aggregator L.P. (100% Figaro Capital Limited)</name>
+      <address>c/o Maples Corp. Services Ltd., P.O. Box 309</address>
+      <city>Ugland House, KY1-1104</city>
+      <state>
+      </state>
+      <country>CAY</country>
+      <prinCity>Ugland House</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>CAY</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>77.45</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>KKR Blue Co-Invest L.P. (51.53% Figaro Aggregator L.P.)</name>
+      <address>c/o Maples Corp. Services Ltd., P.O. Box 309</address>
+      <city>Ugland House, KY1-1104</city>
+      <state>
+      </state>
+      <country>CAY</country>
+      <prinCity>Ugland House</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>CAY</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>39.91</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>KKR European Fund IV, L.P. (27.59% Figaro Aggregator L.P.)</name>
+      <address>c/o Maples Corp. Services Ltd., P.O. Box 309</address>
+      <city>Ugland House, KY1-1104</city>
+      <state>
+      </state>
+      <country>CAY</country>
+      <prinCity>Ugland House</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>CAY</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>21.37</ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>2/21/2018</effectiveDate>
+  <printedName> CHRISTINE SCHAUT</printedName>
+  <signedDate>5/11/2018 1:45:52 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

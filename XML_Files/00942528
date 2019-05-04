@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>
+  </organizationName>
+  <prefix>Mr.</prefix>
+  <firstName>Jonathan</firstName>
+  <lastName>Gregory</lastName>
+  <address1>121 Lynnmoor Drive</address1>
+  <address2>
+  </address2>
+  <city>Silver Spring</city>
+  <state>MD</state>
+  <zip>20901</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Government and Public Affairs</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Cravath, Swaine &amp; Moore LLP(on behalf of ZHS IP Americas Sarl &amp; APCO Worldwide)</clientName>
+  <clientAddress>825 8th avenue</clientAddress>
+  <clientCity>New York</clientCity>
+  <clientState>NY</clientState>
+  <clientZip>10019</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Law Firm</clientGeneralDescription>
+  <senateID>401104186</senateID>
+  <houseID>433880003</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Jonathan</lobbyistFirstName>
+      <lobbyistLastName>Gregory</lobbyistLastName>
+      <lobbyistSuffix>Mr.</lobbyistSuffix>
+      <coveredPosition>Legislative Assistant, Rep. Norman Sisisky
+Intern, House Recording Studio</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>BEV</ali_Code>
+    <ali_Code>CPT</ali_Code>
+    <ali_Code>GOV</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Outreach in connection with the Stolichnaya vodka brand in light of ongoing U.S. trademark litigation.  Outreach related to the report submitted to Congress by the Department of Treasury Pursuant to section 241 of the Combatting Americas Adversaries Through Sanctions Act (CAATSA) and its consequences on SPI group and its principal owner, Yuri Shefler.</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>ZHS IP Americas Sarl</affiliatedOrgName>
+      <affiliatedOrgAddress>Avenue Riverdil 14</affiliatedOrgAddress>
+      <affiliatedOrgCity>Nyon</affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>1260</affiliatedOrgZip>
+      <affiliatedOrgCountry>SUI</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>Nyon</affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>SUI</affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>SPI Group S.a.r.l,</name>
+      <address>Valley Park F, 44 Rue De La Vallee</address>
+      <city>Luxembourg City</city>
+      <state>
+      </state>
+      <country>LUX</country>
+      <prinCity>Luxembourg City</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>LUX</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Yuri Shefler</name>
+      <address>Valley Park F, 44 Rue De La Vallee</address>
+      <city>Luxembourg City</city>
+      <state>
+      </state>
+      <country>LUX</country>
+      <prinCity>Luxembourg City</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>LUX</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>2/27/2018</effectiveDate>
+  <printedName>uzc</printedName>
+  <signedDate>4/4/2018 5:41:27 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

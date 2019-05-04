@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 19 12:10:34 2019
-
-@author: willi
-"""
 
 import xml.etree.cElementTree as ET
 import pandas as pd
@@ -47,7 +41,7 @@ def parseXML_2(path):
         #df['FirstName'] = first_name_list
 
 
-parseXML_2('C:/Users/willi/OneDrive/Documents/GitHub/Revolving_Door_Network_Project/2019_XML_Files')
+parseXML_2('C:/Users/willi/OneDrive/Documents/GitHub/Revolving_Door_Network_Project/XML_Files')
 full = list(zip(first_name_list, last_name_list,reg_desc_list))
 
 
@@ -79,5 +73,5 @@ del df['last_name']
 del df['first_name']
 df = df[['lobbyist_name','position']]
 
-df.to_csv('C:/Users/willi/OneDrive/Documents/GitHub/Revolving_Door_Network_Project\df.csv', index=False)
+df.to_csv('C:/Users/willi/OneDrive/Documents/GitHub/Revolving_Door_Network_Project/df.csv', index=False)
         

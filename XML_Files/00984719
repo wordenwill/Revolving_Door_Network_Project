@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Alston &amp; Bird LLP</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>THE ATLANTIC BUILDING</address1>
+  <address2>950 F STREET, NW</address2>
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20004</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Law Firm.</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Ultrasound Access Coalition (UAC) (Informal Coalition)</clientName>
+  <clientAddress>c/o Alston &amp; Bird LLP 950 F Street, NW</clientAddress>
+  <clientCity>Washington</clientCity>
+  <clientState>DC</clientState>
+  <clientZip>20004</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Coalition representing ultrasound stakeholders.</clientGeneralDescription>
+  <senateID>1182</senateID>
+  <houseID>317480368</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Timothy P.</lobbyistFirstName>
+      <lobbyistLastName>Trysla</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Senior Policy Advisor, CMS</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Bob</lobbyistFirstName>
+      <lobbyistLastName>Siggins</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Rep. Earl Pomeroy (D-ND)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Marilyn</lobbyistFirstName>
+      <lobbyistLastName>Yager</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Deputy Assistant to the President, White House Office of Public Liaison</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Y. Brian</lobbyistFirstName>
+      <lobbyistLastName>Lee</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Legislative Intern, Rep. Doug Lamborn</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>HCR</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Issues related to CMS Calendar Year 2019 Physician Fee Schedule proposed rule, proposed reduction to general ultrasound and vascular ultrasound room equipment codes; H.R. 4302, Protecting Access to Medicare Act of 2014, Sec. 220.</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Center for Diagnostic Imaging</affiliatedOrgName>
+      <affiliatedOrgAddress>5775 Wayzata Blvd., Suite No. 190</affiliatedOrgAddress>
+      <affiliatedOrgCity>Saint Louis Park</affiliatedOrgCity>
+      <affiliatedOrgState>MN</affiliatedOrgState>
+      <affiliatedOrgZip>55416</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>GE Health Care, General Imaging Ultrasound</affiliatedOrgName>
+      <affiliatedOrgAddress>1299 Pennsylvania Ave., NW, Suite 900W</affiliatedOrgAddress>
+      <affiliatedOrgCity>Wahington</affiliatedOrgCity>
+      <affiliatedOrgState>DC</affiliatedOrgState>
+      <affiliatedOrgZip>20004</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>FUJIFILM SonoSite, Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>21919 30th Drive SE</affiliatedOrgAddress>
+      <affiliatedOrgCity>Bothell</affiliatedOrgCity>
+      <affiliatedOrgState>WA</affiliatedOrgState>
+      <affiliatedOrgZip>980213904</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>TridentUSA Health Services</affiliatedOrgName>
+      <affiliatedOrgAddress>2820 North Ontario St., Suite 102</affiliatedOrgAddress>
+      <affiliatedOrgCity>Burbank</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip>91504</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>American College of Radiology</affiliatedOrgName>
+      <affiliatedOrgAddress>505 9th Street, NW, Suite 910</affiliatedOrgAddress>
+      <affiliatedOrgCity>Washington</affiliatedOrgCity>
+      <affiliatedOrgState>DC</affiliatedOrgState>
+      <affiliatedOrgZip>20004</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>FUJIFILM Holdings Corporation owns 100% of FUJIFILM SonoSite, Inc.</name>
+      <address>7-3 Akasaka 9-chome Minatu-Ku</address>
+      <city>Tokyo 107-0052</city>
+      <state>
+      </state>
+      <country>JPN</country>
+      <prinCity>Tokyo</prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>JPN</prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>9/1/2018</effectiveDate>
+  <printedName>Adam J. Biegel</printedName>
+  <signedDate>10/12/2018 12:06:54 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

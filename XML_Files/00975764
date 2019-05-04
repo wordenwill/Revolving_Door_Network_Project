@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Mr. David Kilian</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>32 Bay Breeze Drive</address1>
+  <address2>
+  </address2>
+  <city>Lewes</city>
+  <state>DE</state>
+  <zip>19958</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>consulting</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Innovative Federal Strategies on behalf of its clients</clientName>
+  <clientAddress>511 C Street NE</clientAddress>
+  <clientCity>Washington, DC</clientCity>
+  <clientState>DC</clientState>
+  <clientZip>20002</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>lobbying and consulting</clientGeneralDescription>
+  <senateID>401104871</senateID>
+  <houseID>441050001</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>David</lobbyistFirstName>
+      <lobbyistLastName>Kilian</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Professional Staff, House Appropriations Committee</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>BUD</ali_Code>
+    <ali_Code>DEF</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Appropriations and Armed Services issues</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>General Dynamics</affiliatedOrgName>
+      <affiliatedOrgAddress>2941 Fairview Park Drive</affiliatedOrgAddress>
+      <affiliatedOrgCity>Falls Church </affiliatedOrgCity>
+      <affiliatedOrgState>VA</affiliatedOrgState>
+      <affiliatedOrgZip>22042</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Arianespace Inc</affiliatedOrgName>
+      <affiliatedOrgAddress>5335 Wisconsin Avenue NW, suite 520</affiliatedOrgAddress>
+      <affiliatedOrgCity>Washington, DC</affiliatedOrgCity>
+      <affiliatedOrgState>DC</affiliatedOrgState>
+      <affiliatedOrgZip>20015</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Austal USA</affiliatedOrgName>
+      <affiliatedOrgAddress>100 Addsco Road</affiliatedOrgAddress>
+      <affiliatedOrgCity>Mobile</affiliatedOrgCity>
+      <affiliatedOrgState>AL</affiliatedOrgState>
+      <affiliatedOrgZip>36602</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Battelle Memorial Institute</affiliatedOrgName>
+      <affiliatedOrgAddress>505 King Avenue</affiliatedOrgAddress>
+      <affiliatedOrgCity>Columbus</affiliatedOrgCity>
+      <affiliatedOrgState>OH</affiliatedOrgState>
+      <affiliatedOrgZip>43201</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>U.S. Committee of the Blue Shield</affiliatedOrgName>
+      <affiliatedOrgAddress>1405 South Fern Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Arlington</affiliatedOrgCity>
+      <affiliatedOrgState>VA</affiliatedOrgState>
+      <affiliatedOrgZip>22202</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Cerus Corporation</affiliatedOrgName>
+      <affiliatedOrgAddress>2550 Stanwell Drive</affiliatedOrgAddress>
+      <affiliatedOrgCity>Concord</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip>94520</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Cray Inc</affiliatedOrgName>
+      <affiliatedOrgAddress>901 Fifth Avenue, Suite 1000</affiliatedOrgAddress>
+      <affiliatedOrgCity>Seattle</affiliatedOrgCity>
+      <affiliatedOrgState>WA</affiliatedOrgState>
+      <affiliatedOrgZip>98164</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Day and Zimmermann</affiliatedOrgName>
+      <affiliatedOrgAddress>1500 Spring Garden Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Philadelphia</affiliatedOrgCity>
+      <affiliatedOrgState>PA</affiliatedOrgState>
+      <affiliatedOrgZip>19130</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Esri</affiliatedOrgName>
+      <affiliatedOrgAddress>380 New York Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Redlands</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip>923738100</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>General Atomics Aeronautical Systems</affiliatedOrgName>
+      <affiliatedOrgAddress>14200 Kirkham Way</affiliatedOrgAddress>
+      <affiliatedOrgCity>Poway</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip>92064</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Galois, Inc</affiliatedOrgName>
+      <affiliatedOrgAddress>4300 Wilson Blvd #450</affiliatedOrgAddress>
+      <affiliatedOrgCity>Arlington</affiliatedOrgCity>
+      <affiliatedOrgState>VA</affiliatedOrgState>
+      <affiliatedOrgZip>22203</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Hewlett Packard Enterprise</affiliatedOrgName>
+      <affiliatedOrgAddress>3000 Hanover Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Palo Alto</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip>943041112</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Florida Institute for Human &amp; Machine Cognition</affiliatedOrgName>
+      <affiliatedOrgAddress>40 South Alcaniz Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Pensacola</affiliatedOrgCity>
+      <affiliatedOrgState>FL</affiliatedOrgState>
+      <affiliatedOrgZip>32502</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Moog, Inc.</affiliatedOrgName>
+      <affiliatedOrgAddress>300 Jamison Road</affiliatedOrgAddress>
+      <affiliatedOrgCity>East Aurora</affiliatedOrgCity>
+      <affiliatedOrgState>NY</affiliatedOrgState>
+      <affiliatedOrgZip>14052</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Northrop Grumman Corporation</affiliatedOrgName>
+      <affiliatedOrgAddress>2980 Fairview Park Drive</affiliatedOrgAddress>
+      <affiliatedOrgCity>Falls Church</affiliatedOrgCity>
+      <affiliatedOrgState>VA</affiliatedOrgState>
+      <affiliatedOrgZip>22042</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>PlanetiQ</affiliatedOrgName>
+      <affiliatedOrgAddress>15000 West 6th Avenue Suite 202</affiliatedOrgAddress>
+      <affiliatedOrgCity>Golden</affiliatedOrgCity>
+      <affiliatedOrgState>CO</affiliatedOrgState>
+      <affiliatedOrgZip>80401</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Raytheon Corporation</affiliatedOrgName>
+      <affiliatedOrgAddress>870 Winter Street</affiliatedOrgAddress>
+      <affiliatedOrgCity>Waltham</affiliatedOrgCity>
+      <affiliatedOrgState>MA</affiliatedOrgState>
+      <affiliatedOrgZip>024511449</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Saildrone, Inc</affiliatedOrgName>
+      <affiliatedOrgAddress>1050 West Tower Avenue</affiliatedOrgAddress>
+      <affiliatedOrgCity>Alameda</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip>94501</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Thales Defense and Security, Inc</affiliatedOrgName>
+      <affiliatedOrgAddress>22605 Gateway Center Drive</affiliatedOrgAddress>
+      <affiliatedOrgCity>Clarksburg </affiliatedOrgCity>
+      <affiliatedOrgState>MD</affiliatedOrgState>
+      <affiliatedOrgZip>20871</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Trellisware Technologies Inc</affiliatedOrgName>
+      <affiliatedOrgAddress>16516 Via Esprillo #300</affiliatedOrgAddress>
+      <affiliatedOrgCity>San Diego</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip>92127</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Trimble Navigation</affiliatedOrgName>
+      <affiliatedOrgAddress>935 Stewart Drive</affiliatedOrgAddress>
+      <affiliatedOrgCity>Sunnyvale</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip>94085</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>Wright State Research Institute</affiliatedOrgName>
+      <affiliatedOrgAddress>1601, 4035 Colonel Glenn Highway</affiliatedOrgAddress>
+      <affiliatedOrgCity>Beavercreek</affiliatedOrgCity>
+      <affiliatedOrgState>OH</affiliatedOrgState>
+      <affiliatedOrgZip>45431</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>DXC Technology</affiliatedOrgName>
+      <affiliatedOrgAddress>1775 Tysons Blvd</affiliatedOrgAddress>
+      <affiliatedOrgCity>Tysons</affiliatedOrgCity>
+      <affiliatedOrgState>VA</affiliatedOrgState>
+      <affiliatedOrgZip>22102</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>1/1/2018</effectiveDate>
+  <printedName>David Kilian</printedName>
+  <signedDate>7/20/2018 1:51:38 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Mehlman Castagnetti Rosen &amp; Thomas, Inc.</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>1341 G Street, NW</address1>
+  <address2>Suite 1100</address2>
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20005</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Government Affairs Consulting Services</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Blue Shield of California</clientName>
+  <clientAddress>50 Beale Street</clientAddress>
+  <clientCity>San Francisco</clientCity>
+  <clientState>CA</clientState>
+  <clientZip>94105</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Health plan provider</clientGeneralDescription>
+  <senateID>284950</senateID>
+  <houseID>368930215</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Bruce</lobbyistFirstName>
+      <lobbyistLastName>Mehlman</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Assistant Secretary of Commerce for Tech Policy; 
+General Counsel and Policy Director, House Republican Conference
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>David</lobbyistFirstName>
+      <lobbyistLastName>Castagnetti</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Senator Max Baucus; 
+Chief of Staff, Rep. Norm Mineta; 
+EA, Rep. Ed Markey
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Dean</lobbyistFirstName>
+      <lobbyistLastName>Rosen</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Health Policy Director, Senate Majority Leader Frist; 
+Staff Director, Senate Subcommittee on Public Health; 
+Majority Health Policy Counsel, House Committee on Ways &amp; Means, Subcommittee on Health
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Dean</lobbyistFirstName>
+      <lobbyistLastName>Rosen</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Health Policy Coordinator and Counsel, Senate Committee on Labor and Human Resources; 
+Counsel and Professional Staff, Senate Committee on Labor &amp; Human Resources, Subcommittee on Disability Policy;
+Case Worker, Rep. R. Boschwitz
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>David</lobbyistFirstName>
+      <lobbyistLastName>Thomas</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Rep. Zoe Lofgren; 
+Director of Congressional Relations, FTC; 
+Deputy Director for Legislative Affairs, VP Gore; 
+Staff Assistant, Senator Metzenbaum
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Elise</lobbyistFirstName>
+      <lobbyistLastName>Pickering</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Executive Director, House Republican Policy Committee; 
+Chief of Staff, Rep. John Shadegg; 
+Legislative Assistant, Rep. Dannemeyer; 
+Legislative Director, Rep. Bartlett
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Charles</lobbyistFirstName>
+      <lobbyistLastName>Wooters</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Rep. Chris Van Hollen; 
+Director of Member Services, Office of the Assistant to the Speaker; 
+Chief of Staff, Rep. Louise Slaughter
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Sohini</lobbyistFirstName>
+      <lobbyistLastName>Gupta</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Health and Social Policy Counsel, Senator Bayh</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Sage</lobbyistFirstName>
+      <lobbyistLastName>Eastman</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Strategy Director, Committee on Ways &amp; Means; 
+Deputy Staff Director (Majority), Committee on Ways &amp; Means; 
+Senior Advisor, Committee on Ways &amp; Means; 
+Communications Director, Rep. Dave Camp
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Lauren</lobbyistFirstName>
+      <lobbyistLastName>Aronson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Director, Office of Legislation, Centers for Medicare &amp; Medicaid Services (CMS)
+Professional Staff Member, Committee on Ways &amp; Means; 
+Policy Director, White House; 
+Policy Director, HHS Office of Health Reform (detailed to the White House);
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Lauren</lobbyistFirstName>
+      <lobbyistLastName>Aronson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Policy Advisor, Rep. Rahm Emanuel; 
+Health LA, Rep. Carolyn McCarthy
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Michael</lobbyistFirstName>
+      <lobbyistLastName>Robinson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Member Services and Coalitions Director, House Appropriations Committee; 
+Policy Advisor/Dep. Chief of Staff, House Majority Leader/Rep.Tom DeLay;  
+Leg Dir, Rep. Hal Rogers; 
+Sr Leg Assistant, Rep. Ralph Regula; 
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Michael</lobbyistFirstName>
+      <lobbyistLastName>Robinson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Sr Leg Assistant, Rep. Bob Franks; 
+Leg Assistant, Rep. Hal Rogers; 
+Special Projects Assistant, House Transportation and Infrastructure Committee; 
+Staff Assistant, Rep. Bud Shuster
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Michael</lobbyistFirstName>
+      <lobbyistLastName>Collins</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Senator Tom Udall;
+Legislative Director, Senator Tom Udall;
+Legislative Director, Representative Tom Udall;
+Legislative Assistant, Representative Tom Udall;
+Staff Assistant/Legislative Correspondent, Representative Tom Udall
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Constantine</lobbyistFirstName>
+      <lobbyistLastName>Hingson</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Senator Dan Coats;
+Counsel/Legislative Director, Senator Judd Gregg;
+General Counsel, Senator Elizabeth Dole
+</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>HCR</ali_Code>
+    <ali_Code>INS</ali_Code>
+    <ali_Code>PHA</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Issues related to health insurance and prescription drug pricing.</specific_issues>
+  <affiliatedUrl>https://www.care1st.com/ca/</affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Care1st Health Plan</affiliatedOrgName>
+      <affiliatedOrgAddress>601 Potrero Grande Drive</affiliatedOrgAddress>
+      <affiliatedOrgCity>Monterey Park</affiliatedOrgCity>
+      <affiliatedOrgState>CA</affiliatedOrgState>
+      <affiliatedOrgZip>91755</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>1/1/2018</effectiveDate>
+  <printedName>Solveig L Monson</printedName>
+  <signedDate>2/1/2018 1:51:10 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

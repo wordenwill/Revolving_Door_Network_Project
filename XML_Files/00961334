@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>DYKEMA GOSSETT PLLC</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>1300 I STREET, N.W., SUITE 300 WEST</address1>
+  <address2>
+  </address2>
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20005</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>law firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Nexteer Automotive Corporation</clientName>
+  <clientAddress>1272 Doris Rd.</clientAddress>
+  <clientCity>Auburn Hills</clientCity>
+  <clientState>MI</clientState>
+  <clientZip>48326</clientZip>
+  <clientZipExt>2617</clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>automotive manufacturing</clientGeneralDescription>
+  <senateID>12915</senateID>
+  <houseID>305530148</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Andrew</lobbyistFirstName>
+      <lobbyistLastName>Buczek</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Legislative Assistant to Congressman Barcia</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>James</lobbyistFirstName>
+      <lobbyistLastName>Brandell</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Chief of Staff, Cong. Dave Camp</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Mary Beth</lobbyistFirstName>
+      <lobbyistLastName>McGowan</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Legislative Assistant, Senator Arlen Specter</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>
+      </lobbyistFirstName>
+      <lobbyistLastName>
+      </lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>N</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>AUT</ali_Code>
+    <ali_Code>TRD</ali_Code>
+    <ali_Code>TRA</ali_Code>
+    <ali_Code>EDU</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>Advanced vehicle technologies, Section 232 and Section 301 tariffs impacting automotive industries, job training and workforce issues.</specific_issues>
+  <affiliatedUrl>
+  </affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>Aviation Industry Corporation of China, Ltd.</name>
+      <address>No. 19 Building, No.5 Courtyard Shuguang Xili</address>
+      <city>Chaoyang District, Beijing</city>
+      <state>
+      </state>
+      <country>CHN</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>29.36</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>AVIC Automotive Systems Holding Co., Ltd.</name>
+      <address>No.19 Building, No.5 Courtyard, Shuguang Xili</address>
+      <city>Chaoyang District, Beijing</city>
+      <state>
+      </state>
+      <country>CHN</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>34.20</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Beijing E-Town International Investment and Management Co., Ltd.</name>
+      <address>No. 61 Building, BDA International Enterprise</address>
+      <city>Beijing</city>
+      <state>
+      </state>
+      <country>CHN</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>32.86</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Pacific Century Motors, Inc. </name>
+      <address>6/F, Suite 61, No. 2 Jingyuan (N) St.</address>
+      <city>Beijing</city>
+      <state>
+      </state>
+      <country>CHN</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>67.06</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Nexteer Automotive Group Limited</name>
+      <address>P.O. Box 309, Ugland House</address>
+      <city>Grand Cayman, KY1-1104</city>
+      <state>
+      </state>
+      <country>CAY</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Nexteer UK Holding Ltd.</name>
+      <address>100 New Bridge Street</address>
+      <city>London</city>
+      <state>
+      </state>
+      <country>GBR</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Nexteer Poland Holding sp. z.o.o.</name>
+      <address>Towarowa 6 </address>
+      <city>Tychy</city>
+      <state>
+      </state>
+      <country>POL</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Nexteer Luxembourg Holding IV S.a r.l.</name>
+      <address>8-10, Avenue de la Gare</address>
+      <city>L - 1610 Luxembourg</city>
+      <state>
+      </state>
+      <country>LUX</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Nexteer Luxembourg Holding V S.a r.l.</name>
+      <address>8-10, avenue de la Gare</address>
+      <city>L - 1610 Luxembourg</city>
+      <state>
+      </state>
+      <country>LUX</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>49.9</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Beijing E-Town International Investment and Development Co., Ltd.</name>
+      <address>No. 61 Building, BDA International Enterprise</address>
+      <city>Beijing</city>
+      <state>
+      </state>
+      <country>CHN</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>32.86</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>Nexteer Automotive (Hong Kong) Holdings Limited</name>
+      <address>6/F., 61st Building, No.2 Jingyuan North St.</address>
+      <city>Beijing PRC</city>
+      <state>
+      </state>
+      <country>HKG</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>67.06</ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>5/1/2018</effectiveDate>
+  <printedName>Renae D. Moore</printedName>
+  <signedDate>6/14/2018 4:48:21 PM</signedDate>
+</LOBBYINGDISCLOSURE1>

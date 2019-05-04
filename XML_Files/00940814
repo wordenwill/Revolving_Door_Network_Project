@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld1webpage.xsl'?>
+<LOBBYINGDISCLOSURE1>
+  <imported>N</imported>
+  <pages>2</pages>
+  <regType>2</regType>
+  <organizationName>Roberti Global (fka Roberti White, LLC)</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <address1>900 G Street NW</address1>
+  <address2>Suite 301</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20001</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <registrantGeneralDescription>Lobbying Firm</registrantGeneralDescription>
+  <selfSelect>N</selfSelect>
+  <clientName>Assured Guaranty Municipal Corp.</clientName>
+  <clientAddress>1633 Broadway</clientAddress>
+  <clientCity>New York</clientCity>
+  <clientState>NY</clientState>
+  <clientZip>10019</clientZip>
+  <clientZipExt>
+  </clientZipExt>
+  <clientCountry>USA</clientCountry>
+  <prinClientCity>
+  </prinClientCity>
+  <prinClientState>
+  </prinClientState>
+  <prinClientZip>
+  </prinClientZip>
+  <prinClientZipExt>
+  </prinClientZipExt>
+  <prinClientCountry>
+  </prinClientCountry>
+  <clientGeneralDescription>Provider of municipal bond insurance and financial guarantees</clientGeneralDescription>
+  <senateID>400762305</senateID>
+  <houseID>417200042</houseID>
+  <lobbyists>
+    <lobbyist>
+      <lobbyistFirstName>Vincent</lobbyistFirstName>
+      <lobbyistLastName>Roberti</lobbyistLastName>
+      <lobbyistSuffix>Sr.</lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Steven </lobbyistFirstName>
+      <lobbyistLastName>Irizarry</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Counsel, House Energy &amp; Commerce Committee; Counsel, Senate Special Committee on Aging; Counsel, Senate HELP; Counsel, Senator Chuck Hagel</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Drew</lobbyistFirstName>
+      <lobbyistLastName>Cole</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Intern for Senator Don Nickels (R-OK)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Lydia</lobbyistFirstName>
+      <lobbyistLastName>Strunk</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>Deputy Floor Director Speaker Ryan (2015-17); Deputy Floor Director Speaker Boehner (2013-15); House Rules Committee 2011-13; House Republican Cloakroom Floor Assistant 2008-2011 (Minority Leader Boehner/Speaker Boehner)</coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+    <lobbyist>
+      <lobbyistFirstName>Michael</lobbyistFirstName>
+      <lobbyistLastName>Piersall</lobbyistLastName>
+      <lobbyistSuffix>
+      </lobbyistSuffix>
+      <coveredPosition>
+      </coveredPosition>
+      <lobbyistNew>Y</lobbyistNew>
+    </lobbyist>
+  </lobbyists>
+  <alis>
+    <ali_Code>FIN</ali_Code>
+    <ali_Code>MMM</ali_Code>
+    <ali_Code>BUD</ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+    <ali_Code>
+    </ali_Code>
+  </alis>
+  <specific_issues>FIN - Legislative proposals that would amend federal bankruptcy code with respect to Puerto Rico or otherwise impact the municipal bond market.
+MMM - Legislative proposals impacting Medicaid, specifically those affecting Puerto Rico.
+BUD - Legislative proposals impacting Puerto Rico.</specific_issues>
+  <affiliatedUrl>assuredguaranty.com</affiliatedUrl>
+  <affiliatedOrgs>
+    <affiliatedOrg>
+      <affiliatedOrgName>Assured Guaranty Corp.</affiliatedOrgName>
+      <affiliatedOrgAddress>1633 Broadway</affiliatedOrgAddress>
+      <affiliatedOrgCity>New York</affiliatedOrgCity>
+      <affiliatedOrgState>NY</affiliatedOrgState>
+      <affiliatedOrgZip>10019</affiliatedOrgZip>
+      <affiliatedOrgCountry>USA</affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>New York</affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>NY</affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>USA</affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+    <affiliatedOrg>
+      <affiliatedOrgName>
+      </affiliatedOrgName>
+      <affiliatedOrgAddress>
+      </affiliatedOrgAddress>
+      <affiliatedOrgCity>
+      </affiliatedOrgCity>
+      <affiliatedOrgState>
+      </affiliatedOrgState>
+      <affiliatedOrgZip>
+      </affiliatedOrgZip>
+      <affiliatedOrgCountry>
+      </affiliatedOrgCountry>
+      <affiliatedPrinOrgCity>
+      </affiliatedPrinOrgCity>
+      <affiliatedPrinOrgState>
+      </affiliatedPrinOrgState>
+      <affiliatedPrinOrgCountry>
+      </affiliatedPrinOrgCountry>
+    </affiliatedOrg>
+  </affiliatedOrgs>
+  <foreignEntities>
+    <foreignEntity>
+      <name>Assured Guaranty Ltd.</name>
+      <address>30 Woodbourne Ave.</address>
+      <city>Hamilton</city>
+      <state>
+      </state>
+      <country>BER</country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>0</contribution>
+      <ownership_Percentage>100</ownership_Percentage>
+    </foreignEntity>
+    <foreignEntity>
+      <name>
+      </name>
+      <address>
+      </address>
+      <city>
+      </city>
+      <state>
+      </state>
+      <country>
+      </country>
+      <prinCity>
+      </prinCity>
+      <prinState>
+      </prinState>
+      <prinCountry>
+      </prinCountry>
+      <contribution>
+      </contribution>
+      <ownership_Percentage>
+      </ownership_Percentage>
+    </foreignEntity>
+  </foreignEntities>
+  <reportYear>2018</reportYear>
+  <reportType>RR</reportType>
+  <effectiveDate>1/15/2018</effectiveDate>
+  <printedName>Vincent Roberti Sr. </printedName>
+  <signedDate>2/28/2018 1:45:22 PM</signedDate>
+</LOBBYINGDISCLOSURE1>
